@@ -1,11 +1,11 @@
+
 import requests
 import matplotlib.pyplot as plt
 
-# quick script to grab student scores and plot a bar chart
-# falls back to dummy data if the endpoint isn't live yet
-
+# API endpoint from which we'll try to fetch the student scores
 ENDPOINT_URL = "https://example.com/api/students/scores"
 
+# Keeping some sample records handy in case the API is unavailable
 FALLBACK_DATA = [
     {"name": "Aarav", "score": 78},
     {"name": "Isha", "score": 91},
@@ -16,6 +16,11 @@ FALLBACK_DATA = [
 
 
 def fetch_student_scores(url):
+    """
+    Tries to fetch student names and their test scores from the given API.
+    If the request fails, it uses the sample data defined above so the
+    rest of the script can still run.
+    """
     try:
         response = requests.get(url, timeout=5)
         response.raise_for_status()
@@ -26,8 +31,13 @@ def fetch_student_scores(url):
 
 
 def main():
+    """
+    Fetches the student scores, calculates the class average and creates
+    a bar chart to make it easier to compare everyone's performance.
+    The chart is also saved as an image for later reference.
+    """
     records = fetch_student_scores(ENDPOINT_URL)
-
+    
     student_names = []
     test_scores = []
 
@@ -35,12 +45,15 @@ def main():
         student_names.append(entry["name"])
         test_scores.append(entry["score"])
 
+    # Calculate the average score across all students
     class_avg = sum(test_scores) / len(test_scores)
     print(f"Class average: {class_avg:.2f}")
 
-    # build the bar chart
+    # Create a bar chart to compare individual student scores
     plt.figure(figsize=(8, 5))
     plt.bar(student_names, test_scores, color="steelblue")
+
+    # The dashed line helps show where the class average stands
     plt.axhline(class_avg, color="crimson", linestyle="--", label=f"Avg: {class_avg:.1f}")
 
     plt.xlabel("Student")
@@ -49,6 +62,7 @@ def main():
     plt.legend()
     plt.tight_layout()
 
+    
     plt.savefig("scores.png", dpi=150)
     plt.show()
 
