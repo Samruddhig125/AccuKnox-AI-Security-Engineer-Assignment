@@ -1,0 +1,2001 @@
+EmployeeID,EmployeeName,Department,Designation,Manager,Location,JoiningDate,Experience_Years,WorkMode
+EMP0001,Cheryl Adams,Sales,Manager,MGR-SAL-1,Mumbai,2025-02-04,3.2,Hybrid
+EMP0002,Lindsey Russo,Data Science,Software Engineer,MGR-DAT-1,Mumbai,2023-06-05,5.5,Hybrid
+EMP0003,Philip Ramsey,Customer Support,Associate,MGR-CUS-3,Ahmedabad,2025-05-09,3.5,Office
+EMP0004,Karen Booth,IT Operations,Manager,MGR-IT -2,Mumbai,2023-02-06,3.9,Remote
+EMP0005,Tyler Smith,Engineering,Software Engineer,MGR-ENG-2,Mumbai,2024-02-09,2.9,Hybrid
+EMP0006,Tonya Wilson,Engineering,Principal Engineer,MGR-ENG-2,Delhi NCR,2018-11-22,8.4,Office
+EMP0007,Mrs. Dana Munoz MD,Engineering,Team Lead,MGR-ENG-1,Bangalore,2020-05-02,7.3,Hybrid
+EMP0008,Kristen Rowe,R&D,Software Engineer,MGR-R&D-5,Delhi NCR,2020-10-26,6.9,Office
+EMP0009,Joseph Howard,IT Operations,Manager,MGR-IT -1,Pune,2019-02-28,9.4,Hybrid
+EMP0010,Jose Crawford,Customer Support,Software Engineer,MGR-CUS-5,Bangalore,2020-05-16,6.3,Office
+EMP0011,William Harrison,Engineering,Senior Analyst,MGR-ENG-4,Pune,2019-05-01,7.3,Hybrid
+EMP0012,Suzanne Wood,Data Science,Senior Analyst,MGR-DAT-1,Pune,2020-09-23,7.0,Office
+EMP0013,Justin Walker,R&D,Director,MGR-R&D-1,Ahmedabad,2023-07-25,5.1,Hybrid
+EMP0014,Dean Donovan,AI,Team Lead,MGR-AI-1,Pune,2021-06-02,5.7,Office
+EMP0015,Jennifer Hernandez,AI,Senior Engineer,MGR-AI-2,Bangalore,2021-06-17,7.0,Hybrid
+EMP0016,James Whitaker,AI,Analyst,MGR-AI-2,Bangalore,2020-03-09,7.1,Hybrid
+EMP0017,Mr. Michael Scott PhD,Sales,Software Engineer,MGR-SAL-5,Mumbai,2020-08-23,8.5,Office
+EMP0018,Maria Henry,Finance,Team Lead,MGR-FIN-5,Ahmedabad,2025-12-11,3.3,Hybrid
+EMP0019,Robert Jackson,Marketing,Team Lead,MGR-MAR-1,Pune,2023-08-30,3.8,Office
+EMP0020,Katherine Stark,Sales,Software Engineer,MGR-SAL-5,Chennai,2023-05-09,3.9,Hybrid
+EMP0021,Maria Brown,IT Operations,Senior Engineer,MGR-IT -2,Jaipur,2019-11-19,7.9,Office
+EMP0022,Ryan Landry,Engineering,Senior Analyst,MGR-ENG-5,Hyderabad,2024-04-20,3.0,Hybrid
+EMP0023,Pamela Gutierrez,Sales,Senior Analyst,MGR-SAL-4,Jaipur,2019-10-28,8.7,Hybrid
+EMP0024,Crystal Mann,Sales,Software Engineer,MGR-SAL-2,Pune,2021-07-14,7.5,Office
+EMP0025,Jonathan Brooks,Marketing,Software Engineer,MGR-MAR-4,Bangalore,2026-05-13,2.2,Office
+EMP0026,Mary Jensen,Legal,Software Engineer,MGR-LEG-5,Mumbai,2023-08-06,5.4,Office
+EMP0027,Mr. Aaron Arnold,AI,Associate,MGR-AI-3,Chennai,2022-12-09,4.8,Hybrid
+EMP0028,Joseph Hill,Finance,Software Engineer,MGR-FIN-1,Nagpur,2023-12-13,3.1,Office
+EMP0029,Alicia Li,IT Operations,Analyst,MGR-IT -2,Mumbai,2025-03-15,3.5,Office
+EMP0030,Renee Browning,Engineering,Software Engineer,MGR-ENG-4,Hyderabad,2024-09-03,2.9,Hybrid
+EMP0031,Brent Hernandez,IT Operations,Manager,MGR-IT -3,Pune,2020-05-05,8.2,Office
+EMP0032,Joseph Ochoa,AI,Senior Engineer,MGR-AI-3,Hyderabad,2018-10-13,8.6,Hybrid
+EMP0033,James Watson,Engineering,Senior Analyst,MGR-ENG-2,Bangalore,2021-01-10,5.7,Office
+EMP0034,Karl Branch,Data Science,Software Engineer,MGR-DAT-2,Nagpur,2020-08-25,8.9,Office
+EMP0035,Michael Abbott,Data Science,Manager,MGR-DAT-3,Hyderabad,2020-03-14,6.8,Hybrid
+EMP0036,Shannon Malone,Procurement,Software Engineer,MGR-PRO-1,Mumbai,2025-12-29,3.5,Office
+EMP0037,James Tran,Sales,Analyst,MGR-SAL-1,Pune,2025-06-20,4.0,Office
+EMP0038,Adam Jackson,Engineering,Associate,MGR-ENG-4,Pune,2021-01-08,7.9,Hybrid
+EMP0039,Mr. Richard Knight PhD,Customer Support,Software Engineer,MGR-CUS-1,Mumbai,2023-09-20,4.8,Office
+EMP0040,Joseph Williams,Marketing,Associate,MGR-MAR-3,Mumbai,2021-08-30,6.6,Remote
+EMP0041,Sean Clay,Engineering,Team Lead,MGR-ENG-3,Kolkata,2025-10-08,3.4,Remote
+EMP0042,Anthony Jones,Finance,Software Engineer,MGR-FIN-5,Hyderabad,2022-02-28,5.2,Office
+EMP0043,Stephanie Elliott,Engineering,Senior Engineer,MGR-ENG-3,Bangalore,2020-08-17,7.3,Office
+EMP0044,Timothy Edwards,R&D,Software Engineer,MGR-R&D-1,Pune,2020-06-25,7.9,Hybrid
+EMP0045,Laurie Goodwin,AI,Analyst,MGR-AI-4,Kolkata,2022-12-22,4.8,Office
+EMP0046,Jennifer Jones,IT Operations,Analyst,MGR-IT -5,Chennai,2020-08-10,7.2,Office
+EMP0047,David Davenport,Sales,Software Engineer,MGR-SAL-1,Pune,2023-02-27,4.4,Hybrid
+EMP0048,Steven Rivera,Finance,Team Lead,MGR-FIN-4,Chennai,2025-08-21,2.6,Office
+EMP0049,Brenda Hinton,HR,Senior Analyst,MGR-HR-1,Bangalore,2021-09-10,7.4,Hybrid
+EMP0050,Kathryn Mccann,AI,Associate,MGR-AI-5,Pune,2020-04-07,6.9,Office
+EMP0051,Jeffrey Roberson,Data Science,Team Lead,MGR-DAT-3,Bangalore,2026-06-05,2.9,Office
+EMP0052,Randy Friedman,Legal,Principal Engineer,MGR-LEG-5,Bangalore,2022-07-25,6.0,Office
+EMP0053,Raymond Johnson,Data Science,Team Lead,MGR-DAT-3,Pune,2019-04-01,9.8,Remote
+EMP0054,Willie Henry,R&D,Senior Engineer,MGR-R&D-5,Jaipur,2018-11-26,9.3,Hybrid
+EMP0055,Todd Reynolds,IT Operations,Senior Analyst,MGR-IT -2,Kolkata,2019-05-26,9.5,Hybrid
+EMP0056,Mary Miller,R&D,Team Lead,MGR-R&D-1,Chennai,2023-07-01,3.1,Office
+EMP0057,Rebecca Marquez,Engineering,Senior Engineer,MGR-ENG-1,Bangalore,2024-10-19,4.2,Office
+EMP0058,Christian Dawson,AI,Team Lead,MGR-AI-2,Bangalore,2021-11-14,4.8,Office
+EMP0059,Nancy Stewart,Engineering,Senior Analyst,MGR-ENG-3,Hyderabad,2019-01-12,10.2,Office
+EMP0060,Aaron Parker,Sales,Senior Analyst,MGR-SAL-1,Bangalore,2021-07-20,8.0,Hybrid
+EMP0061,Derrick Anderson,Sales,Senior Engineer,MGR-SAL-2,Pune,2026-06-01,1.0,Hybrid
+EMP0062,Jerry Peters,Sales,Senior Engineer,MGR-SAL-1,Bangalore,2022-09-20,4.4,Office
+EMP0063,Alexander Gomez,Procurement,Team Lead,MGR-PRO-4,Delhi NCR,2026-03-21,2.6,Remote
+EMP0064,Kyle Nguyen,Sales,Team Lead,MGR-SAL-3,Bangalore,2025-05-06,1.9,Office
+EMP0065,Edgar Hughes,Sales,Software Engineer,MGR-SAL-4,Pune,2018-08-15,10.5,Remote
+EMP0066,Steven Stein,HR,Senior Analyst,MGR-HR-3,Delhi NCR,2024-03-27,2.6,Office
+EMP0067,Laura Jackson,Engineering,Team Lead,MGR-ENG-2,Pune,2023-12-05,3.0,Office
+EMP0068,Charles Turner,Procurement,Senior Engineer,MGR-PRO-3,Mumbai,2022-10-12,6.7,Office
+EMP0069,Arthur Hamilton MD,Engineering,Software Engineer,MGR-ENG-3,Pune,2020-08-22,7.9,Office
+EMP0070,Mr. David Wright,Data Science,Software Engineer,MGR-DAT-2,Mumbai,2023-08-09,5.5,Hybrid
+EMP0071,Linda Gonzalez,Legal,Principal Engineer,MGR-LEG-3,Delhi NCR,2019-05-31,8.1,Office
+EMP0072,Eric Rush,AI,Senior Engineer,MGR-AI-1,Bangalore,2021-12-21,6.6,Office
+EMP0073,Manuel Brock,Engineering,Software Engineer,MGR-ENG-5,Pune,2022-02-14,6.2,Hybrid
+EMP0074,George Ochoa,Procurement,Senior Engineer,MGR-PRO-2,Kolkata,2026-01-30,2.3,Hybrid
+EMP0075,Valerie Taylor,Customer Support,Senior Engineer,MGR-CUS-5,Kolkata,2025-06-18,3.1,Hybrid
+EMP0076,Travis Harris,Customer Support,Software Engineer,MGR-CUS-2,Kolkata,2020-08-12,7.6,Office
+EMP0077,Vincent Novak,Legal,Senior Engineer,MGR-LEG-2,Mumbai,2022-06-29,5.3,Hybrid
+EMP0078,Michael Henry,Engineering,Team Lead,MGR-ENG-4,Bangalore,2019-12-11,7.4,Hybrid
+EMP0079,Dana Bennett,Sales,Team Lead,MGR-SAL-4,Nagpur,2025-10-03,3.1,Office
+EMP0080,Jenna Wilson,Engineering,Senior Engineer,MGR-ENG-3,Delhi NCR,2025-06-03,1.8,Office
+EMP0081,Leslie Gardner,R&D,Senior Engineer,MGR-R&D-5,Pune,2020-11-22,7.7,Office
+EMP0082,Krista Benton,IT Operations,Principal Engineer,MGR-IT -2,Pune,2023-08-03,3.6,Office
+EMP0083,Michael Gonzales,Sales,Senior Engineer,MGR-SAL-3,Bangalore,2023-05-09,5.1,Office
+EMP0084,Michael Fuentes,Engineering,Software Engineer,MGR-ENG-1,Ahmedabad,2019-09-28,9.0,Office
+EMP0085,Jennifer Porter,Sales,Software Engineer,MGR-SAL-2,Bangalore,2024-07-26,2.6,Hybrid
+EMP0086,Dana Hopkins,Sales,Senior Engineer,MGR-SAL-1,Bangalore,2022-10-19,3.9,Hybrid
+EMP0087,Rachel Jones,Customer Support,Analyst,MGR-CUS-3,Pune,2024-09-10,2.2,Remote
+EMP0088,Karen Morales DDS,IT Operations,Software Engineer,MGR-IT -4,Hyderabad,2022-09-23,5.6,Hybrid
+EMP0089,Melissa Stephens,R&D,Analyst,MGR-R&D-3,Delhi NCR,2018-07-14,10.5,Office
+EMP0090,Heather Woodard,Finance,Software Engineer,MGR-FIN-1,Bangalore,2021-02-04,5.6,Hybrid
+EMP0091,Margaret Miller,Engineering,Senior Engineer,MGR-ENG-2,Delhi NCR,2018-09-07,10.0,Hybrid
+EMP0092,Mary Kelly,Customer Support,Analyst,MGR-CUS-5,Jaipur,2025-11-19,1.7,Office
+EMP0093,Amanda Terrell,Legal,Senior Engineer,MGR-LEG-3,Pune,2025-06-27,2.5,Hybrid
+EMP0094,Jennifer Goodwin,HR,Team Lead,MGR-HR-2,Bangalore,2025-02-11,4.2,Remote
+EMP0095,Jessica Smith,Legal,Software Engineer,MGR-LEG-4,Mumbai,2020-12-18,6.6,Office
+EMP0096,Jorge Stone,Finance,Analyst,MGR-FIN-4,Delhi NCR,2018-12-27,8.9,Remote
+EMP0097,Laura Griffin,Finance,Software Engineer,MGR-FIN-4,Hyderabad,2025-06-25,1.1,Office
+EMP0098,Raymond Chapman,Marketing,Senior Analyst,MGR-MAR-2,Hyderabad,2026-01-10,0.7,Office
+EMP0099,Haley Johnson,Engineering,Software Engineer,MGR-ENG-3,Delhi NCR,2019-03-17,8.1,Office
+EMP0100,Jason Nixon,Engineering,Associate,MGR-ENG-2,Bangalore,2022-05-18,4.2,Hybrid
+EMP0101,Todd Thomas,Engineering,Senior Engineer,MGR-ENG-2,Ahmedabad,2019-01-29,9.3,Hybrid
+EMP0102,Jesse Clark,IT Operations,Analyst,MGR-IT -5,Bangalore,2024-07-20,3.3,Remote
+EMP0103,Mr. Jeffrey Horton,Sales,Senior Engineer,MGR-SAL-5,Pune,2024-08-04,3.6,Office
+EMP0104,Eric Patrick,Finance,Associate,MGR-FIN-3,Chennai,2019-07-19,7.5,Office
+EMP0105,Samuel Wong,R&D,Software Engineer,MGR-R&D-5,Delhi NCR,2022-04-17,5.1,Hybrid
+EMP0106,Carly Riggs,AI,Software Engineer,MGR-AI-4,Mumbai,2022-11-19,5.6,Hybrid
+EMP0107,Christopher Moore,Marketing,Team Lead,MGR-MAR-5,Kolkata,2020-08-17,8.8,Office
+EMP0108,Tina Hall,Customer Support,Software Engineer,MGR-CUS-4,Ahmedabad,2025-06-09,1.2,Office
+EMP0109,Cody Davidson,AI,Software Engineer,MGR-AI-3,Mumbai,2021-11-17,7.3,Hybrid
+EMP0110,Allen Mendez,Engineering,Principal Engineer,MGR-ENG-2,Nagpur,2020-03-16,8.1,Hybrid
+EMP0111,Kevin Price,Sales,Director,MGR-SAL-2,Pune,2022-10-19,5.4,Office
+EMP0112,Christine Goodwin,AI,Senior Engineer,MGR-AI-5,Pune,2024-04-22,3.7,Office
+EMP0113,Amy Garcia,R&D,Associate,MGR-R&D-4,Pune,2020-02-14,6.6,Remote
+EMP0114,Chelsea Nguyen,Procurement,Team Lead,MGR-PRO-1,Ahmedabad,2020-12-30,5.8,Hybrid
+EMP0115,Dennis Huffman,IT Operations,Software Engineer,MGR-IT -1,Hyderabad,2026-05-29,1.9,Office
+EMP0116,Margaret Harper,R&D,Analyst,MGR-R&D-1,Pune,2023-09-04,3.9,Office
+EMP0117,Laurie Bailey,Procurement,Manager,MGR-PRO-2,Bangalore,2021-12-30,7.3,Hybrid
+EMP0118,Lisa Cervantes,AI,Director,MGR-AI-2,Hyderabad,2022-08-17,5.1,Office
+EMP0119,Elizabeth Mendez,R&D,Software Engineer,MGR-R&D-4,Pune,2019-06-27,7.5,Office
+EMP0120,Cesar Wilson,Finance,Manager,MGR-FIN-5,Ahmedabad,2020-04-22,8.4,Office
+EMP0121,Clayton Steele,Procurement,Software Engineer,MGR-PRO-1,Delhi NCR,2021-03-16,6.2,Office
+EMP0122,Jennifer Taylor,R&D,Software Engineer,MGR-R&D-4,Bangalore,2023-03-10,4.9,Hybrid
+EMP0123,Cody Reid,Sales,Software Engineer,MGR-SAL-4,Jaipur,2020-05-08,8.3,Office
+EMP0124,Maria Cooke,Engineering,VP,MGR-ENG-5,Bangalore,2020-04-09,9.0,Hybrid
+EMP0125,Katherine Taylor,AI,Senior Analyst,MGR-AI-4,Nagpur,2019-02-03,9.8,Office
+EMP0126,Jerry Brown,Marketing,Senior Analyst,MGR-MAR-5,Chennai,2023-07-12,5.0,Office
+EMP0127,Adam Taylor,Procurement,Team Lead,MGR-PRO-3,Hyderabad,2020-05-05,8.2,Office
+EMP0128,Tracey Wagner,R&D,Senior Engineer,MGR-R&D-5,Pune,2025-09-12,3.7,Remote
+EMP0129,Michael Perry PhD,Engineering,Software Engineer,MGR-ENG-1,Ahmedabad,2025-05-03,2.1,Hybrid
+EMP0130,Bradley Johnson DDS,Finance,Senior Engineer,MGR-FIN-1,Bangalore,2019-02-02,7.4,Office
+EMP0131,Donald Medina,Marketing,Senior Engineer,MGR-MAR-5,Pune,2020-05-31,6.9,Hybrid
+EMP0132,Jim Newton,AI,Analyst,MGR-AI-3,Pune,2023-10-29,3.4,Hybrid
+EMP0133,Krista Wilson,Engineering,Team Lead,MGR-ENG-3,Bangalore,2020-03-23,8.3,Remote
+EMP0134,Reginald Morrow,Sales,Software Engineer,MGR-SAL-1,Bangalore,2019-07-30,8.9,Office
+EMP0135,Rodney Williams,Data Science,Software Engineer,MGR-DAT-3,Chennai,2025-12-08,2.4,Hybrid
+EMP0136,Kimberly Fritz,Sales,Software Engineer,MGR-SAL-4,Ahmedabad,2023-01-19,3.5,Office
+EMP0137,Ronald Potter,Finance,Senior Engineer,MGR-FIN-2,Pune,2022-04-09,6.4,Office
+EMP0138,Zachary Cole,Customer Support,Associate,MGR-CUS-4,Chennai,2024-09-28,2.8,Remote
+EMP0139,Robert Gonzales,Sales,Manager,MGR-SAL-1,Pune,2024-12-03,3.6,Office
+EMP0140,Patricia Young PhD,Data Science,Senior Analyst,MGR-DAT-3,Kolkata,2020-01-14,8.2,Office
+EMP0141,Heather Page,Data Science,Senior Engineer,MGR-DAT-5,Delhi NCR,2019-04-19,8.3,Office
+EMP0142,Carol Taylor,AI,Senior Engineer,MGR-AI-2,Bangalore,2021-12-10,5.0,Hybrid
+EMP0143,Daniel Brown,Finance,Software Engineer,MGR-FIN-5,Chennai,2021-11-18,4.9,Hybrid
+EMP0144,Douglas Ryan,Sales,Associate,MGR-SAL-1,Mumbai,2022-03-24,6.8,Office
+EMP0145,Michael Roberts,Sales,Senior Analyst,MGR-SAL-3,Bangalore,2024-04-20,5.0,Remote
+EMP0146,Scott Duke,Engineering,Software Engineer,MGR-ENG-5,Delhi NCR,2023-11-11,4.6,Office
+EMP0147,Anna Estes,IT Operations,Team Lead,MGR-IT -5,Bangalore,2026-04-28,0.5,Office
+EMP0148,Tamara Riddle,Finance,Team Lead,MGR-FIN-2,Mumbai,2019-04-23,8.4,Remote
+EMP0149,Beth Cline,Engineering,Manager,MGR-ENG-2,Bangalore,2021-09-19,7.0,Office
+EMP0150,Michael Poole,Sales,Principal Engineer,MGR-SAL-3,Delhi NCR,2021-03-20,7.7,Office
+EMP0151,Megan Burns,R&D,Team Lead,MGR-R&D-2,Mumbai,2025-05-08,1.5,Office
+EMP0152,Debra Perry,AI,Team Lead,MGR-AI-5,Pune,2020-07-01,6.0,Hybrid
+EMP0153,Mark Beard,Engineering,Software Engineer,MGR-ENG-5,Chennai,2020-01-14,8.6,Office
+EMP0154,Jose Ramirez,Finance,Software Engineer,MGR-FIN-1,Delhi NCR,2022-01-30,5.5,Remote
+EMP0155,Jackie Clements,Data Science,Software Engineer,MGR-DAT-5,Pune,2021-11-14,5.4,Hybrid
+EMP0156,Aaron Schroeder,AI,Software Engineer,MGR-AI-3,Mumbai,2020-09-25,5.8,Office
+EMP0157,Monica Ellis,IT Operations,Analyst,MGR-IT -4,Pune,2020-07-04,7.6,Hybrid
+EMP0158,Heather Brown,Legal,Analyst,MGR-LEG-1,Mumbai,2025-11-03,3.2,Office
+EMP0159,Claudia Jordan,AI,Software Engineer,MGR-AI-1,Bangalore,2022-01-14,7.4,Office
+EMP0160,Derrick Clayton,Customer Support,Senior Analyst,MGR-CUS-3,Delhi NCR,2025-05-08,2.9,Hybrid
+EMP0161,Kenneth Knight,Sales,Software Engineer,MGR-SAL-3,Hyderabad,2022-11-20,5.2,Remote
+EMP0162,Mr. Michael Williams,IT Operations,Senior Engineer,MGR-IT -2,Hyderabad,2018-12-06,7.9,Office
+EMP0163,Richard Stevens,IT Operations,Software Engineer,MGR-IT -1,Mumbai,2026-06-10,1.7,Office
+EMP0164,Scott Alexander,Finance,Senior Engineer,MGR-FIN-2,Kolkata,2025-02-23,2.5,Office
+EMP0165,Tyler Harris,Engineering,Software Engineer,MGR-ENG-5,Bangalore,2026-03-15,2.1,Office
+EMP0166,Bonnie Santos,R&D,Team Lead,MGR-R&D-1,Nagpur,2025-11-12,1.8,Office
+EMP0167,Timothy Hill,Sales,Senior Engineer,MGR-SAL-1,Hyderabad,2025-04-01,2.0,Office
+EMP0168,Danielle Watson,AI,Director,MGR-AI-4,Pune,2019-11-05,7.0,Hybrid
+EMP0169,Carol Sanders,Engineering,Software Engineer,MGR-ENG-1,Chennai,2022-05-17,5.1,Office
+EMP0170,Michael Young,IT Operations,Software Engineer,MGR-IT -5,Mumbai,2020-03-22,6.6,Office
+EMP0171,Michele Smith,IT Operations,Software Engineer,MGR-IT -2,Chennai,2021-09-14,5.4,Hybrid
+EMP0172,Casey Perez,Engineering,Manager,MGR-ENG-2,Pune,2018-12-29,10.5,Hybrid
+EMP0173,Alexandra Dominguez,Finance,Software Engineer,MGR-FIN-4,Pune,2021-07-12,6.3,Office
+EMP0174,Virginia Henderson,AI,Senior Analyst,MGR-AI-5,Kolkata,2026-05-01,1.8,Office
+EMP0175,Benjamin Reyes,IT Operations,Team Lead,MGR-IT -2,Mumbai,2020-08-17,8.5,Hybrid
+EMP0176,Ashley Edwards,AI,Team Lead,MGR-AI-3,Kolkata,2024-09-26,4.8,Office
+EMP0177,Breanna Ayala,Customer Support,Team Lead,MGR-CUS-5,Mumbai,2022-02-17,6.1,Office
+EMP0178,Brandi Haney,Sales,Software Engineer,MGR-SAL-5,Hyderabad,2021-11-17,7.1,Hybrid
+EMP0179,Joseph Smith,Data Science,Software Engineer,MGR-DAT-4,Chennai,2026-02-09,1.4,Office
+EMP0180,Jessica Bowen,Engineering,Senior Engineer,MGR-ENG-2,Bangalore,2026-05-30,1.0,Office
+EMP0181,Brittany Jenkins,Sales,Team Lead,MGR-SAL-5,Mumbai,2022-12-06,4.8,Office
+EMP0182,Shannon Miller,Engineering,Software Engineer,MGR-ENG-2,Pune,2024-03-20,4.3,Office
+EMP0183,Paul Lawrence,R&D,Software Engineer,MGR-R&D-3,Pune,2019-10-03,8.8,Office
+EMP0184,Victor Edwards,R&D,Director,MGR-R&D-4,Mumbai,2020-11-17,6.6,Remote
+EMP0185,Donald Miller,AI,Software Engineer,MGR-AI-3,Hyderabad,2026-03-14,0.7,Office
+EMP0186,Lindsay Lawson,IT Operations,Senior Analyst,MGR-IT -4,Jaipur,2023-02-11,5.3,Office
+EMP0187,Melissa Abbott,Procurement,Senior Analyst,MGR-PRO-5,Kolkata,2022-10-28,4.1,Office
+EMP0188,Elizabeth Holmes,HR,Senior Engineer,MGR-HR-4,Delhi NCR,2024-06-14,3.8,Remote
+EMP0189,Nicole Phillips,Finance,Software Engineer,MGR-FIN-1,Delhi NCR,2018-12-25,9.6,Office
+EMP0190,Steven Blevins,AI,Software Engineer,MGR-AI-2,Chennai,2023-02-26,5.5,Office
+EMP0191,Brian Porter MD,Engineering,Analyst,MGR-ENG-2,Mumbai,2022-07-06,6.3,Hybrid
+EMP0192,Vanessa Hatfield,R&D,Manager,MGR-R&D-1,Ahmedabad,2025-04-13,3.9,Office
+EMP0193,Bonnie Valencia,R&D,Senior Analyst,MGR-R&D-3,Chennai,2019-10-11,8.3,Office
+EMP0194,Holly Vega,IT Operations,Associate,MGR-IT -1,Hyderabad,2026-02-19,2.6,Office
+EMP0195,Tiffany Townsend,Sales,Analyst,MGR-SAL-5,Pune,2019-03-01,9.2,Office
+EMP0196,Austin Baker,Sales,Software Engineer,MGR-SAL-5,Bangalore,2020-01-01,7.1,Office
+EMP0197,Antonio Mccormick,Customer Support,Software Engineer,MGR-CUS-2,Bangalore,2023-03-29,3.4,Hybrid
+EMP0198,Lori Mason,R&D,Senior Analyst,MGR-R&D-5,Kolkata,2023-11-16,3.5,Office
+EMP0199,Michael Miller,R&D,Software Engineer,MGR-R&D-2,Bangalore,2020-05-23,7.5,Hybrid
+EMP0200,Lisa Ramirez,Legal,Software Engineer,MGR-LEG-1,Bangalore,2019-06-24,8.9,Office
+EMP0201,Jorge Harris,IT Operations,Analyst,MGR-IT -1,Nagpur,2025-07-30,3.5,Office
+EMP0202,Kimberly Myers,Engineering,Senior Engineer,MGR-ENG-1,Pune,2020-06-24,6.6,Office
+EMP0203,Sandra Becker,AI,Associate,MGR-AI-2,Bangalore,2023-03-28,3.7,Remote
+EMP0204,Michael Blair,R&D,Manager,MGR-R&D-1,Pune,2023-06-08,6.0,Office
+EMP0205,Amy Miller,IT Operations,Software Engineer,MGR-IT -1,Chennai,2021-11-06,5.0,Hybrid
+EMP0206,Jesse Lynch,Engineering,Principal Engineer,MGR-ENG-3,Ahmedabad,2023-02-24,4.8,Office
+EMP0207,Patrick Yang,Engineering,Software Engineer,MGR-ENG-1,Mumbai,2022-09-01,5.6,Office
+EMP0208,Michael Miles,IT Operations,Senior Engineer,MGR-IT -5,Kolkata,2025-12-06,2.2,Office
+EMP0209,Troy Mills,Engineering,Senior Engineer,MGR-ENG-2,Mumbai,2020-02-23,6.6,Office
+EMP0210,Michelle Jackson,AI,Software Engineer,MGR-AI-3,Ahmedabad,2024-03-14,2.5,Office
+EMP0211,Richard Adams,HR,Team Lead,MGR-HR-4,Delhi NCR,2020-06-02,6.4,Office
+EMP0212,Patricia Johnson,Customer Support,Software Engineer,MGR-CUS-2,Delhi NCR,2021-08-30,6.6,Hybrid
+EMP0213,Denise Brown,IT Operations,Senior Engineer,MGR-IT -5,Pune,2023-11-06,4.3,Office
+EMP0214,Laura Jones,AI,Senior Engineer,MGR-AI-2,Jaipur,2020-11-26,6.3,Hybrid
+EMP0215,Ian Porter,Customer Support,Analyst,MGR-CUS-5,Chennai,2021-01-12,7.4,Office
+EMP0216,Holly Scott,AI,Senior Analyst,MGR-AI-5,Mumbai,2024-06-25,4.5,Office
+EMP0217,Kenneth Sharp,Sales,Software Engineer,MGR-SAL-4,Delhi NCR,2019-02-07,7.6,Hybrid
+EMP0218,Jordan Williams,Customer Support,Senior Engineer,MGR-CUS-2,Mumbai,2022-02-27,5.9,Office
+EMP0219,Dana Ruiz,IT Operations,Senior Engineer,MGR-IT -4,Kolkata,2026-06-08,2.2,Office
+EMP0220,Chris Velazquez,R&D,Software Engineer,MGR-R&D-4,Pune,2026-06-01,0.9,Hybrid
+EMP0221,Kristen Sloan,IT Operations,Senior Analyst,MGR-IT -2,Chennai,2019-02-09,8.3,Hybrid
+EMP0222,Jennifer Morris,HR,Analyst,MGR-HR-1,Bangalore,2020-03-20,8.2,Office
+EMP0223,Nathan Nelson,Engineering,Software Engineer,MGR-ENG-1,Pune,2020-08-17,8.6,Office
+EMP0224,Jake Shaw,Sales,Senior Engineer,MGR-SAL-4,Mumbai,2025-12-01,3.0,Hybrid
+EMP0225,Cassie Brock,AI,Software Engineer,MGR-AI-3,Pune,2025-07-03,2.8,Office
+EMP0226,Dr. Andrea Marshall,AI,Manager,MGR-AI-4,Bangalore,2025-06-28,3.2,Hybrid
+EMP0227,Ryan Murphy,Data Science,Software Engineer,MGR-DAT-4,Mumbai,2021-06-15,6.2,Office
+EMP0228,Aimee Gonzalez,Marketing,Director,MGR-MAR-4,Hyderabad,2019-10-12,8.7,Office
+EMP0229,Elizabeth Dean,R&D,Senior Analyst,MGR-R&D-1,Mumbai,2025-02-17,2.8,Hybrid
+EMP0230,Kevin Snyder,IT Operations,Senior Engineer,MGR-IT -1,Mumbai,2024-02-06,3.0,Office
+EMP0231,Christie Mccullough,Procurement,Team Lead,MGR-PRO-1,Delhi NCR,2023-05-16,5.3,Office
+EMP0232,Danielle Smith,Finance,Associate,MGR-FIN-4,Pune,2026-05-07,1.9,Office
+EMP0233,David Reed,HR,Team Lead,MGR-HR-3,Ahmedabad,2023-09-16,3.9,Hybrid
+EMP0234,Sherry Tapia,Finance,Software Engineer,MGR-FIN-1,Kolkata,2018-08-04,10.7,Hybrid
+EMP0235,Matthew Sweeney,AI,Senior Engineer,MGR-AI-2,Chennai,2024-12-31,1.6,Office
+EMP0236,Ashley Moreno,Customer Support,Senior Analyst,MGR-CUS-2,Hyderabad,2020-11-24,6.6,Office
+EMP0237,Johnathan Brown,Sales,Manager,MGR-SAL-2,Ahmedabad,2023-10-13,2.9,Hybrid
+EMP0238,Michelle Davis DVM,Engineering,Manager,MGR-ENG-5,Pune,2025-12-18,2.9,Hybrid
+EMP0239,Kelly Haynes,IT Operations,Associate,MGR-IT -4,Pune,2019-08-05,9.0,Hybrid
+EMP0240,William Miller,AI,Associate,MGR-AI-2,Mumbai,2019-06-11,8.1,Office
+EMP0241,Casey Wilkins,Data Science,Associate,MGR-DAT-4,Delhi NCR,2019-05-18,9.2,Hybrid
+EMP0242,Keith Graham,Data Science,Software Engineer,MGR-DAT-2,Pune,2022-11-28,4.8,Hybrid
+EMP0243,Cynthia Green,R&D,Team Lead,MGR-R&D-3,Hyderabad,2020-09-07,8.1,Office
+EMP0244,Robert Haynes,Sales,Analyst,MGR-SAL-4,Nagpur,2023-04-27,4.6,Office
+EMP0245,Emily Nelson,Engineering,Analyst,MGR-ENG-2,Kolkata,2024-03-18,3.6,Office
+EMP0246,Dale Chan,R&D,Manager,MGR-R&D-1,Bangalore,2020-02-21,9.2,Hybrid
+EMP0247,Brittney Martin,Marketing,Software Engineer,MGR-MAR-4,Pune,2023-07-21,3.7,Office
+EMP0248,Jason Herrera,Data Science,Senior Analyst,MGR-DAT-5,Kolkata,2020-08-14,6.3,Hybrid
+EMP0249,Christine Parker,Data Science,Analyst,MGR-DAT-1,Hyderabad,2022-05-25,5.9,Remote
+EMP0250,Bryan Moore,R&D,Software Engineer,MGR-R&D-1,Pune,2025-09-12,3.7,Hybrid
+EMP0251,Samantha Terry,Sales,Senior Engineer,MGR-SAL-5,Pune,2025-03-24,2.4,Remote
+EMP0252,Russell Murphy,Sales,Software Engineer,MGR-SAL-1,Ahmedabad,2019-04-05,7.5,Remote
+EMP0253,David Kelly,R&D,Senior Engineer,MGR-R&D-1,Chennai,2021-11-18,5.7,Office
+EMP0254,Megan Green,Sales,Software Engineer,MGR-SAL-2,Delhi NCR,2020-09-20,7.3,Hybrid
+EMP0255,Amanda Sullivan MD,AI,Senior Engineer,MGR-AI-2,Kolkata,2018-07-23,8.5,Office
+EMP0256,Danielle Murray,HR,Team Lead,MGR-HR-4,Hyderabad,2024-08-20,3.9,Hybrid
+EMP0257,Brenda Smith,Data Science,Manager,MGR-DAT-4,Bangalore,2023-07-29,6.0,Office
+EMP0258,Vickie Anderson,Customer Support,Manager,MGR-CUS-4,Bangalore,2020-08-08,7.3,Remote
+EMP0259,Jacqueline Mccoy,HR,Senior Analyst,MGR-HR-2,Mumbai,2024-05-25,3.2,Hybrid
+EMP0260,Lauren Green,Engineering,Software Engineer,MGR-ENG-4,Bangalore,2022-11-24,4.8,Hybrid
+EMP0261,Alison Brown,IT Operations,Software Engineer,MGR-IT -1,Delhi NCR,2021-11-30,5.0,Office
+EMP0262,Jill Anderson,Data Science,Senior Analyst,MGR-DAT-2,Hyderabad,2018-08-09,10.6,Office
+EMP0263,Sandra Rivera,Engineering,Software Engineer,MGR-ENG-4,Ahmedabad,2019-02-15,8.7,Hybrid
+EMP0264,Joel Jackson,Finance,Director,MGR-FIN-1,Bangalore,2025-07-09,2.2,Office
+EMP0265,Samantha Foster,R&D,Senior Analyst,MGR-R&D-4,Hyderabad,2025-09-08,2.8,Hybrid
+EMP0266,Michael Thompson,Customer Support,Team Lead,MGR-CUS-3,Hyderabad,2022-11-06,5.0,Office
+EMP0267,Cody Ramirez,Customer Support,Director,MGR-CUS-4,Hyderabad,2025-02-19,3.3,Hybrid
+EMP0268,Amanda Harvey,Customer Support,Software Engineer,MGR-CUS-3,Chennai,2023-02-21,3.6,Office
+EMP0269,Edward Jenkins,Sales,Senior Engineer,MGR-SAL-4,Mumbai,2019-09-14,9.3,Hybrid
+EMP0270,Amy Ramirez,Sales,Manager,MGR-SAL-5,Bangalore,2019-07-16,9.8,Hybrid
+EMP0271,Curtis Wilkerson,Procurement,Senior Engineer,MGR-PRO-4,Pune,2020-12-20,7.5,Office
+EMP0272,Lydia Pham,Procurement,Associate,MGR-PRO-2,Bangalore,2025-08-24,3.7,Office
+EMP0273,Virginia Casey,R&D,Software Engineer,MGR-R&D-2,Bangalore,2024-10-31,2.2,Office
+EMP0274,Joshua Washington,R&D,Team Lead,MGR-R&D-3,Hyderabad,2025-05-06,2.6,Hybrid
+EMP0275,Kathryn Price,Finance,Team Lead,MGR-FIN-2,Jaipur,2025-08-24,2.7,Office
+EMP0276,Francis Robinson,Finance,Manager,MGR-FIN-1,Hyderabad,2020-03-11,8.1,Hybrid
+EMP0277,Paula Brown,Procurement,Software Engineer,MGR-PRO-5,Delhi NCR,2020-07-03,7.2,Office
+EMP0278,Kendra Wang DVM,IT Operations,Senior Engineer,MGR-IT -5,Bangalore,2019-05-06,8.2,Office
+EMP0279,Ariel Sandoval,Customer Support,Senior Analyst,MGR-CUS-1,Hyderabad,2024-09-15,2.2,Office
+EMP0280,Robert Stark,Procurement,Software Engineer,MGR-PRO-3,Pune,2025-07-12,2.2,Office
+EMP0281,Zachary Robinson,R&D,Senior Analyst,MGR-R&D-1,Mumbai,2021-09-30,5.3,Office
+EMP0282,Rebecca Kelly,Sales,Team Lead,MGR-SAL-1,Mumbai,2023-06-11,5.3,Remote
+EMP0283,Sarah Thompson,Sales,Analyst,MGR-SAL-5,Bangalore,2019-10-02,7.4,Hybrid
+EMP0284,Renee Wolfe,Engineering,Analyst,MGR-ENG-4,Pune,2025-11-22,0.8,Office
+EMP0285,Alyssa Haynes,HR,Software Engineer,MGR-HR-5,Pune,2025-05-17,2.8,Hybrid
+EMP0286,Kristy Hart,Engineering,Team Lead,MGR-ENG-5,Mumbai,2026-04-05,2.1,Hybrid
+EMP0287,William Keith,Marketing,Associate,MGR-MAR-2,Nagpur,2024-12-12,4.2,Office
+EMP0288,Eric Henry Jr.,HR,Senior Engineer,MGR-HR-1,Mumbai,2025-07-05,2.8,Office
+EMP0289,Daniel Fox,Sales,Principal Engineer,MGR-SAL-5,Bangalore,2018-09-22,8.8,Office
+EMP0290,Thomas Harris,IT Operations,Senior Engineer,MGR-IT -1,Pune,2024-05-12,4.6,Office
+EMP0291,Mitchell Sellers,Engineering,Software Engineer,MGR-ENG-2,Hyderabad,2021-02-27,7.0,Remote
+EMP0292,Erica Johnson,Engineering,Senior Engineer,MGR-ENG-1,Mumbai,2025-11-24,0.9,Hybrid
+EMP0293,Sylvia Schroeder,Procurement,Principal Engineer,MGR-PRO-5,Pune,2024-11-18,3.3,Office
+EMP0294,Shannon Yu,Sales,Senior Engineer,MGR-SAL-1,Bangalore,2025-05-15,3.9,Office
+EMP0295,Tom Foster,Engineering,Associate,MGR-ENG-2,Pune,2024-12-12,2.8,Hybrid
+EMP0296,Eric Taylor,Finance,Associate,MGR-FIN-4,Pune,2020-08-22,6.8,Hybrid
+EMP0297,Travis Conner,Legal,Senior Engineer,MGR-LEG-1,Pune,2024-10-06,2.2,Hybrid
+EMP0298,Marie Thompson,AI,Software Engineer,MGR-AI-5,Pune,2019-05-21,7.6,Hybrid
+EMP0299,Melissa Mcfarland,IT Operations,Analyst,MGR-IT -2,Pune,2025-06-08,2.4,Office
+EMP0300,Courtney Chapman,Engineering,Senior Engineer,MGR-ENG-5,Mumbai,2025-04-30,3.0,Hybrid
+EMP0301,Eric Barker,Engineering,Senior Analyst,MGR-ENG-5,Delhi NCR,2020-04-16,6.5,Hybrid
+EMP0302,Nicholas Rush,Finance,Senior Engineer,MGR-FIN-1,Hyderabad,2024-12-29,4.4,Office
+EMP0303,Jenna Gamble,HR,Team Lead,MGR-HR-5,Bangalore,2022-03-05,6.6,Hybrid
+EMP0304,Amanda Guzman,IT Operations,Analyst,MGR-IT -1,Mumbai,2020-12-11,7.3,Office
+EMP0305,Tracy Walker,Customer Support,Senior Engineer,MGR-CUS-4,Jaipur,2024-10-29,4.2,Office
+EMP0306,Taylor Taylor,Data Science,Senior Engineer,MGR-DAT-5,Bangalore,2020-05-01,6.4,Office
+EMP0307,Cynthia Haas,Finance,Senior Engineer,MGR-FIN-5,Pune,2018-09-19,9.2,Office
+EMP0308,Stephen Davis,Sales,Senior Engineer,MGR-SAL-5,Hyderabad,2020-01-22,8.4,Office
+EMP0309,Margaret Tanner,Procurement,Team Lead,MGR-PRO-3,Pune,2021-02-16,7.9,Office
+EMP0310,Derek Wright,Sales,Senior Analyst,MGR-SAL-3,Mumbai,2025-05-16,3.5,Office
+EMP0311,David Rodriguez,Marketing,Senior Engineer,MGR-MAR-2,Bangalore,2026-03-09,1.2,Office
+EMP0312,James Oconnor,Engineering,Team Lead,MGR-ENG-3,Kolkata,2020-09-27,8.6,Office
+EMP0313,Stacey Snyder,Engineering,Manager,MGR-ENG-2,Bangalore,2023-08-11,3.3,Office
+EMP0314,Joshua Garcia,Data Science,Software Engineer,MGR-DAT-3,Chennai,2021-09-10,7.5,Hybrid
+EMP0315,Sean Curtis,R&D,Software Engineer,MGR-R&D-4,Nagpur,2026-04-19,3.1,Office
+EMP0316,Carla Jones,Customer Support,Associate,MGR-CUS-2,Pune,2022-10-10,4.3,Office
+EMP0317,Elizabeth Flores,Marketing,Analyst,MGR-MAR-3,Mumbai,2025-12-19,2.7,Hybrid
+EMP0318,Angela Jackson,AI,Team Lead,MGR-AI-4,Bangalore,2019-06-11,7.2,Hybrid
+EMP0319,Nicholas Payne,Engineering,Manager,MGR-ENG-3,Bangalore,2026-03-19,1.5,Hybrid
+EMP0320,Anna Wheeler,AI,Software Engineer,MGR-AI-1,Bangalore,2019-12-11,8.1,Office
+EMP0321,Karen Johnson,HR,Manager,MGR-HR-1,Ahmedabad,2026-02-24,2.1,Office
+EMP0322,Carmen Preston,Customer Support,Team Lead,MGR-CUS-4,Chennai,2020-08-18,8.7,Hybrid
+EMP0323,Brian Harris,IT Operations,Team Lead,MGR-IT -5,Hyderabad,2019-05-22,9.2,Office
+EMP0324,Michael Bowen,Sales,Senior Engineer,MGR-SAL-5,Mumbai,2021-12-20,6.0,Office
+EMP0325,Deborah Campbell,Data Science,Software Engineer,MGR-DAT-1,Delhi NCR,2024-04-18,4.7,Office
+EMP0326,Anthony Armstrong,Customer Support,Software Engineer,MGR-CUS-1,Jaipur,2021-01-05,8.4,Hybrid
+EMP0327,Brittany Ward,HR,Principal Engineer,MGR-HR-5,Delhi NCR,2023-05-01,3.3,Office
+EMP0328,Edward Stanley,IT Operations,Senior Engineer,MGR-IT -2,Pune,2022-07-31,6.9,Remote
+EMP0329,Christina Johnson,Marketing,Senior Engineer,MGR-MAR-5,Hyderabad,2021-07-30,5.2,Hybrid
+EMP0330,Edgar Miller,AI,Software Engineer,MGR-AI-3,Pune,2023-02-04,5.9,Office
+EMP0331,Elizabeth Sanders,Sales,Software Engineer,MGR-SAL-2,Mumbai,2020-07-18,6.8,Hybrid
+EMP0332,Matthew Davis MD,Customer Support,Analyst,MGR-CUS-3,Pune,2024-02-21,2.8,Hybrid
+EMP0333,Stephen Wood,Engineering,Team Lead,MGR-ENG-1,Hyderabad,2018-07-17,9.3,Hybrid
+EMP0334,Dennis Marshall,Engineering,Team Lead,MGR-ENG-2,Chennai,2025-11-09,2.6,Office
+EMP0335,Derrick Brown,Engineering,Software Engineer,MGR-ENG-3,Pune,2022-10-17,4.9,Hybrid
+EMP0336,Mary Miller,Engineering,Analyst,MGR-ENG-3,Bangalore,2024-03-23,2.5,Office
+EMP0337,Joshua Arellano,R&D,Software Engineer,MGR-R&D-2,Bangalore,2024-05-27,3.9,Remote
+EMP0338,Kristen Randall,Customer Support,Software Engineer,MGR-CUS-4,Mumbai,2023-11-03,5.4,Office
+EMP0339,Jennifer Nichols,Finance,Senior Engineer,MGR-FIN-5,Pune,2021-05-31,6.3,Office
+EMP0340,Karen Keith,Engineering,Senior Engineer,MGR-ENG-3,Bangalore,2019-01-31,8.1,Hybrid
+EMP0341,Blake Orr,Finance,Software Engineer,MGR-FIN-5,Delhi NCR,2023-10-15,4.1,Hybrid
+EMP0342,Kathryn Lester,Finance,Manager,MGR-FIN-5,Pune,2021-02-21,5.5,Hybrid
+EMP0343,Megan Oliver,AI,Manager,MGR-AI-1,Pune,2021-01-05,8.0,Office
+EMP0344,Peter Thompson,Marketing,Senior Analyst,MGR-MAR-5,Mumbai,2025-03-30,3.8,Office
+EMP0345,Dr. Rhonda Martinez,Marketing,Senior Engineer,MGR-MAR-3,Jaipur,2024-03-24,4.1,Remote
+EMP0346,William Graham,IT Operations,Software Engineer,MGR-IT -1,Chennai,2020-11-27,6.7,Hybrid
+EMP0347,Lori Flowers MD,IT Operations,Software Engineer,MGR-IT -2,Chennai,2020-12-23,8.0,Hybrid
+EMP0348,Suzanne Jones,Engineering,Director,MGR-ENG-3,Mumbai,2021-10-06,6.4,Office
+EMP0349,James Nguyen,Sales,Team Lead,MGR-SAL-1,Hyderabad,2021-09-18,7.3,Office
+EMP0350,Jimmy Marks,IT Operations,Analyst,MGR-IT -1,Pune,2020-11-14,7.6,Hybrid
+EMP0351,Lisa Mills,Finance,Software Engineer,MGR-FIN-5,Hyderabad,2019-07-16,9.3,Hybrid
+EMP0352,Jason Hernandez,R&D,Team Lead,MGR-R&D-2,Ahmedabad,2021-11-09,6.5,Office
+EMP0353,Olivia Ayers,IT Operations,Software Engineer,MGR-IT -3,Hyderabad,2025-12-22,1.8,Hybrid
+EMP0354,Kristine Garcia,AI,Team Lead,MGR-AI-3,Kolkata,2023-11-22,5.5,Office
+EMP0355,Joseph Cooper,Engineering,Associate,MGR-ENG-5,Chennai,2025-09-04,2.5,Office
+EMP0356,James Washington,IT Operations,Principal Engineer,MGR-IT -2,Pune,2023-05-28,4.9,Office
+EMP0357,Amanda Hill,Engineering,Team Lead,MGR-ENG-3,Ahmedabad,2020-11-29,6.3,Office
+EMP0358,Lee Steele,HR,Senior Engineer,MGR-HR-2,Pune,2022-11-13,5.5,Office
+EMP0359,Steve Rivera,Data Science,Principal Engineer,MGR-DAT-3,Bangalore,2018-07-14,9.7,Office
+EMP0360,Patrick Mccall,HR,Manager,MGR-HR-5,Pune,2020-10-19,6.3,Office
+EMP0361,Alicia Roth,Sales,Software Engineer,MGR-SAL-4,Pune,2021-12-07,4.8,Hybrid
+EMP0362,Douglas Vasquez,IT Operations,Senior Engineer,MGR-IT -3,Bangalore,2023-02-14,5.2,Office
+EMP0363,Annette Melton,Marketing,Software Engineer,MGR-MAR-1,Mumbai,2023-09-18,5.1,Office
+EMP0364,William Ramos,HR,Senior Engineer,MGR-HR-1,Bangalore,2022-03-18,5.9,Office
+EMP0365,Debra Butler,Data Science,Senior Engineer,MGR-DAT-4,Hyderabad,2022-01-11,5.2,Office
+EMP0366,Chelsea Lewis,Sales,Team Lead,MGR-SAL-3,Pune,2020-03-22,8.3,Hybrid
+EMP0367,Natalie Malone,Data Science,Senior Engineer,MGR-DAT-1,Pune,2022-04-11,4.5,Office
+EMP0368,Samantha Robertson,R&D,Software Engineer,MGR-R&D-1,Bangalore,2025-08-31,2.2,Hybrid
+EMP0369,Eric Hunter,AI,Team Lead,MGR-AI-3,Mumbai,2024-10-31,2.2,Hybrid
+EMP0370,Samuel Suarez,Engineering,Senior Analyst,MGR-ENG-2,Chennai,2019-11-15,7.2,Office
+EMP0371,Corey Whitaker,Engineering,Manager,MGR-ENG-3,Hyderabad,2019-03-15,7.9,Office
+EMP0372,Danielle Bryant,Engineering,Senior Engineer,MGR-ENG-2,Kolkata,2022-08-11,5.1,Office
+EMP0373,Michele Hill,Engineering,Associate,MGR-ENG-4,Chennai,2023-07-17,3.1,Office
+EMP0374,Kathy Reid,Customer Support,Associate,MGR-CUS-5,Bangalore,2021-03-08,6.5,Hybrid
+EMP0375,Andre Watson,Engineering,Software Engineer,MGR-ENG-4,Chennai,2025-01-03,3.1,Hybrid
+EMP0376,Cassandra Harrell,Sales,Software Engineer,MGR-SAL-5,Mumbai,2024-06-23,3.5,Office
+EMP0377,Hannah Martin,R&D,Analyst,MGR-R&D-1,Mumbai,2023-11-09,3.8,Office
+EMP0378,Nicole Barker,Engineering,Senior Analyst,MGR-ENG-1,Delhi NCR,2020-04-22,8.7,Office
+EMP0379,James Martin,Procurement,Principal Engineer,MGR-PRO-1,Bangalore,2020-02-08,6.9,Hybrid
+EMP0380,Traci Vincent,Sales,Associate,MGR-SAL-2,Delhi NCR,2018-09-21,9.3,Office
+EMP0381,Megan Adams,Engineering,Manager,MGR-ENG-5,Delhi NCR,2020-06-20,6.2,Office
+EMP0382,Alejandro Deleon,Customer Support,Team Lead,MGR-CUS-1,Kolkata,2022-04-17,4.5,Office
+EMP0383,Alexa Buck,IT Operations,Software Engineer,MGR-IT -3,Ahmedabad,2025-04-04,3.0,Hybrid
+EMP0384,Lindsay Smith,R&D,Software Engineer,MGR-R&D-5,Bangalore,2019-02-08,9.1,Hybrid
+EMP0385,Robert Torres,Customer Support,Senior Engineer,MGR-CUS-5,Mumbai,2021-10-23,7.4,Office
+EMP0386,Maria Coleman,Procurement,Manager,MGR-PRO-2,Hyderabad,2023-07-08,4.7,Office
+EMP0387,Gregory King,Sales,Team Lead,MGR-SAL-4,Mumbai,2020-01-26,9.3,Remote
+EMP0388,Michael Holloway,AI,Analyst,MGR-AI-2,Hyderabad,2024-01-16,2.6,Office
+EMP0389,Brian Hunt,Customer Support,Software Engineer,MGR-CUS-1,Chennai,2022-06-11,4.4,Hybrid
+EMP0390,Sarah Brooks,Procurement,Team Lead,MGR-PRO-3,Chennai,2020-06-17,6.2,Office
+EMP0391,Lisa Evans,Data Science,Software Engineer,MGR-DAT-3,Mumbai,2023-09-22,3.4,Hybrid
+EMP0392,Arthur Mcneil,Marketing,Senior Engineer,MGR-MAR-1,Pune,2018-07-29,9.6,Office
+EMP0393,Shannon Green,Sales,Analyst,MGR-SAL-3,Bangalore,2024-06-22,4.0,Remote
+EMP0394,Stephanie Evans,Legal,Analyst,MGR-LEG-2,Pune,2024-08-16,2.0,Hybrid
+EMP0395,Ralph Yoder,Sales,VP,MGR-SAL-2,Ahmedabad,2019-05-17,10.0,Hybrid
+EMP0396,Rebekah Greene,Data Science,Software Engineer,MGR-DAT-1,Mumbai,2021-11-23,7.2,Hybrid
+EMP0397,Melanie Griffith,R&D,Team Lead,MGR-R&D-3,Pune,2019-12-03,7.5,Hybrid
+EMP0398,Yolanda Green,Marketing,Senior Engineer,MGR-MAR-5,Pune,2026-02-11,0.6,Office
+EMP0399,James Johnson,Customer Support,Senior Engineer,MGR-CUS-4,Hyderabad,2022-08-18,4.4,Hybrid
+EMP0400,Laura Lee,Customer Support,Senior Analyst,MGR-CUS-5,Hyderabad,2018-12-05,8.0,Remote
+EMP0401,Courtney Nichols,Engineering,Analyst,MGR-ENG-2,Mumbai,2020-07-02,6.4,Office
+EMP0402,Susan Powers,R&D,Associate,MGR-R&D-2,Pune,2025-03-31,2.8,Remote
+EMP0403,Sarah Pittman,Finance,Software Engineer,MGR-FIN-2,Bangalore,2022-02-22,5.1,Hybrid
+EMP0404,Catherine Davis,Procurement,Associate,MGR-PRO-2,Mumbai,2024-11-15,2.7,Office
+EMP0405,David Stokes,Sales,Software Engineer,MGR-SAL-4,Chennai,2023-10-25,5.7,Office
+EMP0406,Catherine Frazier,R&D,Associate,MGR-R&D-1,Hyderabad,2026-05-08,2.2,Office
+EMP0407,Brandon Kelly,Sales,Senior Engineer,MGR-SAL-2,Mumbai,2023-03-31,6.1,Office
+EMP0408,Elizabeth French,Engineering,Senior Engineer,MGR-ENG-3,Pune,2026-01-19,0.9,Office
+EMP0409,David Carter,R&D,Team Lead,MGR-R&D-4,Nagpur,2025-08-03,2.1,Office
+EMP0410,Julie Delacruz,Engineering,Principal Engineer,MGR-ENG-2,Bangalore,2023-05-19,4.8,Office
+EMP0411,Terry Jones,Sales,Software Engineer,MGR-SAL-3,Chennai,2024-03-23,2.5,Office
+EMP0412,Kathryn Dillon,Data Science,Senior Engineer,MGR-DAT-2,Pune,2022-07-11,4.0,Remote
+EMP0413,Edwin Brown,Data Science,Senior Analyst,MGR-DAT-1,Bangalore,2025-02-08,3.4,Office
+EMP0414,Brenda Gonzalez,HR,Senior Engineer,MGR-HR-4,Pune,2022-11-13,5.6,Office
+EMP0415,Keith Knox,IT Operations,Software Engineer,MGR-IT -1,Bangalore,2025-08-19,2.1,Office
+EMP0416,Eugene Baldwin,Marketing,Senior Engineer,MGR-MAR-4,Jaipur,2024-06-01,3.6,Office
+EMP0417,Katherine Welch,Sales,Senior Engineer,MGR-SAL-2,Bangalore,2022-04-15,5.5,Hybrid
+EMP0418,Mark Smith,Sales,Associate,MGR-SAL-2,Pune,2020-07-31,6.0,Hybrid
+EMP0419,Philip Jackson,IT Operations,Analyst,MGR-IT -4,Pune,2020-06-27,7.0,Hybrid
+EMP0420,Katherine Gallagher,Customer Support,Team Lead,MGR-CUS-3,Bangalore,2023-07-31,3.5,Office
+EMP0421,Lucas Schultz,Procurement,Director,MGR-PRO-3,Pune,2024-08-04,2.2,Hybrid
+EMP0422,Vincent Reyes,Legal,Senior Engineer,MGR-LEG-2,Pune,2022-08-28,6.7,Office
+EMP0423,Curtis Watson,Engineering,Software Engineer,MGR-ENG-2,Delhi NCR,2023-06-29,4.8,Office
+EMP0424,Frank Whitaker,Finance,Software Engineer,MGR-FIN-1,Bangalore,2020-09-14,8.0,Office
+EMP0425,Michael Sims,Engineering,Senior Engineer,MGR-ENG-2,Mumbai,2019-02-22,8.3,Office
+EMP0426,Michael Cooper,HR,Software Engineer,MGR-HR-4,Ahmedabad,2020-10-16,6.9,Office
+EMP0427,James Chapman,Marketing,Principal Engineer,MGR-MAR-3,Pune,2020-09-05,6.6,Office
+EMP0428,Rodney Evans,R&D,Analyst,MGR-R&D-3,Jaipur,2021-01-22,5.8,Remote
+EMP0429,Nicholas Carlson,Sales,Software Engineer,MGR-SAL-1,Mumbai,2022-10-22,4.3,Office
+EMP0430,Stephen Cowan,Engineering,Team Lead,MGR-ENG-3,Ahmedabad,2019-08-17,9.3,Office
+EMP0431,Steven Howard,Engineering,Analyst,MGR-ENG-3,Hyderabad,2020-05-11,8.2,Office
+EMP0432,Travis Hull,Legal,Principal Engineer,MGR-LEG-5,Delhi NCR,2024-01-09,4.1,Hybrid
+EMP0433,Darryl Acosta,IT Operations,Associate,MGR-IT -4,Nagpur,2024-02-14,3.8,Office
+EMP0434,Nicholas Lawrence,Engineering,Team Lead,MGR-ENG-5,Mumbai,2019-01-14,10.3,Hybrid
+EMP0435,Jacob Santos,Engineering,Analyst,MGR-ENG-3,Jaipur,2021-10-03,5.0,Remote
+EMP0436,Shawn Scott,Customer Support,Team Lead,MGR-CUS-1,Bangalore,2022-10-29,4.5,Office
+EMP0437,Amber Vang,Engineering,Team Lead,MGR-ENG-1,Bangalore,2021-10-27,5.8,Office
+EMP0438,Martha Smith,Procurement,Software Engineer,MGR-PRO-3,Mumbai,2020-03-02,8.7,Office
+EMP0439,Jennifer James,Customer Support,Software Engineer,MGR-CUS-2,Bangalore,2021-11-09,7.7,Hybrid
+EMP0440,Kara Hernandez,Engineering,Team Lead,MGR-ENG-5,Pune,2025-09-10,1.6,Office
+EMP0441,Lorraine Turner,Engineering,Software Engineer,MGR-ENG-3,Bangalore,2023-02-26,6.0,Office
+EMP0442,Mary Nelson,Data Science,Software Engineer,MGR-DAT-1,Bangalore,2024-01-14,5.0,Office
+EMP0443,Breanna Rivas,Sales,Analyst,MGR-SAL-1,Delhi NCR,2025-04-24,1.9,Hybrid
+EMP0444,Nathan Wilson,Sales,Software Engineer,MGR-SAL-5,Kolkata,2024-08-04,3.1,Office
+EMP0445,Brian Gonzalez,Procurement,Team Lead,MGR-PRO-4,Bangalore,2021-07-17,6.2,Office
+EMP0446,Dennis Mills,Data Science,Team Lead,MGR-DAT-3,Mumbai,2018-07-30,10.9,Hybrid
+EMP0447,Michael Phillips,Data Science,Principal Engineer,MGR-DAT-3,Mumbai,2021-04-25,5.8,Hybrid
+EMP0448,Jon Clark,Customer Support,Team Lead,MGR-CUS-4,Pune,2024-06-30,4.4,Hybrid
+EMP0449,Erin Smith,Sales,Software Engineer,MGR-SAL-5,Pune,2025-04-15,2.2,Office
+EMP0450,Susan Conley,Engineering,Team Lead,MGR-ENG-5,Mumbai,2026-01-29,2.6,Hybrid
+EMP0451,Brittany Davis,Legal,Senior Analyst,MGR-LEG-1,Mumbai,2021-11-05,5.9,Hybrid
+EMP0452,Misty Garcia,HR,VP,MGR-HR-4,Jaipur,2024-06-12,3.8,Office
+EMP0453,David Hinton,Marketing,Senior Engineer,MGR-MAR-5,Bangalore,2022-11-08,6.2,Hybrid
+EMP0454,John Garcia,R&D,Senior Engineer,MGR-R&D-2,Mumbai,2023-04-22,5.6,Office
+EMP0455,Andrew Roberts,Engineering,Associate,MGR-ENG-3,Hyderabad,2020-04-10,8.9,Remote
+EMP0456,Emily Rodgers,Finance,Software Engineer,MGR-FIN-1,Pune,2020-04-07,6.4,Office
+EMP0457,Peter Williams,Engineering,Manager,MGR-ENG-4,Bangalore,2021-12-24,6.6,Hybrid
+EMP0458,Mary Jackson,Marketing,Senior Engineer,MGR-MAR-1,Hyderabad,2018-10-04,8.2,Office
+EMP0459,Jeffrey Howell,Engineering,Software Engineer,MGR-ENG-5,Bangalore,2021-03-11,6.6,Remote
+EMP0460,Anna Briggs,Engineering,Senior Engineer,MGR-ENG-5,Bangalore,2023-11-28,4.3,Office
+EMP0461,James Rivers,Engineering,Software Engineer,MGR-ENG-2,Nagpur,2021-09-24,6.0,Remote
+EMP0462,James Jefferson,IT Operations,Analyst,MGR-IT -3,Ahmedabad,2019-11-02,8.3,Remote
+EMP0463,Mariah Robles,Customer Support,Principal Engineer,MGR-CUS-4,Hyderabad,2022-03-25,7.3,Office
+EMP0464,Michael Brown,HR,Software Engineer,MGR-HR-1,Hyderabad,2019-07-17,7.4,Hybrid
+EMP0465,Caitlin Perry,Data Science,Senior Analyst,MGR-DAT-3,Hyderabad,2023-06-16,5.1,Remote
+EMP0466,Rebekah Gregory,Sales,Software Engineer,MGR-SAL-5,Pune,2018-09-28,9.0,Office
+EMP0467,James Howard,Sales,Team Lead,MGR-SAL-3,Bangalore,2021-08-25,5.3,Office
+EMP0468,Michael Roberson,R&D,Software Engineer,MGR-R&D-1,Pune,2022-12-31,4.0,Office
+EMP0469,Bianca Knapp,AI,Associate,MGR-AI-3,Bangalore,2018-09-29,10.6,Office
+EMP0470,Jason Williams,Data Science,Analyst,MGR-DAT-5,Bangalore,2023-08-14,5.6,Office
+EMP0471,Ernest Bush,Engineering,Manager,MGR-ENG-3,Mumbai,2019-08-09,9.6,Office
+EMP0472,Patricia Ray,Data Science,Senior Analyst,MGR-DAT-4,Jaipur,2022-03-09,7.3,Office
+EMP0473,Vanessa Santiago,Engineering,Manager,MGR-ENG-3,Ahmedabad,2018-12-05,8.2,Office
+EMP0474,Joseph Haynes,R&D,Principal Engineer,MGR-R&D-4,Chennai,2021-07-13,6.1,Office
+EMP0475,Matthew Wright,Finance,Analyst,MGR-FIN-3,Bangalore,2020-03-16,8.3,Hybrid
+EMP0476,Michael Cruz,Data Science,Associate,MGR-DAT-5,Kolkata,2021-02-12,6.9,Hybrid
+EMP0477,Kristin Huerta,Engineering,Team Lead,MGR-ENG-2,Pune,2024-07-22,3.2,Office
+EMP0478,Mason Moore,HR,Software Engineer,MGR-HR-2,Delhi NCR,2021-07-13,6.1,Hybrid
+EMP0479,Sarah Booth,Data Science,Team Lead,MGR-DAT-4,Pune,2024-06-25,3.8,Hybrid
+EMP0480,John Allen,Finance,Software Engineer,MGR-FIN-4,Delhi NCR,2025-02-11,3.1,Remote
+EMP0481,Amber Walker,IT Operations,Team Lead,MGR-IT -2,Mumbai,2020-07-11,6.5,Office
+EMP0482,Jennifer Young,Customer Support,Team Lead,MGR-CUS-5,Kolkata,2019-03-06,8.8,Office
+EMP0483,Robert West,Marketing,Manager,MGR-MAR-5,Jaipur,2018-09-07,9.5,Remote
+EMP0484,Jillian Wilson,IT Operations,Software Engineer,MGR-IT -3,Pune,2022-10-19,5.4,Remote
+EMP0485,Matthew Garcia MD,HR,Software Engineer,MGR-HR-4,Bangalore,2026-06-12,0.7,Hybrid
+EMP0486,April Davis,R&D,Team Lead,MGR-R&D-5,Nagpur,2021-04-20,7.5,Hybrid
+EMP0487,Lisa Torres,Engineering,Principal Engineer,MGR-ENG-1,Bangalore,2023-09-05,2.9,Office
+EMP0488,Christine Powers,Sales,Senior Engineer,MGR-SAL-3,Kolkata,2024-09-18,2.9,Office
+EMP0489,Heidi Brown,Data Science,Senior Engineer,MGR-DAT-3,Hyderabad,2023-09-09,5.2,Office
+EMP0490,Jesse Castro,R&D,Analyst,MGR-R&D-2,Mumbai,2024-07-02,3.7,Office
+EMP0491,Kara Sandoval,Marketing,Manager,MGR-MAR-4,Mumbai,2026-01-18,1.3,Hybrid
+EMP0492,Ashley Malone,IT Operations,Senior Engineer,MGR-IT -5,Pune,2020-02-09,8.5,Office
+EMP0493,Glenn Gallegos,Sales,Senior Engineer,MGR-SAL-5,Delhi NCR,2018-09-09,9.5,Office
+EMP0494,Dorothy Boyd,AI,Software Engineer,MGR-AI-3,Bangalore,2019-09-26,9.2,Remote
+EMP0495,Amber Martin,Marketing,Principal Engineer,MGR-MAR-4,Bangalore,2019-07-13,9.2,Office
+EMP0496,Mitchell Griffith,Sales,Software Engineer,MGR-SAL-4,Bangalore,2023-10-31,4.5,Remote
+EMP0497,Levi Lopez,HR,Senior Engineer,MGR-HR-4,Hyderabad,2022-12-30,5.0,Remote
+EMP0498,Jenna Bryant,Engineering,Software Engineer,MGR-ENG-2,Kolkata,2020-04-03,6.7,Hybrid
+EMP0499,Michelle Rodriguez,Data Science,Software Engineer,MGR-DAT-5,Nagpur,2024-01-25,3.2,Office
+EMP0500,Timothy Monroe,Data Science,Senior Analyst,MGR-DAT-4,Bangalore,2024-08-07,3.2,Office
+EMP0501,Patricia Hayes,Customer Support,Software Engineer,MGR-CUS-2,Delhi NCR,2019-11-10,8.5,Office
+EMP0502,Tina Taylor,Finance,Software Engineer,MGR-FIN-1,Delhi NCR,2023-05-04,4.7,Office
+EMP0503,Mr. Anthony Mcconnell PhD,Sales,Senior Engineer,MGR-SAL-3,Hyderabad,2024-06-14,2.9,Office
+EMP0504,Mr. Thomas Thompson,Procurement,Software Engineer,MGR-PRO-5,Jaipur,2019-06-09,7.1,Remote
+EMP0505,Monica Anderson,Customer Support,Software Engineer,MGR-CUS-5,Pune,2025-01-06,3.0,Office
+EMP0506,Kyle Andrade,AI,Senior Analyst,MGR-AI-3,Pune,2026-03-02,1.2,Hybrid
+EMP0507,Janice Petty,R&D,Analyst,MGR-R&D-1,Kolkata,2019-05-21,9.3,Office
+EMP0508,Pamela Hill,Procurement,Associate,MGR-PRO-2,Bangalore,2018-09-25,7.9,Hybrid
+EMP0509,Tracy Chavez,Data Science,Senior Analyst,MGR-DAT-3,Kolkata,2020-12-31,7.3,Remote
+EMP0510,Jason Graves,Customer Support,Analyst,MGR-CUS-2,Ahmedabad,2023-11-22,5.5,Office
+EMP0511,Elizabeth Miles,IT Operations,Software Engineer,MGR-IT -2,Pune,2026-02-12,0.9,Office
+EMP0512,Michelle Walls,Marketing,Senior Analyst,MGR-MAR-2,Ahmedabad,2021-09-02,6.3,Hybrid
+EMP0513,Christina Weber,Data Science,Senior Analyst,MGR-DAT-1,Bangalore,2024-03-10,2.6,Hybrid
+EMP0514,Gregory Chambers,R&D,Senior Analyst,MGR-R&D-1,Bangalore,2019-02-17,9.3,Hybrid
+EMP0515,Miss Tina Gordon,Engineering,Team Lead,MGR-ENG-2,Hyderabad,2023-12-31,4.2,Office
+EMP0516,Erica Wilson,Engineering,Software Engineer,MGR-ENG-4,Ahmedabad,2023-06-30,4.3,Office
+EMP0517,John Duncan,Sales,Senior Analyst,MGR-SAL-5,Pune,2019-05-03,8.8,Remote
+EMP0518,Jennifer Adkins,Procurement,Analyst,MGR-PRO-1,Bangalore,2024-08-24,4.6,Remote
+EMP0519,Donna Boone,Data Science,Director,MGR-DAT-4,Chennai,2025-04-06,1.9,Office
+EMP0520,Kelly Johnson,Engineering,Software Engineer,MGR-ENG-4,Chennai,2023-04-14,3.3,Hybrid
+EMP0521,Michael Gonzalez,IT Operations,Software Engineer,MGR-IT -5,Chennai,2019-06-28,9.6,Office
+EMP0522,Candace Mitchell,Sales,Software Engineer,MGR-SAL-2,Pune,2026-04-27,1.9,Office
+EMP0523,Ryan Vaughn,Data Science,Senior Analyst,MGR-DAT-4,Mumbai,2024-09-22,4.5,Office
+EMP0524,Paul Johnson,R&D,Software Engineer,MGR-R&D-4,Mumbai,2021-04-12,7.0,Office
+EMP0525,Ashley Parrish,R&D,Software Engineer,MGR-R&D-4,Delhi NCR,2021-12-02,7.0,Office
+EMP0526,Sharon Newton,Marketing,VP,MGR-MAR-2,Mumbai,2021-06-18,6.4,Office
+EMP0527,Cynthia Mueller,Marketing,Software Engineer,MGR-MAR-2,Pune,2022-07-15,6.2,Office
+EMP0528,Donna Beck,Sales,Senior Analyst,MGR-SAL-1,Jaipur,2021-03-25,8.0,Hybrid
+EMP0529,Jasmine Frye,Engineering,Senior Engineer,MGR-ENG-1,Pune,2025-04-03,3.0,Hybrid
+EMP0530,Emily Arnold,R&D,Senior Analyst,MGR-R&D-4,Nagpur,2025-01-15,2.0,Hybrid
+EMP0531,David Oliver,Procurement,Team Lead,MGR-PRO-2,Chennai,2019-05-14,8.0,Remote
+EMP0532,Sheila Greer,Data Science,Associate,MGR-DAT-2,Delhi NCR,2026-02-19,1.0,Office
+EMP0533,Michele Holland,Data Science,Associate,MGR-DAT-5,Mumbai,2023-07-25,3.7,Hybrid
+EMP0534,Kimberly Morrison,HR,Software Engineer,MGR-HR-4,Pune,2025-02-02,2.4,Hybrid
+EMP0535,Tracey Phillips,Legal,Software Engineer,MGR-LEG-1,Chennai,2024-02-17,4.1,Office
+EMP0536,Michael Lopez,Data Science,Software Engineer,MGR-DAT-5,Kolkata,2021-12-23,6.3,Office
+EMP0537,Jose Bennett,R&D,Manager,MGR-R&D-2,Delhi NCR,2024-05-04,3.5,Office
+EMP0538,Justin Anderson,AI,Associate,MGR-AI-1,Pune,2026-03-05,2.2,Hybrid
+EMP0539,Dawn Rivera,Marketing,Senior Engineer,MGR-MAR-4,Delhi NCR,2020-09-01,6.1,Office
+EMP0540,Brittney Hernandez,Engineering,Manager,MGR-ENG-2,Delhi NCR,2024-12-05,1.9,Hybrid
+EMP0541,Anthony Randolph,Data Science,Software Engineer,MGR-DAT-4,Hyderabad,2022-10-16,4.3,Hybrid
+EMP0542,Mary Henry,IT Operations,Senior Analyst,MGR-IT -5,Delhi NCR,2022-05-11,5.7,Hybrid
+EMP0543,Heather Bowers,AI,Principal Engineer,MGR-AI-5,Kolkata,2021-12-23,5.2,Hybrid
+EMP0544,Daniel White,IT Operations,Software Engineer,MGR-IT -5,Hyderabad,2024-04-26,3.1,Hybrid
+EMP0545,Jonathan Perry,IT Operations,Team Lead,MGR-IT -3,Pune,2020-08-27,7.1,Office
+EMP0546,Anna Walker,Sales,Software Engineer,MGR-SAL-4,Bangalore,2025-04-10,3.7,Office
+EMP0547,Gary Ward,Engineering,Team Lead,MGR-ENG-5,Pune,2025-02-08,1.5,Hybrid
+EMP0548,Paul Moreno,IT Operations,Team Lead,MGR-IT -5,Bangalore,2019-03-20,9.3,Office
+EMP0549,Samantha Zavala MD,Finance,Software Engineer,MGR-FIN-4,Bangalore,2025-07-05,3.0,Office
+EMP0550,Jill Conway,Legal,Senior Engineer,MGR-LEG-5,Pune,2020-06-17,8.5,Office
+EMP0551,Lisa Haley,Finance,Senior Engineer,MGR-FIN-4,Mumbai,2022-03-17,7.1,Remote
+EMP0552,Erica Moon,R&D,Team Lead,MGR-R&D-2,Pune,2023-05-13,3.2,Office
+EMP0553,Janice Fernandez,HR,Team Lead,MGR-HR-4,Delhi NCR,2021-07-13,5.5,Hybrid
+EMP0554,Thomas Short,HR,Software Engineer,MGR-HR-4,Jaipur,2018-10-04,10.4,Office
+EMP0555,Robert Griffin,R&D,Analyst,MGR-R&D-3,Pune,2025-04-07,2.6,Office
+EMP0556,Steven Lee,Marketing,Analyst,MGR-MAR-2,Jaipur,2019-12-20,8.3,Hybrid
+EMP0557,Tiffany Jackson,Engineering,Senior Engineer,MGR-ENG-3,Bangalore,2020-03-17,8.3,Office
+EMP0558,Kimberly Smith,Engineering,Software Engineer,MGR-ENG-5,Mumbai,2024-11-05,3.7,Hybrid
+EMP0559,Michael Ayala,Customer Support,Analyst,MGR-CUS-4,Pune,2021-03-23,8.1,Hybrid
+EMP0560,Jessica Garcia,IT Operations,Principal Engineer,MGR-IT -2,Bangalore,2025-07-01,4.0,Hybrid
+EMP0561,Michele Cherry,Customer Support,Software Engineer,MGR-CUS-3,Delhi NCR,2024-01-30,4.6,Office
+EMP0562,Maria Case,AI,Senior Engineer,MGR-AI-4,Chennai,2020-09-18,6.7,Hybrid
+EMP0563,Brittany Stevens,Engineering,Software Engineer,MGR-ENG-1,Pune,2018-08-11,10.6,Hybrid
+EMP0564,Brandon Brown,Engineering,Team Lead,MGR-ENG-3,Pune,2026-01-13,0.6,Hybrid
+EMP0565,Kristin Andrews,Sales,Software Engineer,MGR-SAL-2,Bangalore,2019-03-17,8.0,Office
+EMP0566,David Hughes,HR,Senior Engineer,MGR-HR-3,Mumbai,2024-03-25,5.0,Office
+EMP0567,Jessica Smith,Marketing,Analyst,MGR-MAR-3,Mumbai,2022-05-25,4.9,Remote
+EMP0568,Kimberly May,Marketing,Team Lead,MGR-MAR-3,Mumbai,2024-07-13,2.7,Hybrid
+EMP0569,Nicole Richards,R&D,Senior Engineer,MGR-R&D-5,Delhi NCR,2023-12-31,2.9,Office
+EMP0570,Angel Reilly,Sales,Senior Engineer,MGR-SAL-1,Ahmedabad,2023-08-23,5.5,Office
+EMP0571,Richard Turner,Finance,Team Lead,MGR-FIN-2,Bangalore,2022-06-01,5.6,Office
+EMP0572,Preston Kim,Legal,Software Engineer,MGR-LEG-2,Ahmedabad,2024-10-22,3.7,Office
+EMP0573,Matthew Wells,Marketing,Software Engineer,MGR-MAR-2,Mumbai,2019-04-08,8.0,Office
+EMP0574,Brandy Myers,IT Operations,Associate,MGR-IT -4,Bangalore,2020-04-13,8.5,Office
+EMP0575,Kimberly Choi,R&D,Software Engineer,MGR-R&D-2,Mumbai,2024-01-03,4.8,Hybrid
+EMP0576,Michael Sloan,Data Science,Analyst,MGR-DAT-2,Hyderabad,2020-12-14,6.5,Office
+EMP0577,Monica Brooks,Engineering,Associate,MGR-ENG-1,Nagpur,2023-02-18,4.6,Hybrid
+EMP0578,Kristen Peters,R&D,Software Engineer,MGR-R&D-4,Hyderabad,2022-04-11,4.9,Office
+EMP0579,Aaron Carlson,Finance,Senior Engineer,MGR-FIN-4,Mumbai,2022-09-25,6.7,Office
+EMP0580,Theresa Torres,AI,Team Lead,MGR-AI-3,Hyderabad,2021-11-24,6.6,Office
+EMP0581,Stephanie Cooper,Marketing,Associate,MGR-MAR-5,Pune,2024-06-08,4.9,Office
+EMP0582,Matthew Hunt,Data Science,Principal Engineer,MGR-DAT-4,Ahmedabad,2021-02-23,6.3,Hybrid
+EMP0583,Daniel Davenport,Finance,Analyst,MGR-FIN-4,Bangalore,2024-02-04,4.8,Hybrid
+EMP0584,Christopher Marsh,Sales,Software Engineer,MGR-SAL-1,Bangalore,2020-09-03,8.2,Office
+EMP0585,Sarah Randolph,IT Operations,Manager,MGR-IT -2,Hyderabad,2020-07-09,8.1,Office
+EMP0586,Julia Dunn MD,AI,Senior Engineer,MGR-AI-4,Hyderabad,2019-06-26,9.9,Office
+EMP0587,Brett Swanson,Engineering,Senior Engineer,MGR-ENG-4,Pune,2020-01-20,7.7,Hybrid
+EMP0588,Mr. Carl Rios,Engineering,Software Engineer,MGR-ENG-5,Chennai,2019-06-23,7.4,Hybrid
+EMP0589,Manuel Mccullough,Engineering,Software Engineer,MGR-ENG-1,Mumbai,2022-10-09,5.8,Office
+EMP0590,Jerry Jensen,Engineering,Senior Analyst,MGR-ENG-5,Chennai,2024-07-25,4.2,Hybrid
+EMP0591,Kevin Cunningham,Engineering,Senior Engineer,MGR-ENG-4,Delhi NCR,2019-12-30,8.3,Hybrid
+EMP0592,Eugene Patterson,IT Operations,Senior Engineer,MGR-IT -4,Delhi NCR,2020-03-29,6.9,Office
+EMP0593,David Walker,AI,Senior Engineer,MGR-AI-1,Bangalore,2022-05-13,5.7,Office
+EMP0594,Jessica Larsen,Sales,Senior Analyst,MGR-SAL-3,Bangalore,2024-04-07,3.2,Remote
+EMP0595,Nicholas Humphrey,R&D,Analyst,MGR-R&D-3,Pune,2026-04-06,1.6,Hybrid
+EMP0596,Ian Torres,Finance,Software Engineer,MGR-FIN-4,Delhi NCR,2022-09-07,5.8,Office
+EMP0597,Casey Obrien,IT Operations,Software Engineer,MGR-IT -4,Mumbai,2020-10-08,8.0,Office
+EMP0598,Shannon Taylor,AI,Software Engineer,MGR-AI-5,Bangalore,2019-04-29,7.9,Office
+EMP0599,Deborah Mercado,AI,Associate,MGR-AI-5,Mumbai,2020-01-25,7.7,Office
+EMP0600,Bernard Smith,Engineering,Team Lead,MGR-ENG-5,Pune,2020-04-30,7.0,Hybrid
+EMP0601,Amanda Perkins,AI,Team Lead,MGR-AI-2,Hyderabad,2019-12-13,7.2,Office
+EMP0602,Kevin Escobar,Sales,Team Lead,MGR-SAL-4,Pune,2018-08-22,10.2,Hybrid
+EMP0603,Kimberly Lutz,AI,Senior Engineer,MGR-AI-2,Delhi NCR,2022-10-04,6.5,Hybrid
+EMP0604,Reginald Diaz,Engineering,Senior Analyst,MGR-ENG-3,Mumbai,2020-09-13,6.9,Office
+EMP0605,Raymond Quinn,Engineering,Team Lead,MGR-ENG-4,Pune,2026-03-30,2.5,Office
+EMP0606,John Dixon,Marketing,Software Engineer,MGR-MAR-4,Bangalore,2022-11-29,6.3,Office
+EMP0607,Jonathan Bates,AI,Software Engineer,MGR-AI-1,Pune,2024-01-19,5.0,Hybrid
+EMP0608,Renee Mendez,Sales,Team Lead,MGR-SAL-4,Mumbai,2019-07-13,7.5,Office
+EMP0609,Jose Griffin,Finance,Associate,MGR-FIN-3,Chennai,2025-05-28,4.0,Hybrid
+EMP0610,Travis Hopkins,Customer Support,Senior Engineer,MGR-CUS-4,Pune,2022-06-01,5.2,Hybrid
+EMP0611,Nancy Webb,Engineering,Associate,MGR-ENG-2,Kolkata,2025-06-09,2.1,Office
+EMP0612,Daniel Freeman,Procurement,Analyst,MGR-PRO-4,Pune,2023-01-28,3.6,Remote
+EMP0613,Jacob Williams,IT Operations,Software Engineer,MGR-IT -2,Mumbai,2022-03-31,5.7,Remote
+EMP0614,Terry Ward,Engineering,Software Engineer,MGR-ENG-5,Delhi NCR,2022-01-06,4.8,Office
+EMP0615,Jesse Williams,R&D,Software Engineer,MGR-R&D-5,Mumbai,2019-12-28,7.3,Office
+EMP0616,Mrs. Michele Boyd,R&D,Analyst,MGR-R&D-1,Pune,2018-12-08,8.5,Remote
+EMP0617,Sandy Baker,Engineering,Software Engineer,MGR-ENG-4,Mumbai,2025-12-24,3.0,Remote
+EMP0618,Carrie Valdez,Sales,Senior Engineer,MGR-SAL-5,Mumbai,2022-04-24,6.8,Office
+EMP0619,Matthew Houston,Procurement,Team Lead,MGR-PRO-5,Kolkata,2025-01-14,2.4,Office
+EMP0620,Jamie Solomon,Customer Support,Analyst,MGR-CUS-1,Mumbai,2021-09-13,7.4,Office
+EMP0621,Heather Parrish,AI,Software Engineer,MGR-AI-1,Delhi NCR,2019-02-12,10.0,Remote
+EMP0622,Mr. Larry Shaw,AI,Senior Engineer,MGR-AI-4,Ahmedabad,2023-07-07,5.3,Office
+EMP0623,Christopher Jones,Sales,Team Lead,MGR-SAL-2,Bangalore,2018-12-15,8.0,Office
+EMP0624,Christine Lopez,Finance,Team Lead,MGR-FIN-4,Ahmedabad,2019-09-17,8.9,Hybrid
+EMP0625,Mitchell Wilson,IT Operations,Senior Analyst,MGR-IT -2,Mumbai,2022-12-26,6.4,Office
+EMP0626,Robert Cortez,Sales,Software Engineer,MGR-SAL-1,Jaipur,2020-12-07,7.6,Hybrid
+EMP0627,Mr. Daniel Martin,Marketing,Senior Analyst,MGR-MAR-3,Pune,2026-05-26,1.1,Office
+EMP0628,Alison Williams,Customer Support,Analyst,MGR-CUS-4,Chennai,2019-06-20,8.6,Hybrid
+EMP0629,Candace Soto,Engineering,Team Lead,MGR-ENG-3,Bangalore,2024-07-31,3.9,Office
+EMP0630,Kenneth Brown,AI,Analyst,MGR-AI-2,Bangalore,2023-05-01,4.7,Hybrid
+EMP0631,Christopher Mullen,Customer Support,Senior Engineer,MGR-CUS-4,Hyderabad,2024-10-15,2.1,Hybrid
+EMP0632,Kristy Smith,R&D,Software Engineer,MGR-R&D-3,Chennai,2020-04-25,7.2,Office
+EMP0633,Mary Campbell,Finance,Manager,MGR-FIN-3,Pune,2022-09-01,6.3,Office
+EMP0634,Jerry Haney,Finance,Team Lead,MGR-FIN-4,Pune,2022-02-04,7.0,Office
+EMP0635,Carolyn Greer,Engineering,Manager,MGR-ENG-3,Chennai,2022-01-13,4.9,Office
+EMP0636,Rebecca Hoover,Marketing,Senior Engineer,MGR-MAR-4,Chennai,2025-05-04,4.0,Hybrid
+EMP0637,Matthew Baker,Finance,Associate,MGR-FIN-3,Jaipur,2026-05-15,1.1,Hybrid
+EMP0638,Grace Chavez,AI,Team Lead,MGR-AI-1,Delhi NCR,2020-12-12,7.6,Office
+EMP0639,Crystal Cruz,AI,Software Engineer,MGR-AI-4,Jaipur,2023-06-13,5.3,Hybrid
+EMP0640,Dale Heath,Sales,Senior Engineer,MGR-SAL-1,Chennai,2023-05-11,5.6,Hybrid
+EMP0641,Jennifer Hernandez,Engineering,Analyst,MGR-ENG-5,Mumbai,2024-05-22,5.0,Hybrid
+EMP0642,John Mendez,Sales,Senior Analyst,MGR-SAL-1,Pune,2026-01-12,1.4,Office
+EMP0643,Richard Gordon,AI,Team Lead,MGR-AI-3,Delhi NCR,2020-03-04,8.9,Office
+EMP0644,John Anderson,Sales,Associate,MGR-SAL-2,Hyderabad,2020-03-14,6.7,Office
+EMP0645,Samantha Prince,Engineering,Software Engineer,MGR-ENG-1,Pune,2023-10-04,4.9,Office
+EMP0646,Marie Boyd,R&D,Senior Engineer,MGR-R&D-1,Mumbai,2019-10-10,9.0,Office
+EMP0647,Andrew Moreno,IT Operations,Associate,MGR-IT -1,Jaipur,2019-11-27,8.7,Office
+EMP0648,Robert Clarke,IT Operations,Associate,MGR-IT -2,Bangalore,2019-02-15,8.2,Office
+EMP0649,Kevin Figueroa,Legal,Analyst,MGR-LEG-2,Bangalore,2018-07-20,10.6,Hybrid
+EMP0650,Melissa Davis,Finance,Senior Analyst,MGR-FIN-1,Bangalore,2022-02-04,4.9,Office
+EMP0651,John Hall,Engineering,Software Engineer,MGR-ENG-5,Pune,2023-03-26,3.5,Office
+EMP0652,Diane Mcdowell,Finance,Associate,MGR-FIN-2,Mumbai,2020-11-01,7.8,Office
+EMP0653,Colin Fletcher,HR,Senior Engineer,MGR-HR-2,Mumbai,2020-05-12,7.6,Office
+EMP0654,Laura Wilson,Customer Support,Software Engineer,MGR-CUS-2,Pune,2024-02-16,5.0,Hybrid
+EMP0655,Matthew Watts,Marketing,Software Engineer,MGR-MAR-4,Delhi NCR,2024-02-05,3.6,Office
+EMP0656,Jack Moore,Engineering,Senior Engineer,MGR-ENG-1,Bangalore,2022-02-15,4.9,Office
+EMP0657,Dawn Wyatt,Sales,Software Engineer,MGR-SAL-5,Delhi NCR,2023-12-21,5.1,Office
+EMP0658,Jacob Hill,Sales,Senior Engineer,MGR-SAL-2,Kolkata,2025-11-04,2.3,Office
+EMP0659,Nicole Gutierrez,IT Operations,Software Engineer,MGR-IT -4,Pune,2024-10-07,2.3,Office
+EMP0660,Karen Wood,HR,Senior Engineer,MGR-HR-3,Hyderabad,2023-06-24,5.2,Hybrid
+EMP0661,Dawn Parker,Sales,Team Lead,MGR-SAL-3,Bangalore,2023-10-07,4.3,Office
+EMP0662,Michael Fitzgerald,Data Science,Senior Engineer,MGR-DAT-2,Ahmedabad,2025-12-03,2.4,Office
+EMP0663,Mary Adkins,IT Operations,Senior Engineer,MGR-IT -5,Pune,2021-11-23,6.0,Office
+EMP0664,Michael Martin,AI,Analyst,MGR-AI-5,Chennai,2022-11-03,6.2,Office
+EMP0665,James Morgan,Engineering,Associate,MGR-ENG-1,Hyderabad,2023-08-28,5.4,Hybrid
+EMP0666,Melissa Mann,Engineering,Analyst,MGR-ENG-2,Mumbai,2025-09-21,2.9,Hybrid
+EMP0667,Vincent Smith,AI,Senior Engineer,MGR-AI-3,Pune,2025-01-27,1.8,Hybrid
+EMP0668,Charles Frost,AI,Analyst,MGR-AI-1,Hyderabad,2019-02-04,10.0,Office
+EMP0669,Austin Walker,AI,Software Engineer,MGR-AI-5,Chennai,2019-11-04,8.7,Office
+EMP0670,Andrew Cruz,Sales,Software Engineer,MGR-SAL-1,Mumbai,2020-12-18,7.7,Hybrid
+EMP0671,Miss Kelly Dawson,AI,Senior Engineer,MGR-AI-3,Hyderabad,2024-06-16,3.2,Remote
+EMP0672,Theresa Wilkins,R&D,Senior Analyst,MGR-R&D-5,Bangalore,2023-01-14,6.1,Office
+EMP0673,Jessica Harris,Engineering,Software Engineer,MGR-ENG-4,Chennai,2020-10-24,7.9,Office
+EMP0674,Regina Mitchell,Finance,Software Engineer,MGR-FIN-4,Pune,2019-07-07,7.4,Office
+EMP0675,Kyle Black,Marketing,Software Engineer,MGR-MAR-2,Ahmedabad,2023-12-25,3.8,Office
+EMP0676,Christopher Johnson,Data Science,Senior Analyst,MGR-DAT-1,Mumbai,2024-01-26,5.1,Office
+EMP0677,Aaron Moore,Engineering,Manager,MGR-ENG-5,Mumbai,2025-12-29,0.7,Office
+EMP0678,Penny Gomez MD,Marketing,Software Engineer,MGR-MAR-2,Pune,2022-06-29,6.9,Hybrid
+EMP0679,Kelly Mclaughlin,Data Science,Team Lead,MGR-DAT-1,Pune,2022-06-10,6.1,Office
+EMP0680,Brandon Mitchell,R&D,Team Lead,MGR-R&D-3,Bangalore,2019-03-02,9.3,Office
+EMP0681,Suzanne Bailey,Procurement,Manager,MGR-PRO-5,Mumbai,2018-11-05,8.5,Office
+EMP0682,Destiny Obrien,AI,Software Engineer,MGR-AI-1,Kolkata,2021-12-13,5.3,Hybrid
+EMP0683,Timothy Andrews,AI,Associate,MGR-AI-5,Pune,2021-01-30,8.3,Office
+EMP0684,Jason Rodriguez,IT Operations,Senior Engineer,MGR-IT -1,Mumbai,2020-07-06,6.9,Hybrid
+EMP0685,Edward Arroyo,R&D,Analyst,MGR-R&D-3,Mumbai,2019-04-03,9.6,Office
+EMP0686,Tina Walter,HR,Software Engineer,MGR-HR-5,Pune,2026-02-22,1.6,Hybrid
+EMP0687,Laura Benson,HR,Senior Engineer,MGR-HR-4,Pune,2025-02-23,1.8,Office
+EMP0688,Kristine Carrillo,Sales,Senior Engineer,MGR-SAL-3,Bangalore,2023-01-31,3.5,Office
+EMP0689,Tonya Ellis,Legal,Team Lead,MGR-LEG-1,Bangalore,2026-01-21,2.1,Office
+EMP0690,Kevin Johnson,AI,Software Engineer,MGR-AI-5,Bangalore,2026-06-11,3.0,Office
+EMP0691,Austin Schultz,Sales,Senior Analyst,MGR-SAL-3,Bangalore,2023-11-08,3.8,Office
+EMP0692,Megan Hall MD,Marketing,Software Engineer,MGR-MAR-1,Hyderabad,2020-08-30,6.9,Hybrid
+EMP0693,Kelli Smith,Finance,Manager,MGR-FIN-4,Pune,2018-11-06,8.7,Office
+EMP0694,Danielle Davis,AI,Senior Analyst,MGR-AI-4,Bangalore,2024-07-08,3.6,Office
+EMP0695,Samantha Jones,Engineering,Team Lead,MGR-ENG-1,Jaipur,2022-04-03,5.6,Office
+EMP0696,Karen Gomez,IT Operations,Analyst,MGR-IT -4,Bangalore,2023-09-09,5.5,Hybrid
+EMP0697,Debra Valentine,Sales,Manager,MGR-SAL-3,Chennai,2025-10-13,2.3,Remote
+EMP0698,Susan Porter,HR,Senior Engineer,MGR-HR-4,Mumbai,2019-12-19,8.1,Hybrid
+EMP0699,Nicolas Salas,Engineering,Senior Analyst,MGR-ENG-2,Delhi NCR,2023-03-01,3.8,Office
+EMP0700,Dale Wright,Finance,Senior Engineer,MGR-FIN-4,Delhi NCR,2023-07-22,5.9,Hybrid
+EMP0701,Brittney Rodriguez,Finance,Team Lead,MGR-FIN-2,Bangalore,2022-06-04,4.9,Remote
+EMP0702,Megan Alvarado,Engineering,Analyst,MGR-ENG-5,Nagpur,2019-04-02,7.5,Hybrid
+EMP0703,Pamela Weaver,Sales,Senior Engineer,MGR-SAL-3,Pune,2021-04-14,7.2,Office
+EMP0704,John Oliver,Engineering,Senior Engineer,MGR-ENG-5,Pune,2021-03-02,7.1,Office
+EMP0705,William Prince PhD,Engineering,Senior Engineer,MGR-ENG-5,Delhi NCR,2023-11-02,3.9,Office
+EMP0706,William Moon IV,Data Science,Senior Analyst,MGR-DAT-4,Delhi NCR,2025-04-27,2.5,Office
+EMP0707,Kenneth Brown,Sales,Associate,MGR-SAL-4,Pune,2021-02-20,7.7,Hybrid
+EMP0708,Karen Fernandez,Procurement,Team Lead,MGR-PRO-4,Mumbai,2024-01-09,3.1,Office
+EMP0709,Jennifer Parks,AI,Manager,MGR-AI-5,Pune,2020-10-23,8.2,Office
+EMP0710,William Wolfe,Customer Support,Associate,MGR-CUS-3,Mumbai,2026-01-05,2.5,Hybrid
+EMP0711,Michael Smith,Legal,Software Engineer,MGR-LEG-3,Delhi NCR,2024-12-20,2.8,Hybrid
+EMP0712,Kevin Nguyen,IT Operations,Software Engineer,MGR-IT -2,Bangalore,2022-11-19,5.0,Office
+EMP0713,Debbie Dunn,Finance,Analyst,MGR-FIN-1,Mumbai,2022-02-17,5.2,Hybrid
+EMP0714,John Austin,Marketing,Senior Analyst,MGR-MAR-3,Mumbai,2021-01-07,7.8,Office
+EMP0715,Jonathan Clark,Sales,Senior Analyst,MGR-SAL-4,Pune,2021-02-01,7.0,Hybrid
+EMP0716,Jacqueline Dickerson,R&D,Senior Engineer,MGR-R&D-2,Mumbai,2026-03-18,1.3,Hybrid
+EMP0717,Christopher Anderson,R&D,Software Engineer,MGR-R&D-4,Hyderabad,2021-09-23,6.6,Office
+EMP0718,Crystal Garcia,Data Science,Senior Engineer,MGR-DAT-5,Nagpur,2022-08-09,6.9,Hybrid
+EMP0719,David Reynolds,Engineering,Software Engineer,MGR-ENG-5,Kolkata,2026-05-09,1.5,Hybrid
+EMP0720,Charles Haley,Customer Support,Senior Engineer,MGR-CUS-4,Pune,2023-09-26,5.6,Office
+EMP0721,Robert Thompson,Data Science,Analyst,MGR-DAT-3,Ahmedabad,2022-10-29,4.7,Office
+EMP0722,Dr. Samuel Holmes DDS,AI,Software Engineer,MGR-AI-1,Delhi NCR,2021-10-20,4.9,Hybrid
+EMP0723,Elizabeth Hart,Engineering,Senior Analyst,MGR-ENG-4,Delhi NCR,2020-01-06,7.1,Office
+EMP0724,Jennifer Vaughn,Customer Support,Senior Engineer,MGR-CUS-3,Bangalore,2021-05-24,6.4,Office
+EMP0725,Robert Woods,HR,Team Lead,MGR-HR-2,Bangalore,2024-07-08,2.7,Hybrid
+EMP0726,Joanna Cook,R&D,Software Engineer,MGR-R&D-4,Mumbai,2023-06-25,3.1,Hybrid
+EMP0727,Justin Frederick,Engineering,Senior Engineer,MGR-ENG-2,Pune,2024-07-18,4.7,Office
+EMP0728,Alejandro Martinez,Procurement,Software Engineer,MGR-PRO-3,Mumbai,2020-02-21,8.9,Office
+EMP0729,Tracey Gonzalez,AI,Principal Engineer,MGR-AI-3,Mumbai,2022-11-17,5.9,Office
+EMP0730,Mariah Thompson,AI,Senior Analyst,MGR-AI-3,Bangalore,2025-11-15,1.2,Office
+EMP0731,Heather Nunez,AI,Senior Engineer,MGR-AI-3,Delhi NCR,2021-12-31,4.9,Office
+EMP0732,Dr. Steve James,Procurement,Software Engineer,MGR-PRO-5,Bangalore,2024-01-22,2.7,Hybrid
+EMP0733,Mark Thomas,IT Operations,Associate,MGR-IT -3,Pune,2019-06-29,9.2,Office
+EMP0734,Robert Rogers,Finance,Senior Engineer,MGR-FIN-5,Jaipur,2026-03-27,3.1,Office
+EMP0735,Laura Sweeney,Sales,Software Engineer,MGR-SAL-1,Jaipur,2023-05-08,4.5,Office
+EMP0736,Christopher Perez,R&D,Team Lead,MGR-R&D-5,Delhi NCR,2020-06-04,6.5,Remote
+EMP0737,Eddie Adams,Marketing,Principal Engineer,MGR-MAR-2,Nagpur,2019-10-14,8.3,Office
+EMP0738,Denise Wallace,Procurement,Software Engineer,MGR-PRO-1,Bangalore,2022-11-22,4.7,Office
+EMP0739,Heidi Matthews,Marketing,Software Engineer,MGR-MAR-2,Jaipur,2022-11-26,4.8,Office
+EMP0740,Jennifer White,Sales,Associate,MGR-SAL-4,Pune,2019-04-08,9.1,Hybrid
+EMP0741,Nicholas Stanley,Marketing,Software Engineer,MGR-MAR-4,Mumbai,2026-05-21,2.3,Hybrid
+EMP0742,Mercedes Miller,Sales,Software Engineer,MGR-SAL-5,Mumbai,2025-10-04,1.1,Office
+EMP0743,Brian Brown,Customer Support,Team Lead,MGR-CUS-2,Pune,2022-03-08,4.5,Office
+EMP0744,Kimberly Johnson,Finance,Associate,MGR-FIN-4,Pune,2019-06-17,10.1,Office
+EMP0745,Phillip Miller,AI,Senior Engineer,MGR-AI-4,Hyderabad,2025-02-12,2.1,Office
+EMP0746,Christopher Pena,R&D,VP,MGR-R&D-4,Delhi NCR,2022-06-23,4.2,Office
+EMP0747,Ellen Wright,Sales,Manager,MGR-SAL-1,Hyderabad,2024-03-15,2.9,Office
+EMP0748,Mark Anderson,HR,Software Engineer,MGR-HR-1,Pune,2022-07-23,4.1,Office
+EMP0749,Alyssa Alvarado,R&D,VP,MGR-R&D-3,Delhi NCR,2020-09-10,7.0,Office
+EMP0750,Erika Alvarez,IT Operations,Senior Engineer,MGR-IT -2,Hyderabad,2025-02-20,3.8,Office
+EMP0751,Kimberly Nelson,Engineering,Senior Engineer,MGR-ENG-4,Bangalore,2026-04-16,1.3,Hybrid
+EMP0752,Wayne Wolfe,Data Science,Team Lead,MGR-DAT-2,Chennai,2020-06-16,7.4,Office
+EMP0753,Kyle Welch,IT Operations,Senior Engineer,MGR-IT -3,Mumbai,2022-11-23,5.7,Office
+EMP0754,Kristy Mills,Sales,Software Engineer,MGR-SAL-5,Mumbai,2021-07-26,6.5,Office
+EMP0755,Emily Reed,Engineering,Software Engineer,MGR-ENG-3,Ahmedabad,2025-10-30,3.3,Remote
+EMP0756,Regina Ramos,Procurement,Senior Engineer,MGR-PRO-4,Mumbai,2022-07-21,6.6,Hybrid
+EMP0757,David Torres,IT Operations,Senior Analyst,MGR-IT -5,Bangalore,2025-06-29,1.1,Office
+EMP0758,Robert Charles,Finance,Team Lead,MGR-FIN-5,Ahmedabad,2025-05-15,3.5,Office
+EMP0759,John Smith,R&D,VP,MGR-R&D-3,Chennai,2020-09-18,7.2,Office
+EMP0760,Theresa Woods,Legal,Senior Engineer,MGR-LEG-4,Pune,2024-10-13,4.7,Office
+EMP0761,Jeffrey Carter,Engineering,Senior Engineer,MGR-ENG-5,Pune,2021-10-25,6.2,Office
+EMP0762,Adam Brooks,Sales,Software Engineer,MGR-SAL-3,Pune,2025-12-04,3.6,Hybrid
+EMP0763,Justin Foster,AI,Software Engineer,MGR-AI-3,Hyderabad,2022-07-20,6.2,Office
+EMP0764,Omar Price,Customer Support,Senior Engineer,MGR-CUS-4,Bangalore,2025-01-10,2.2,Hybrid
+EMP0765,Dennis Henderson,Engineering,Senior Analyst,MGR-ENG-3,Pune,2020-10-07,7.4,Office
+EMP0766,Phillip Kent,HR,Associate,MGR-HR-3,Jaipur,2020-11-22,8.6,Hybrid
+EMP0767,Melinda Mitchell,Legal,Director,MGR-LEG-3,Bangalore,2023-03-06,5.9,Hybrid
+EMP0768,Rhonda Gutierrez,R&D,Software Engineer,MGR-R&D-2,Mumbai,2026-06-09,0.4,Office
+EMP0769,Catherine Roberts,Sales,Associate,MGR-SAL-1,Bangalore,2022-05-29,6.2,Office
+EMP0770,Lisa Nelson,Procurement,Senior Engineer,MGR-PRO-2,Chennai,2019-09-15,7.9,Office
+EMP0771,Chelsea Smith,Engineering,Software Engineer,MGR-ENG-3,Pune,2022-10-17,3.8,Office
+EMP0772,Joseph Lopez,R&D,Associate,MGR-R&D-1,Mumbai,2021-04-06,6.5,Office
+EMP0773,Derrick Espinoza,Engineering,Manager,MGR-ENG-5,Delhi NCR,2022-11-25,4.3,Hybrid
+EMP0774,Crystal Hernandez,Marketing,Software Engineer,MGR-MAR-2,Bangalore,2022-10-31,6.2,Office
+EMP0775,Glenn Collins DDS,Procurement,Senior Engineer,MGR-PRO-2,Bangalore,2022-02-18,5.4,Remote
+EMP0776,Mrs. Raven Rivera DVM,Engineering,Senior Engineer,MGR-ENG-2,Bangalore,2021-01-28,7.9,Office
+EMP0777,Amy Rowe,AI,Analyst,MGR-AI-4,Pune,2020-01-09,6.5,Remote
+EMP0778,John Lee,Customer Support,Senior Engineer,MGR-CUS-3,Pune,2024-01-20,3.4,Office
+EMP0779,Ruth Clayton,Customer Support,Director,MGR-CUS-5,Bangalore,2023-01-21,4.2,Hybrid
+EMP0780,Randy Wright,IT Operations,Software Engineer,MGR-IT -5,Pune,2020-05-18,6.9,Office
+EMP0781,Jessica Rojas,Customer Support,Senior Engineer,MGR-CUS-5,Pune,2024-09-01,2.1,Office
+EMP0782,Joel Wise,HR,Team Lead,MGR-HR-3,Kolkata,2018-11-16,8.2,Hybrid
+EMP0783,Vickie Kennedy,AI,Team Lead,MGR-AI-1,Nagpur,2024-06-04,3.8,Office
+EMP0784,Emily Morris,Sales,Senior Engineer,MGR-SAL-2,Delhi NCR,2024-02-11,3.3,Hybrid
+EMP0785,Amanda Pineda,AI,Analyst,MGR-AI-3,Kolkata,2024-12-14,2.8,Hybrid
+EMP0786,Dawn Little,R&D,Associate,MGR-R&D-2,Mumbai,2021-08-02,6.1,Office
+EMP0787,Stephen Boyer,HR,Associate,MGR-HR-3,Jaipur,2023-10-14,5.4,Office
+EMP0788,Brian Chen,Marketing,Senior Analyst,MGR-MAR-2,Pune,2025-01-10,4.2,Hybrid
+EMP0789,Christopher Hill,Marketing,Senior Analyst,MGR-MAR-3,Jaipur,2026-04-18,1.7,Office
+EMP0790,Richard Smith,Data Science,Team Lead,MGR-DAT-1,Nagpur,2022-06-14,5.1,Hybrid
+EMP0791,Richard Alvarez,Engineering,Senior Analyst,MGR-ENG-5,Chennai,2018-10-28,8.0,Hybrid
+EMP0792,Jacqueline Davis,HR,Senior Engineer,MGR-HR-2,Nagpur,2022-07-04,6.9,Office
+EMP0793,Brandon Montgomery,Finance,Senior Engineer,MGR-FIN-3,Hyderabad,2023-03-15,3.5,Office
+EMP0794,Yolanda Garrett,IT Operations,Senior Engineer,MGR-IT -1,Mumbai,2025-06-01,2.0,Hybrid
+EMP0795,Matthew Miles,Engineering,Senior Engineer,MGR-ENG-1,Bangalore,2025-06-14,2.0,Office
+EMP0796,Beth Hall,R&D,Senior Engineer,MGR-R&D-5,Hyderabad,2022-01-06,5.5,Office
+EMP0797,Dr. Nicole Trujillo,Data Science,Principal Engineer,MGR-DAT-3,Pune,2022-09-11,4.3,Office
+EMP0798,Corey Norris,HR,Senior Engineer,MGR-HR-2,Hyderabad,2022-02-23,6.7,Office
+EMP0799,Chad Roach,Customer Support,Software Engineer,MGR-CUS-4,Nagpur,2024-04-01,2.6,Office
+EMP0800,Mr. Edward Terry,R&D,Team Lead,MGR-R&D-1,Pune,2021-10-10,6.7,Office
+EMP0801,Cody Bailey,Customer Support,Software Engineer,MGR-CUS-1,Delhi NCR,2023-09-18,3.2,Hybrid
+EMP0802,Denise Guerra,Engineering,Software Engineer,MGR-ENG-5,Ahmedabad,2019-10-02,7.0,Office
+EMP0803,Kristen Jones,HR,Software Engineer,MGR-HR-3,Jaipur,2022-03-31,7.0,Office
+EMP0804,Edward Baker,IT Operations,Senior Engineer,MGR-IT -4,Jaipur,2026-03-15,0.9,Remote
+EMP0805,Aaron Little,Marketing,Senior Engineer,MGR-MAR-4,Bangalore,2021-03-18,7.8,Hybrid
+EMP0806,Cody Smith,Customer Support,Senior Analyst,MGR-CUS-4,Nagpur,2024-01-06,4.1,Hybrid
+EMP0807,Patty Allen,Data Science,Analyst,MGR-DAT-3,Delhi NCR,2023-09-04,3.1,Office
+EMP0808,Mary Ryan,R&D,Senior Engineer,MGR-R&D-2,Pune,2025-04-10,4.1,Hybrid
+EMP0809,Joseph Jimenez,Marketing,Senior Engineer,MGR-MAR-1,Bangalore,2025-04-11,2.0,Office
+EMP0810,Lisa Morris,Engineering,Senior Engineer,MGR-ENG-3,Chennai,2025-05-02,3.8,Office
+EMP0811,Ashley Mills,Data Science,Analyst,MGR-DAT-4,Mumbai,2021-07-15,5.5,Office
+EMP0812,Russell Anderson,R&D,Software Engineer,MGR-R&D-1,Hyderabad,2021-01-13,8.1,Office
+EMP0813,Christina Washington,Engineering,Software Engineer,MGR-ENG-1,Chennai,2024-03-21,2.4,Hybrid
+EMP0814,Kenneth Huff,R&D,Senior Analyst,MGR-R&D-4,Pune,2024-07-17,3.5,Office
+EMP0815,Kelly Miles,R&D,Senior Engineer,MGR-R&D-4,Hyderabad,2025-06-08,3.4,Hybrid
+EMP0816,Jacob Obrien,Finance,Software Engineer,MGR-FIN-1,Delhi NCR,2018-10-24,10.5,Hybrid
+EMP0817,Timothy Clark,IT Operations,Software Engineer,MGR-IT -5,Bangalore,2019-01-26,10.2,Hybrid
+EMP0818,Steve Miller PhD,Marketing,Associate,MGR-MAR-1,Pune,2023-07-12,5.5,Office
+EMP0819,Justin Hurley,Engineering,Senior Analyst,MGR-ENG-2,Pune,2025-10-27,3.4,Hybrid
+EMP0820,Jacob Erickson,Sales,Analyst,MGR-SAL-2,Mumbai,2026-06-05,0.7,Office
+EMP0821,Deborah Williams,Procurement,Team Lead,MGR-PRO-5,Ahmedabad,2024-06-10,2.9,Office
+EMP0822,Eric Blackburn,Engineering,Team Lead,MGR-ENG-3,Mumbai,2021-12-19,5.4,Remote
+EMP0823,Anne Hardy,Sales,Director,MGR-SAL-1,Hyderabad,2019-04-23,8.4,Office
+EMP0824,Chelsey Fox,Marketing,Principal Engineer,MGR-MAR-2,Mumbai,2023-07-19,4.2,Office
+EMP0825,Mario White,Finance,Software Engineer,MGR-FIN-1,Mumbai,2025-06-09,2.7,Hybrid
+EMP0826,Jennifer Garcia,R&D,Senior Analyst,MGR-R&D-5,Kolkata,2022-01-16,5.0,Office
+EMP0827,Heather Ellis,Sales,Software Engineer,MGR-SAL-4,Chennai,2024-01-10,4.6,Hybrid
+EMP0828,Sonya Jackson,Sales,Software Engineer,MGR-SAL-5,Pune,2025-09-06,1.4,Office
+EMP0829,James Morgan,Customer Support,Manager,MGR-CUS-5,Bangalore,2018-11-23,8.6,Office
+EMP0830,Zachary Ramos,Marketing,Senior Engineer,MGR-MAR-5,Pune,2024-10-31,3.2,Office
+EMP0831,Ethan Frey,AI,Associate,MGR-AI-2,Bangalore,2020-11-07,8.1,Office
+EMP0832,Jacob Duran,Marketing,Software Engineer,MGR-MAR-5,Chennai,2021-07-01,7.3,Office
+EMP0833,Nicholas Franklin,Engineering,Team Lead,MGR-ENG-4,Pune,2019-09-06,8.8,Hybrid
+EMP0834,Cindy Cannon,AI,Associate,MGR-AI-4,Mumbai,2022-09-26,4.3,Office
+EMP0835,Dawn Nixon,Finance,Associate,MGR-FIN-4,Bangalore,2023-01-04,5.2,Remote
+EMP0836,James Barber,Marketing,Software Engineer,MGR-MAR-3,Ahmedabad,2024-10-20,2.0,Office
+EMP0837,Ms. Kelly Holder,R&D,Senior Engineer,MGR-R&D-5,Nagpur,2019-11-16,7.8,Office
+EMP0838,Eric Walker,Sales,Manager,MGR-SAL-4,Pune,2019-02-26,8.6,Hybrid
+EMP0839,Alison Short,HR,Software Engineer,MGR-HR-3,Delhi NCR,2025-06-04,1.2,Remote
+EMP0840,Desiree Spencer,IT Operations,Principal Engineer,MGR-IT -5,Mumbai,2023-06-09,3.9,Office
+EMP0841,Tammy Moore,Engineering,Associate,MGR-ENG-5,Bangalore,2020-06-08,9.0,Hybrid
+EMP0842,Henry Taylor,IT Operations,Software Engineer,MGR-IT -1,Delhi NCR,2025-10-03,3.6,Hybrid
+EMP0843,Kevin Hall,AI,Software Engineer,MGR-AI-5,Ahmedabad,2019-08-30,7.9,Office
+EMP0844,Anna Ross,Data Science,Software Engineer,MGR-DAT-1,Jaipur,2022-03-07,4.5,Hybrid
+EMP0845,Morgan Cummings,Engineering,Associate,MGR-ENG-2,Hyderabad,2020-07-16,6.5,Office
+EMP0846,Carrie Petersen,Marketing,Software Engineer,MGR-MAR-2,Mumbai,2020-07-20,7.2,Hybrid
+EMP0847,Laura Velez,Engineering,Senior Engineer,MGR-ENG-3,Delhi NCR,2018-08-09,10.8,Remote
+EMP0848,Elizabeth Cross,Data Science,Senior Engineer,MGR-DAT-1,Mumbai,2024-11-24,2.1,Hybrid
+EMP0849,Angela Brown,Finance,Team Lead,MGR-FIN-2,Hyderabad,2025-08-31,3.2,Office
+EMP0850,Hannah Montoya,IT Operations,Software Engineer,MGR-IT -2,Mumbai,2023-11-23,3.0,Office
+EMP0851,Sean Kane,Engineering,Software Engineer,MGR-ENG-2,Hyderabad,2019-10-12,9.7,Remote
+EMP0852,Matthew Guzman,Customer Support,Associate,MGR-CUS-5,Mumbai,2022-01-10,5.6,Office
+EMP0853,Richard Reyes,AI,Associate,MGR-AI-1,Pune,2021-04-07,7.6,Office
+EMP0854,Andrew Fernandez,R&D,Senior Analyst,MGR-R&D-2,Ahmedabad,2023-03-08,4.4,Hybrid
+EMP0855,Jonathan Walker,AI,Software Engineer,MGR-AI-1,Pune,2023-08-03,4.8,Office
+EMP0856,Nicholas Long,AI,Senior Engineer,MGR-AI-4,Bangalore,2021-11-21,5.2,Office
+EMP0857,Kurt Wagner,Engineering,Manager,MGR-ENG-4,Mumbai,2020-07-05,6.5,Office
+EMP0858,Dylan Foster,Finance,Software Engineer,MGR-FIN-5,Pune,2025-03-22,4.1,Office
+EMP0859,Bradley Duncan,HR,Associate,MGR-HR-4,Pune,2020-02-09,9.2,Hybrid
+EMP0860,James Miller,Engineering,Manager,MGR-ENG-3,Pune,2021-07-29,7.6,Hybrid
+EMP0861,Patricia Anderson,Legal,Software Engineer,MGR-LEG-1,Kolkata,2022-05-10,6.1,Office
+EMP0862,Justin Freeman,Marketing,Associate,MGR-MAR-2,Mumbai,2020-05-28,8.5,Hybrid
+EMP0863,Christina Gilbert,Finance,Principal Engineer,MGR-FIN-3,Jaipur,2023-01-22,3.7,Hybrid
+EMP0864,Danielle Jones,Marketing,Software Engineer,MGR-MAR-3,Hyderabad,2023-01-30,4.5,Hybrid
+EMP0865,Erica Glass,Marketing,Team Lead,MGR-MAR-4,Bangalore,2026-05-22,1.1,Office
+EMP0866,Michael Henderson,HR,Senior Engineer,MGR-HR-1,Hyderabad,2020-11-12,7.6,Hybrid
+EMP0867,Frank Wheeler,Engineering,Senior Engineer,MGR-ENG-2,Bangalore,2026-04-10,1.3,Office
+EMP0868,Eric Huerta,AI,Software Engineer,MGR-AI-3,Delhi NCR,2023-09-28,3.2,Hybrid
+EMP0869,Wanda Ramos,R&D,Team Lead,MGR-R&D-5,Mumbai,2020-09-13,7.6,Hybrid
+EMP0870,Andrew Meyers,Data Science,Principal Engineer,MGR-DAT-2,Mumbai,2023-01-04,6.0,Office
+EMP0871,James Todd,Sales,Team Lead,MGR-SAL-4,Ahmedabad,2023-12-17,3.7,Remote
+EMP0872,Ashley Brown,Sales,Software Engineer,MGR-SAL-1,Jaipur,2024-06-04,2.5,Office
+EMP0873,Tammy Melton,IT Operations,Manager,MGR-IT -5,Ahmedabad,2018-12-01,8.2,Hybrid
+EMP0874,Alexis Benson,Marketing,Senior Engineer,MGR-MAR-2,Bangalore,2023-05-01,3.9,Office
+EMP0875,Jerry Johnson,Engineering,Senior Analyst,MGR-ENG-2,Delhi NCR,2022-06-18,5.0,Remote
+EMP0876,Joshua Harris,Engineering,Senior Engineer,MGR-ENG-3,Bangalore,2025-09-08,2.8,Office
+EMP0877,Deanna Webb,Customer Support,Software Engineer,MGR-CUS-2,Bangalore,2020-10-17,7.5,Office
+EMP0878,Brenda Hale,IT Operations,Software Engineer,MGR-IT -1,Pune,2024-11-08,3.8,Office
+EMP0879,Kevin Alvarado,Engineering,Analyst,MGR-ENG-1,Hyderabad,2023-05-03,4.3,Office
+EMP0880,Christopher Campbell,AI,Software Engineer,MGR-AI-2,Pune,2021-04-26,7.7,Office
+EMP0881,Lisa Brown,AI,Analyst,MGR-AI-3,Mumbai,2023-07-28,3.6,Hybrid
+EMP0882,Alejandra Price,IT Operations,Software Engineer,MGR-IT -5,Kolkata,2023-06-12,4.5,Office
+EMP0883,Samuel Keller,Engineering,Senior Engineer,MGR-ENG-5,Pune,2023-11-24,5.0,Office
+EMP0884,Alicia Dillon,Engineering,Senior Engineer,MGR-ENG-3,Pune,2024-03-27,2.8,Office
+EMP0885,Crystal James,Procurement,Principal Engineer,MGR-PRO-4,Pune,2023-10-01,3.1,Hybrid
+EMP0886,Ariana Stewart,AI,Associate,MGR-AI-1,Jaipur,2025-03-02,4.0,Hybrid
+EMP0887,Kim Lopez,IT Operations,Software Engineer,MGR-IT -4,Bangalore,2023-07-03,4.1,Hybrid
+EMP0888,Judith House,AI,Senior Engineer,MGR-AI-3,Bangalore,2025-09-06,2.9,Hybrid
+EMP0889,David Moreno,Engineering,Software Engineer,MGR-ENG-4,Delhi NCR,2023-08-25,3.0,Office
+EMP0890,James Moore,AI,Team Lead,MGR-AI-3,Kolkata,2020-12-22,7.6,Office
+EMP0891,Harold Garrett,Customer Support,Senior Engineer,MGR-CUS-5,Mumbai,2022-01-07,5.5,Office
+EMP0892,William Mason,R&D,Associate,MGR-R&D-5,Chennai,2023-02-13,3.6,Hybrid
+EMP0893,Lori Johns,R&D,Associate,MGR-R&D-4,Delhi NCR,2024-04-29,4.0,Remote
+EMP0894,Robin Johnson,Marketing,Senior Engineer,MGR-MAR-4,Hyderabad,2019-03-30,8.0,Office
+EMP0895,Diana Hernandez,IT Operations,Team Lead,MGR-IT -1,Pune,2020-11-12,6.8,Office
+EMP0896,Mary Miller,AI,Associate,MGR-AI-5,Kolkata,2024-06-12,2.3,Office
+EMP0897,Tyler Salazar,Sales,Senior Analyst,MGR-SAL-1,Bangalore,2019-12-02,7.1,Office
+EMP0898,Crystal Allen,R&D,Software Engineer,MGR-R&D-4,Mumbai,2019-07-30,7.8,Hybrid
+EMP0899,Wesley Browning,Engineering,Senior Engineer,MGR-ENG-3,Bangalore,2022-10-19,4.0,Office
+EMP0900,Joshua Clark,Engineering,Senior Engineer,MGR-ENG-5,Pune,2026-03-22,3.0,Remote
+EMP0901,Joshua Mcbride,AI,Software Engineer,MGR-AI-3,Pune,2022-09-25,3.8,Office
+EMP0902,Ellen Thornton,Engineering,Software Engineer,MGR-ENG-1,Delhi NCR,2025-10-05,2.2,Remote
+EMP0903,Brandy Forbes,AI,Software Engineer,MGR-AI-1,Pune,2025-02-07,1.8,Hybrid
+EMP0904,Brianna Fitzpatrick,HR,Manager,MGR-HR-2,Bangalore,2020-07-25,6.9,Hybrid
+EMP0905,Emily Grant,Marketing,Software Engineer,MGR-MAR-5,Bangalore,2025-01-22,4.2,Hybrid
+EMP0906,Bailey Stewart,R&D,Software Engineer,MGR-R&D-5,Pune,2022-05-06,4.7,Hybrid
+EMP0907,Monica Cannon,Procurement,Software Engineer,MGR-PRO-1,Nagpur,2024-11-30,4.5,Hybrid
+EMP0908,Jennifer Jenkins,Sales,Senior Analyst,MGR-SAL-3,Mumbai,2024-06-10,2.7,Hybrid
+EMP0909,Timothy Shannon,AI,Senior Analyst,MGR-AI-5,Mumbai,2021-03-18,7.5,Hybrid
+EMP0910,Denise Maxwell,Sales,Team Lead,MGR-SAL-1,Mumbai,2019-06-11,8.7,Remote
+EMP0911,Cody Farmer,IT Operations,Senior Engineer,MGR-IT -2,Mumbai,2026-02-25,3.0,Hybrid
+EMP0912,Debra Bradley,AI,Director,MGR-AI-4,Pune,2019-08-24,8.5,Hybrid
+EMP0913,David Mcdaniel,IT Operations,Software Engineer,MGR-IT -5,Chennai,2026-03-08,2.0,Hybrid
+EMP0914,Michael Woods,Marketing,Software Engineer,MGR-MAR-4,Jaipur,2025-05-04,1.8,Office
+EMP0915,Lisa Joseph,HR,Senior Engineer,MGR-HR-3,Mumbai,2024-04-06,2.8,Office
+EMP0916,Samuel Henry,Marketing,Software Engineer,MGR-MAR-2,Chennai,2026-04-15,3.0,Office
+EMP0917,Corey Johnson,Sales,Senior Engineer,MGR-SAL-5,Delhi NCR,2026-03-10,1.3,Office
+EMP0918,Alexis Nelson,Data Science,Associate,MGR-DAT-4,Kolkata,2024-11-24,2.7,Hybrid
+EMP0919,Patrick Mcneil,Legal,Manager,MGR-LEG-4,Bangalore,2021-06-04,7.4,Office
+EMP0920,Andrea Ho,Engineering,Senior Engineer,MGR-ENG-1,Mumbai,2024-10-15,2.8,Hybrid
+EMP0921,Dr. Katherine Nguyen,R&D,Associate,MGR-R&D-4,Mumbai,2018-08-22,10.7,Office
+EMP0922,David Sullivan,Finance,Software Engineer,MGR-FIN-3,Chennai,2022-10-11,6.0,Office
+EMP0923,Nicolas James,R&D,Software Engineer,MGR-R&D-4,Delhi NCR,2022-02-17,6.2,Hybrid
+EMP0924,Logan Newton,Procurement,Team Lead,MGR-PRO-3,Pune,2023-11-09,5.3,Hybrid
+EMP0925,Kelly Liu,Marketing,Manager,MGR-MAR-3,Mumbai,2023-11-08,2.8,Office
+EMP0926,Kelly Hayes,Engineering,Software Engineer,MGR-ENG-1,Ahmedabad,2023-02-27,4.1,Hybrid
+EMP0927,Amanda Forbes,AI,Senior Engineer,MGR-AI-2,Delhi NCR,2025-01-15,2.9,Hybrid
+EMP0928,Jennifer Moss,HR,Manager,MGR-HR-3,Nagpur,2025-12-22,1.2,Office
+EMP0929,Kelli Mccoy,IT Operations,Analyst,MGR-IT -4,Delhi NCR,2019-05-22,9.4,Office
+EMP0930,Eddie Sanders,AI,Manager,MGR-AI-4,Bangalore,2020-05-19,8.9,Remote
+EMP0931,Ronald Murray,Engineering,Senior Engineer,MGR-ENG-3,Hyderabad,2018-09-23,9.1,Office
+EMP0932,Louis Brown,R&D,Software Engineer,MGR-R&D-4,Chennai,2025-07-13,2.0,Office
+EMP0933,Brenda Gallegos,Data Science,Senior Engineer,MGR-DAT-5,Pune,2022-12-22,6.4,Office
+EMP0934,Nathan Wilson,Finance,Software Engineer,MGR-FIN-1,Bangalore,2025-10-10,2.1,Hybrid
+EMP0935,Teresa Horton,AI,Principal Engineer,MGR-AI-4,Chennai,2020-04-13,7.7,Hybrid
+EMP0936,Jason Hayes,Sales,Senior Engineer,MGR-SAL-1,Pune,2019-01-11,8.6,Hybrid
+EMP0937,Kevin Marquez,Engineering,Senior Engineer,MGR-ENG-3,Delhi NCR,2025-01-19,4.2,Office
+EMP0938,Jesse Wright,R&D,Analyst,MGR-R&D-3,Hyderabad,2025-09-23,2.5,Hybrid
+EMP0939,Susan Hogan,Engineering,Team Lead,MGR-ENG-3,Jaipur,2020-12-02,7.9,Office
+EMP0940,Becky Wilson,HR,Senior Engineer,MGR-HR-1,Pune,2021-10-05,7.2,Office
+EMP0941,Jack Mills,Sales,Senior Analyst,MGR-SAL-4,Mumbai,2019-08-21,7.9,Office
+EMP0942,Richard Hunt,HR,Associate,MGR-HR-5,Hyderabad,2026-01-08,1.8,Office
+EMP0943,Jamie James,IT Operations,Manager,MGR-IT -1,Mumbai,2020-12-09,8.1,Hybrid
+EMP0944,Susan Cunningham,Procurement,Software Engineer,MGR-PRO-5,Chennai,2022-06-06,5.2,Remote
+EMP0945,Brittany Melton,AI,Team Lead,MGR-AI-4,Delhi NCR,2019-04-20,9.6,Office
+EMP0946,Michael Barnes,Engineering,Analyst,MGR-ENG-4,Pune,2025-07-21,3.8,Hybrid
+EMP0947,Randy Griffin,Engineering,Software Engineer,MGR-ENG-1,Bangalore,2019-08-09,8.8,Hybrid
+EMP0948,Autumn Anderson,R&D,Software Engineer,MGR-R&D-2,Bangalore,2022-02-13,6.6,Remote
+EMP0949,Marcus King,R&D,Associate,MGR-R&D-5,Mumbai,2023-11-03,5.1,Office
+EMP0950,Scott Stephens,IT Operations,Software Engineer,MGR-IT -3,Jaipur,2024-05-31,4.7,Hybrid
+EMP0951,Stephen Young,IT Operations,Analyst,MGR-IT -5,Delhi NCR,2026-01-07,1.7,Office
+EMP0952,Karen Ortiz,IT Operations,Senior Engineer,MGR-IT -4,Chennai,2021-11-06,4.8,Hybrid
+EMP0953,Kyle Sanchez,AI,Senior Engineer,MGR-AI-4,Chennai,2024-05-28,3.3,Office
+EMP0954,Lisa Grant,R&D,Software Engineer,MGR-R&D-1,Bangalore,2019-10-02,8.8,Hybrid
+EMP0955,Amber Hernandez,Marketing,Senior Analyst,MGR-MAR-2,Ahmedabad,2021-10-24,6.1,Office
+EMP0956,Amanda Nash,Sales,Senior Engineer,MGR-SAL-3,Chennai,2019-04-25,9.5,Office
+EMP0957,Sara Evans,Finance,Team Lead,MGR-FIN-5,Chennai,2022-05-28,5.2,Hybrid
+EMP0958,Amber Butler,Engineering,Manager,MGR-ENG-2,Kolkata,2021-10-05,6.7,Hybrid
+EMP0959,Michael Carr,AI,Analyst,MGR-AI-3,Mumbai,2026-01-23,1.0,Hybrid
+EMP0960,Linda Cobb,Customer Support,Principal Engineer,MGR-CUS-4,Delhi NCR,2018-10-15,10.0,Hybrid
+EMP0961,Jesse Riley,Engineering,Team Lead,MGR-ENG-4,Pune,2021-06-18,6.7,Office
+EMP0962,Anna Evans,IT Operations,Senior Engineer,MGR-IT -1,Mumbai,2022-01-15,5.1,Office
+EMP0963,James Jones,AI,Principal Engineer,MGR-AI-1,Mumbai,2026-01-21,1.3,Office
+EMP0964,Joshua Carter,Sales,Manager,MGR-SAL-5,Nagpur,2025-04-20,3.5,Office
+EMP0965,Michael Hill,Sales,Senior Engineer,MGR-SAL-2,Kolkata,2019-04-26,8.7,Hybrid
+EMP0966,Kelly Dominguez,Sales,Software Engineer,MGR-SAL-2,Chennai,2023-12-16,3.2,Hybrid
+EMP0967,Ashley Blair,Customer Support,Senior Analyst,MGR-CUS-3,Chennai,2022-11-03,6.6,Hybrid
+EMP0968,Victoria Webb,Sales,Senior Engineer,MGR-SAL-5,Hyderabad,2026-04-09,2.4,Hybrid
+EMP0969,Taylor Andersen,HR,Manager,MGR-HR-1,Jaipur,2021-05-15,8.0,Hybrid
+EMP0970,Lee Stewart,Finance,Senior Engineer,MGR-FIN-5,Bangalore,2021-09-06,6.1,Office
+EMP0971,Whitney Gomez,IT Operations,Software Engineer,MGR-IT -4,Bangalore,2020-01-12,7.9,Office
+EMP0972,Justin Stone,Data Science,Manager,MGR-DAT-1,Pune,2019-07-01,9.7,Hybrid
+EMP0973,Katherine White,Customer Support,Software Engineer,MGR-CUS-2,Delhi NCR,2025-03-30,2.9,Office
+EMP0974,Michelle Krause,AI,Senior Engineer,MGR-AI-1,Chennai,2022-02-17,6.5,Office
+EMP0975,Alexander Garrett,Engineering,Team Lead,MGR-ENG-4,Bangalore,2023-10-11,3.5,Office
+EMP0976,Ryan Marsh,AI,Senior Engineer,MGR-AI-1,Pune,2023-08-11,4.3,Hybrid
+EMP0977,Mrs. Felicia Castro DDS,IT Operations,Analyst,MGR-IT -2,Kolkata,2023-04-04,3.6,Office
+EMP0978,Curtis Campbell,Engineering,Senior Analyst,MGR-ENG-4,Pune,2018-09-12,8.5,Hybrid
+EMP0979,Elizabeth Hunter,Finance,Analyst,MGR-FIN-3,Chennai,2024-10-04,1.8,Hybrid
+EMP0980,Aaron Jennings,IT Operations,Software Engineer,MGR-IT -5,Nagpur,2020-06-16,6.2,Office
+EMP0981,Nathaniel Gilbert,Sales,Software Engineer,MGR-SAL-3,Bangalore,2019-07-12,9.9,Hybrid
+EMP0982,Christopher Rivera,Legal,Team Lead,MGR-LEG-4,Mumbai,2022-12-31,4.3,Hybrid
+EMP0983,Michael Hendricks,Engineering,Associate,MGR-ENG-4,Chennai,2019-01-27,9.4,Hybrid
+EMP0984,Maria Olson,Engineering,Senior Analyst,MGR-ENG-4,Delhi NCR,2024-08-02,4.5,Hybrid
+EMP0985,Stephanie Herrera,Customer Support,Senior Analyst,MGR-CUS-2,Bangalore,2020-03-03,8.0,Office
+EMP0986,Richard Gutierrez,Finance,Senior Engineer,MGR-FIN-4,Jaipur,2020-03-28,6.8,Hybrid
+EMP0987,Sandy Evans,Customer Support,Senior Engineer,MGR-CUS-5,Pune,2025-06-01,3.3,Office
+EMP0988,Emily Herrera,Marketing,Senior Engineer,MGR-MAR-2,Bangalore,2021-02-17,7.2,Remote
+EMP0989,Michael Marsh,AI,Software Engineer,MGR-AI-4,Chennai,2019-09-12,9.0,Hybrid
+EMP0990,Heather Montes,Procurement,Software Engineer,MGR-PRO-2,Kolkata,2025-08-29,3.2,Hybrid
+EMP0991,Andre Terrell,Procurement,Principal Engineer,MGR-PRO-5,Pune,2018-07-21,10.9,Office
+EMP0992,Sarah Duncan,Customer Support,Software Engineer,MGR-CUS-5,Delhi NCR,2025-04-29,2.9,Office
+EMP0993,Kurt Hancock,Sales,Software Engineer,MGR-SAL-2,Bangalore,2019-09-04,7.9,Office
+EMP0994,Michele Edwards,IT Operations,Software Engineer,MGR-IT -1,Bangalore,2019-07-23,8.9,Office
+EMP0995,Jason Crawford,Sales,Associate,MGR-SAL-3,Pune,2020-07-06,6.2,Office
+EMP0996,Jesse Sampson,Engineering,Team Lead,MGR-ENG-4,Kolkata,2019-11-29,9.3,Office
+EMP0997,Eric Rodriguez,R&D,Manager,MGR-R&D-3,Pune,2023-10-06,3.1,Office
+EMP0998,Paula Gentry,Engineering,Associate,MGR-ENG-5,Mumbai,2018-09-25,8.8,Remote
+EMP0999,Alexander Webb,Data Science,Senior Engineer,MGR-DAT-3,Mumbai,2018-08-24,10.3,Office
+EMP1000,Cheryl Mclean,Marketing,Manager,MGR-MAR-1,Kolkata,2024-10-13,3.5,Remote
+EMP1001,Kelly Rowe,AI,Software Engineer,MGR-AI-3,Chennai,2020-05-31,7.3,Remote
+EMP1002,Shane Short,HR,Software Engineer,MGR-HR-3,Delhi NCR,2021-02-03,6.9,Office
+EMP1003,Megan Anderson,R&D,Senior Analyst,MGR-R&D-5,Mumbai,2019-11-28,9.2,Hybrid
+EMP1004,Julia Reeves,Customer Support,Analyst,MGR-CUS-5,Hyderabad,2018-12-11,8.6,Office
+EMP1005,April Randolph,Procurement,Senior Engineer,MGR-PRO-4,Hyderabad,2024-05-27,4.7,Hybrid
+EMP1006,Linda Miller,IT Operations,Senior Engineer,MGR-IT -2,Kolkata,2022-09-11,4.1,Office
+EMP1007,Angel Meyer,Customer Support,Team Lead,MGR-CUS-4,Ahmedabad,2024-06-07,4.4,Office
+EMP1008,Emily Lane,R&D,Software Engineer,MGR-R&D-5,Pune,2022-04-20,6.8,Hybrid
+EMP1009,Steven Flores,AI,Software Engineer,MGR-AI-4,Chennai,2024-09-09,2.4,Office
+EMP1010,Donald Flores,Finance,Software Engineer,MGR-FIN-3,Pune,2022-08-05,5.2,Hybrid
+EMP1011,Bruce Hernandez,AI,Software Engineer,MGR-AI-3,Bangalore,2019-05-24,7.6,Office
+EMP1012,Adrian Dean,Data Science,Senior Analyst,MGR-DAT-5,Mumbai,2022-07-09,6.1,Office
+EMP1013,Christine Bell,Data Science,Software Engineer,MGR-DAT-5,Mumbai,2026-01-06,2.1,Office
+EMP1014,Charles Bush,Engineering,Software Engineer,MGR-ENG-4,Mumbai,2018-11-15,9.6,Office
+EMP1015,David Jones,Customer Support,Team Lead,MGR-CUS-4,Hyderabad,2024-09-24,2.4,Office
+EMP1016,Gina Wallace,R&D,Associate,MGR-R&D-3,Mumbai,2025-05-24,1.8,Office
+EMP1017,John Lowe,AI,Software Engineer,MGR-AI-2,Chennai,2022-08-29,4.0,Office
+EMP1018,Anthony Simmons,HR,Software Engineer,MGR-HR-2,Bangalore,2022-02-26,5.3,Hybrid
+EMP1019,Kyle Watkins,R&D,Senior Engineer,MGR-R&D-5,Pune,2026-02-28,2.0,Office
+EMP1020,Melissa Jensen,Engineering,Analyst,MGR-ENG-4,Delhi NCR,2019-01-04,10.1,Hybrid
+EMP1021,Robert Marquez,Customer Support,Team Lead,MGR-CUS-2,Mumbai,2022-04-28,6.2,Office
+EMP1022,Kim Beltran,Sales,Senior Analyst,MGR-SAL-4,Bangalore,2021-09-16,6.1,Hybrid
+EMP1023,Julie Anderson,R&D,Principal Engineer,MGR-R&D-1,Chennai,2023-12-18,5.4,Office
+EMP1024,Tamara Mcdonald,Data Science,Senior Analyst,MGR-DAT-3,Mumbai,2022-05-30,6.3,Office
+EMP1025,Michael Mckinney,Data Science,Manager,MGR-DAT-4,Pune,2025-09-24,3.6,Office
+EMP1026,David Walker,Finance,Team Lead,MGR-FIN-4,Mumbai,2019-02-10,9.0,Office
+EMP1027,Lisa Durham,R&D,Software Engineer,MGR-R&D-4,Jaipur,2019-03-03,8.1,Hybrid
+EMP1028,Michael Ortega,R&D,Director,MGR-R&D-2,Hyderabad,2023-05-07,3.3,Office
+EMP1029,Sonya Chavez,Sales,Senior Engineer,MGR-SAL-4,Chennai,2019-01-18,9.7,Remote
+EMP1030,John Bell,Procurement,Software Engineer,MGR-PRO-1,Hyderabad,2020-09-15,6.2,Office
+EMP1031,Christopher Tate,Engineering,Manager,MGR-ENG-2,Pune,2023-07-17,3.9,Office
+EMP1032,Bethany Garcia,IT Operations,Senior Engineer,MGR-IT -5,Bangalore,2022-11-14,5.3,Hybrid
+EMP1033,Rebecca Nguyen,AI,Team Lead,MGR-AI-5,Delhi NCR,2021-02-07,7.1,Office
+EMP1034,Rebecca Patel,Engineering,Team Lead,MGR-ENG-3,Pune,2026-05-28,1.9,Hybrid
+EMP1035,Jason Oliver,Engineering,Senior Engineer,MGR-ENG-1,Mumbai,2022-09-24,4.3,Office
+EMP1036,Valerie Reyes,Customer Support,Senior Analyst,MGR-CUS-4,Mumbai,2022-02-14,5.5,Hybrid
+EMP1037,Robert Garza,Sales,Software Engineer,MGR-SAL-1,Bangalore,2023-04-28,5.1,Office
+EMP1038,Jessica Cobb,Customer Support,Senior Engineer,MGR-CUS-5,Nagpur,2019-04-25,10.1,Hybrid
+EMP1039,Cynthia Bates,Engineering,Team Lead,MGR-ENG-4,Pune,2024-02-01,4.6,Hybrid
+EMP1040,Timothy Andrews,Sales,Manager,MGR-SAL-1,Bangalore,2025-04-13,4.0,Office
+EMP1041,Mr. Joel Peters,Finance,Senior Analyst,MGR-FIN-2,Pune,2023-09-07,5.1,Office
+EMP1042,Casey Blanchard,Procurement,Senior Engineer,MGR-PRO-4,Nagpur,2024-08-13,3.7,Office
+EMP1043,Brian Cervantes,Sales,Manager,MGR-SAL-2,Pune,2024-03-27,2.9,Remote
+EMP1044,Jamie Snyder,IT Operations,Software Engineer,MGR-IT -1,Bangalore,2020-03-25,8.3,Office
+EMP1045,Ann Montoya,R&D,Associate,MGR-R&D-4,Chennai,2022-02-07,6.3,Office
+EMP1046,Stephanie Fields,IT Operations,Senior Engineer,MGR-IT -3,Chennai,2020-05-03,8.0,Office
+EMP1047,Charles Hernandez,AI,Analyst,MGR-AI-3,Bangalore,2021-03-19,6.8,Office
+EMP1048,Jean Lane,Engineering,Software Engineer,MGR-ENG-5,Mumbai,2022-02-13,6.0,Hybrid
+EMP1049,Michael Stewart,R&D,Software Engineer,MGR-R&D-4,Bangalore,2021-10-28,5.7,Remote
+EMP1050,Susan Torres,Engineering,Team Lead,MGR-ENG-1,Mumbai,2019-04-13,8.8,Office
+EMP1051,Jessica Haas,R&D,Associate,MGR-R&D-3,Pune,2021-11-28,5.2,Hybrid
+EMP1052,Brandon Smith,Finance,Team Lead,MGR-FIN-5,Bangalore,2023-10-18,5.2,Office
+EMP1053,Mrs. Bethany Phillips,Data Science,Associate,MGR-DAT-4,Mumbai,2021-06-29,5.6,Office
+EMP1054,Joshua Brown,Procurement,Team Lead,MGR-PRO-3,Mumbai,2019-09-27,7.0,Office
+EMP1055,Samantha Howard,Data Science,Team Lead,MGR-DAT-4,Hyderabad,2025-11-02,2.0,Hybrid
+EMP1056,Sharon Young,Sales,Software Engineer,MGR-SAL-5,Jaipur,2019-01-23,9.4,Remote
+EMP1057,Jennifer Flores,Legal,Senior Analyst,MGR-LEG-1,Hyderabad,2025-02-11,2.7,Hybrid
+EMP1058,James Gardner,Marketing,Software Engineer,MGR-MAR-5,Pune,2019-04-08,8.1,Office
+EMP1059,Karen Lopez,Finance,Associate,MGR-FIN-1,Pune,2019-04-18,8.9,Office
+EMP1060,Tim Larsen,IT Operations,Associate,MGR-IT -2,Jaipur,2024-05-18,3.2,Office
+EMP1061,Zachary Santiago,R&D,Principal Engineer,MGR-R&D-3,Mumbai,2024-12-15,4.4,Remote
+EMP1062,Benjamin Smith,Data Science,Team Lead,MGR-DAT-2,Pune,2022-12-08,6.4,Hybrid
+EMP1063,Katelyn Kim,Legal,Manager,MGR-LEG-1,Hyderabad,2023-03-05,4.9,Hybrid
+EMP1064,Angela May MD,Marketing,Analyst,MGR-MAR-4,Hyderabad,2022-12-23,4.5,Office
+EMP1065,Richard Munoz,Marketing,Software Engineer,MGR-MAR-1,Hyderabad,2021-02-20,7.6,Office
+EMP1066,Christopher Hicks,Customer Support,Manager,MGR-CUS-1,Mumbai,2019-07-01,7.1,Office
+EMP1067,Joanna Kelly,AI,Software Engineer,MGR-AI-4,Pune,2021-04-30,6.6,Office
+EMP1068,Larry Lane,Engineering,Team Lead,MGR-ENG-2,Jaipur,2023-10-19,3.7,Office
+EMP1069,Cynthia Shaw,Sales,Software Engineer,MGR-SAL-3,Mumbai,2024-06-20,4.8,Office
+EMP1070,Joshua Richardson,Sales,Software Engineer,MGR-SAL-1,Chennai,2025-05-27,1.2,Office
+EMP1071,Laura Bush,Sales,Senior Engineer,MGR-SAL-1,Chennai,2024-03-28,4.0,Hybrid
+EMP1072,John Vaughn,AI,Senior Engineer,MGR-AI-3,Hyderabad,2026-03-13,2.6,Hybrid
+EMP1073,Nicholas Terrell,Engineering,Manager,MGR-ENG-1,Mumbai,2023-04-14,4.7,Office
+EMP1074,Dr. Julie Miller,Engineering,Software Engineer,MGR-ENG-3,Mumbai,2021-04-24,5.5,Office
+EMP1075,Ann Kennedy,Data Science,Team Lead,MGR-DAT-3,Hyderabad,2023-02-08,6.3,Office
+EMP1076,Toni Miller,Marketing,Software Engineer,MGR-MAR-3,Kolkata,2020-03-19,7.9,Hybrid
+EMP1077,Rebecca Edwards,Sales,Team Lead,MGR-SAL-4,Jaipur,2023-09-24,4.6,Hybrid
+EMP1078,Greg Osborne,IT Operations,Manager,MGR-IT -2,Pune,2020-04-21,6.9,Hybrid
+EMP1079,Jose Harrison,AI,Team Lead,MGR-AI-2,Pune,2019-05-21,8.6,Hybrid
+EMP1080,Jennifer Yu,Data Science,Analyst,MGR-DAT-5,Jaipur,2025-03-22,2.6,Office
+EMP1081,Donna Johnson,Legal,Senior Engineer,MGR-LEG-4,Chennai,2021-06-09,5.3,Office
+EMP1082,Nicole Acosta,Engineering,Analyst,MGR-ENG-5,Ahmedabad,2024-07-26,2.3,Office
+EMP1083,Amy Kennedy,Marketing,Senior Engineer,MGR-MAR-2,Pune,2023-01-28,6.0,Office
+EMP1084,Anthony Mooney,R&D,Team Lead,MGR-R&D-2,Hyderabad,2024-12-02,2.3,Hybrid
+EMP1085,Lori Mitchell,Data Science,Manager,MGR-DAT-2,Chennai,2025-03-22,1.9,Office
+EMP1086,Jonathan York,Marketing,Software Engineer,MGR-MAR-1,Chennai,2026-03-31,1.8,Office
+EMP1087,Casey Campbell,IT Operations,Manager,MGR-IT -5,Bangalore,2025-01-03,3.8,Office
+EMP1088,Alexis Rodriguez,AI,Manager,MGR-AI-4,Pune,2023-05-22,3.3,Remote
+EMP1089,Kevin Hernandez,Data Science,Senior Engineer,MGR-DAT-5,Hyderabad,2023-08-14,4.6,Office
+EMP1090,Robert Green,AI,Software Engineer,MGR-AI-2,Mumbai,2018-09-26,8.2,Hybrid
+EMP1091,Kari Lloyd,Data Science,Software Engineer,MGR-DAT-4,Bangalore,2025-11-19,0.8,Office
+EMP1092,Grace Miller,IT Operations,Associate,MGR-IT -5,Jaipur,2025-02-04,1.6,Office
+EMP1093,Timothy Moore,IT Operations,Analyst,MGR-IT -2,Bangalore,2020-08-24,8.4,Office
+EMP1094,Wyatt Townsend II,Finance,Software Engineer,MGR-FIN-2,Kolkata,2019-12-16,6.9,Hybrid
+EMP1095,Mark Clark,AI,Senior Engineer,MGR-AI-4,Pune,2024-02-04,2.6,Office
+EMP1096,Haley May,AI,Team Lead,MGR-AI-3,Chennai,2020-12-22,6.9,Hybrid
+EMP1097,Audrey Jackson,AI,Senior Analyst,MGR-AI-4,Nagpur,2021-03-21,7.8,Office
+EMP1098,Eric Reese,AI,Software Engineer,MGR-AI-3,Pune,2018-07-30,8.7,Office
+EMP1099,Kim James,Legal,Software Engineer,MGR-LEG-1,Pune,2025-06-01,2.4,Remote
+EMP1100,Karen Thomas,Sales,Associate,MGR-SAL-4,Bangalore,2023-01-05,3.6,Office
+EMP1101,Alexandra Ho,Engineering,Software Engineer,MGR-ENG-3,Pune,2021-09-14,6.2,Hybrid
+EMP1102,Michael Nixon,Data Science,Software Engineer,MGR-DAT-5,Delhi NCR,2019-08-27,8.6,Hybrid
+EMP1103,Amanda Hardin,R&D,Principal Engineer,MGR-R&D-2,Ahmedabad,2023-07-18,4.7,Office
+EMP1104,Tina Reynolds,R&D,Manager,MGR-R&D-1,Bangalore,2018-10-09,8.8,Hybrid
+EMP1105,Shannon Rogers,Data Science,Software Engineer,MGR-DAT-4,Mumbai,2024-06-08,3.0,Office
+EMP1106,Brett Pena,AI,Software Engineer,MGR-AI-3,Bangalore,2020-03-26,6.6,Office
+EMP1107,Raymond Curry,Marketing,Software Engineer,MGR-MAR-5,Chennai,2021-11-08,5.8,Office
+EMP1108,Leah Lee,Customer Support,Software Engineer,MGR-CUS-3,Pune,2021-03-24,5.6,Hybrid
+EMP1109,Michael White,Customer Support,Associate,MGR-CUS-4,Hyderabad,2021-06-17,7.4,Office
+EMP1110,Megan Decker,Engineering,Senior Engineer,MGR-ENG-3,Hyderabad,2024-03-29,5.2,Hybrid
+EMP1111,Brent Garcia,Procurement,Analyst,MGR-PRO-4,Hyderabad,2024-09-05,4.8,Remote
+EMP1112,Daniel Campbell,AI,Associate,MGR-AI-3,Mumbai,2023-01-09,6.1,Office
+EMP1113,Alexander Davis,AI,Senior Engineer,MGR-AI-2,Chennai,2019-03-15,9.1,Office
+EMP1114,Mary Houston,Finance,Software Engineer,MGR-FIN-4,Pune,2018-12-12,9.7,Office
+EMP1115,Margaret Erickson,IT Operations,Team Lead,MGR-IT -4,Pune,2019-10-11,7.6,Office
+EMP1116,Scott Anderson,HR,Associate,MGR-HR-1,Kolkata,2023-06-03,5.0,Office
+EMP1117,Stephanie Knight,Engineering,Senior Analyst,MGR-ENG-2,Chennai,2023-11-13,4.0,Hybrid
+EMP1118,Stephanie Dominguez,R&D,Software Engineer,MGR-R&D-4,Pune,2020-09-06,7.3,Remote
+EMP1119,John Mayer,AI,Analyst,MGR-AI-5,Mumbai,2023-10-09,5.0,Remote
+EMP1120,Tammy Hill,Engineering,Team Lead,MGR-ENG-3,Pune,2022-05-17,5.0,Hybrid
+EMP1121,Steven Carrillo,R&D,Associate,MGR-R&D-5,Mumbai,2022-01-11,5.5,Hybrid
+EMP1122,Christopher Jones,Data Science,Software Engineer,MGR-DAT-3,Mumbai,2020-09-09,8.6,Office
+EMP1123,Janet Cook,R&D,Team Lead,MGR-R&D-3,Pune,2024-07-04,2.2,Hybrid
+EMP1124,Tyler Baker,Procurement,Associate,MGR-PRO-1,Bangalore,2019-06-07,8.6,Hybrid
+EMP1125,John Mcfarland,IT Operations,Senior Engineer,MGR-IT -4,Chennai,2021-12-07,7.3,Office
+EMP1126,Cassandra Vasquez,HR,Team Lead,MGR-HR-3,Hyderabad,2020-10-09,7.6,Remote
+EMP1127,Randy Robinson,Engineering,Software Engineer,MGR-ENG-1,Chennai,2023-11-26,4.3,Office
+EMP1128,Susan Baldwin,Marketing,Software Engineer,MGR-MAR-5,Pune,2022-05-20,4.9,Hybrid
+EMP1129,Benjamin Duncan,Sales,Senior Engineer,MGR-SAL-1,Jaipur,2023-10-24,3.7,Hybrid
+EMP1130,Jeremy Mosley,AI,Principal Engineer,MGR-AI-5,Kolkata,2018-11-21,10.2,Remote
+EMP1131,Martin Fitzpatrick,Customer Support,Senior Engineer,MGR-CUS-4,Delhi NCR,2021-08-29,6.5,Office
+EMP1132,Deborah Graves,Finance,Senior Engineer,MGR-FIN-3,Delhi NCR,2023-04-11,4.8,Hybrid
+EMP1133,Laura Robertson,Engineering,Manager,MGR-ENG-2,Jaipur,2018-08-04,8.2,Office
+EMP1134,Katherine Graham,AI,Software Engineer,MGR-AI-5,Bangalore,2020-11-30,5.7,Office
+EMP1135,Priscilla Floyd,Customer Support,Team Lead,MGR-CUS-3,Pune,2020-03-14,9.2,Hybrid
+EMP1136,April Finley,Engineering,Analyst,MGR-ENG-2,Hyderabad,2019-08-13,8.0,Hybrid
+EMP1137,Karen Bradley,R&D,Associate,MGR-R&D-2,Delhi NCR,2020-07-20,7.8,Hybrid
+EMP1138,Heather Maldonado,Finance,Manager,MGR-FIN-5,Chennai,2021-02-15,5.6,Office
+EMP1139,Mark Benjamin,Finance,Manager,MGR-FIN-3,Bangalore,2018-08-04,10.0,Office
+EMP1140,Joseph Woodward,IT Operations,Software Engineer,MGR-IT -2,Pune,2024-06-11,4.9,Hybrid
+EMP1141,Joe Miranda,Procurement,Principal Engineer,MGR-PRO-1,Mumbai,2019-12-03,8.3,Office
+EMP1142,Cassandra Williams,Sales,Software Engineer,MGR-SAL-1,Ahmedabad,2021-07-16,5.4,Office
+EMP1143,Connor Dominguez,IT Operations,Analyst,MGR-IT -3,Hyderabad,2024-02-07,4.2,Remote
+EMP1144,Lydia Howard,HR,Software Engineer,MGR-HR-4,Bangalore,2022-06-28,6.3,Office
+EMP1145,Mark Moss,AI,Associate,MGR-AI-1,Mumbai,2025-02-16,2.6,Hybrid
+EMP1146,Corey Cortez,R&D,Analyst,MGR-R&D-5,Mumbai,2024-11-29,4.3,Office
+EMP1147,Katherine Brown,Procurement,Analyst,MGR-PRO-3,Ahmedabad,2019-02-06,9.4,Office
+EMP1148,Elizabeth Ferguson,IT Operations,Software Engineer,MGR-IT -2,Chennai,2025-05-09,3.9,Office
+EMP1149,Joann Forbes,R&D,Senior Engineer,MGR-R&D-1,Delhi NCR,2018-11-12,9.5,Office
+EMP1150,Anthony French,R&D,Manager,MGR-R&D-3,Bangalore,2018-09-05,8.2,Office
+EMP1151,Bruce Roman,Customer Support,Analyst,MGR-CUS-3,Hyderabad,2025-10-28,1.6,Office
+EMP1152,Judy Gregory,R&D,Software Engineer,MGR-R&D-4,Mumbai,2025-05-10,1.8,Office
+EMP1153,Brittany Riley,Customer Support,Principal Engineer,MGR-CUS-2,Chennai,2023-02-02,6.2,Office
+EMP1154,Amanda Thomas,Customer Support,Associate,MGR-CUS-2,Bangalore,2023-01-26,5.7,Office
+EMP1155,Kaitlin Hardin,IT Operations,Software Engineer,MGR-IT -2,Bangalore,2024-02-23,4.4,Office
+EMP1156,Michael Anderson,Customer Support,Senior Analyst,MGR-CUS-5,Hyderabad,2021-11-01,5.6,Office
+EMP1157,Anthony Parker,Engineering,Team Lead,MGR-ENG-3,Jaipur,2019-06-11,7.6,Remote
+EMP1158,Joy Jackson,R&D,Senior Engineer,MGR-R&D-5,Pune,2018-09-11,10.1,Hybrid
+EMP1159,Sabrina Rodriguez,R&D,Senior Engineer,MGR-R&D-5,Delhi NCR,2021-02-06,6.9,Hybrid
+EMP1160,Robert Walker PhD,Engineering,Team Lead,MGR-ENG-3,Mumbai,2024-11-15,2.3,Office
+EMP1161,Robert Hendrix,Procurement,Analyst,MGR-PRO-2,Bangalore,2023-06-04,5.0,Remote
+EMP1162,Erika Daugherty,Engineering,Senior Engineer,MGR-ENG-3,Pune,2025-02-12,1.5,Hybrid
+EMP1163,Brenda Copeland,Sales,Manager,MGR-SAL-4,Mumbai,2025-10-23,1.7,Hybrid
+EMP1164,Pamela Watkins,Customer Support,Analyst,MGR-CUS-3,Bangalore,2019-03-24,8.7,Office
+EMP1165,Bryan Thomas,AI,Analyst,MGR-AI-3,Pune,2025-03-20,1.8,Remote
+EMP1166,Michael Tran,Procurement,Software Engineer,MGR-PRO-1,Bangalore,2020-06-15,9.0,Hybrid
+EMP1167,Timothy Williams,R&D,Senior Analyst,MGR-R&D-4,Ahmedabad,2023-03-12,4.0,Hybrid
+EMP1168,Ryan Salazar,Finance,Senior Engineer,MGR-FIN-1,Pune,2022-09-05,4.2,Office
+EMP1169,Alexis Tucker,Engineering,Software Engineer,MGR-ENG-2,Delhi NCR,2021-08-30,5.5,Office
+EMP1170,Christopher Davis,Sales,Software Engineer,MGR-SAL-2,Bangalore,2020-12-26,7.9,Office
+EMP1171,Stacie Butler,IT Operations,Team Lead,MGR-IT -4,Hyderabad,2021-03-20,6.6,Office
+EMP1172,Patricia Schwartz,Data Science,Associate,MGR-DAT-5,Mumbai,2021-03-02,7.1,Hybrid
+EMP1173,Mark Mills,IT Operations,Senior Engineer,MGR-IT -3,Pune,2019-11-11,6.7,Office
+EMP1174,Todd Bishop,AI,Analyst,MGR-AI-1,Pune,2022-07-28,4.1,Office
+EMP1175,Christopher Porter,IT Operations,Software Engineer,MGR-IT -4,Pune,2019-06-07,8.4,Office
+EMP1176,Lori Patton,Finance,Senior Engineer,MGR-FIN-1,Pune,2022-07-26,6.4,Office
+EMP1177,Aaron Young,Legal,VP,MGR-LEG-3,Chennai,2025-09-13,3.5,Office
+EMP1178,Joseph Davis,Engineering,Analyst,MGR-ENG-5,Ahmedabad,2021-04-18,5.5,Hybrid
+EMP1179,Philip Fernandez,Legal,Software Engineer,MGR-LEG-1,Delhi NCR,2024-04-15,3.9,Hybrid
+EMP1180,Randy Hopkins,HR,Team Lead,MGR-HR-4,Chennai,2025-01-05,4.3,Office
+EMP1181,Cory Hogan,Data Science,Software Engineer,MGR-DAT-3,Pune,2024-12-25,2.7,Office
+EMP1182,Tracy Wells,Sales,Senior Engineer,MGR-SAL-3,Mumbai,2020-05-26,8.6,Office
+EMP1183,Michael Williams,IT Operations,Senior Analyst,MGR-IT -5,Mumbai,2019-09-09,7.2,Office
+EMP1184,Dominique Hamilton,Data Science,Analyst,MGR-DAT-4,Mumbai,2020-02-03,9.2,Hybrid
+EMP1185,Robert Chang,Engineering,Software Engineer,MGR-ENG-3,Bangalore,2023-04-20,5.5,Hybrid
+EMP1186,Patrick Buckley,Data Science,Associate,MGR-DAT-1,Bangalore,2024-07-19,4.8,Hybrid
+EMP1187,Richard Washington,Customer Support,Team Lead,MGR-CUS-2,Mumbai,2023-09-20,4.8,Hybrid
+EMP1188,Steven Griffith,Engineering,Senior Engineer,MGR-ENG-4,Mumbai,2019-12-07,7.7,Office
+EMP1189,Erika Gonzalez,Sales,Team Lead,MGR-SAL-1,Delhi NCR,2024-08-25,4.7,Remote
+EMP1190,Erika Maxwell,Customer Support,Manager,MGR-CUS-5,Delhi NCR,2022-06-10,4.9,Hybrid
+EMP1191,Brent Rojas,Engineering,Team Lead,MGR-ENG-5,Mumbai,2024-07-02,3.0,Remote
+EMP1192,Jaime Walker,HR,Team Lead,MGR-HR-3,Ahmedabad,2024-07-18,4.1,Office
+EMP1193,John Zamora,Sales,Team Lead,MGR-SAL-5,Jaipur,2022-01-31,6.7,Remote
+EMP1194,Timothy Gibson,IT Operations,Software Engineer,MGR-IT -2,Mumbai,2025-11-05,3.5,Hybrid
+EMP1195,Chad Cortez,Engineering,Senior Analyst,MGR-ENG-1,Mumbai,2022-12-31,4.1,Hybrid
+EMP1196,Vanessa Harris,R&D,Team Lead,MGR-R&D-4,Bangalore,2023-07-24,5.4,Office
+EMP1197,Michael Brown,Data Science,Software Engineer,MGR-DAT-3,Jaipur,2023-06-23,5.3,Hybrid
+EMP1198,Samuel Ellis,Data Science,Analyst,MGR-DAT-4,Kolkata,2025-05-16,1.3,Remote
+EMP1199,Greg Tanner,Customer Support,Associate,MGR-CUS-1,Pune,2023-06-30,4.2,Hybrid
+EMP1200,Rachel Little,Engineering,Principal Engineer,MGR-ENG-2,Bangalore,2019-09-22,7.7,Hybrid
+EMP1201,Carolyn Cordova,Customer Support,Senior Engineer,MGR-CUS-1,Bangalore,2019-01-26,8.4,Remote
+EMP1202,Angelica Vincent,Engineering,Software Engineer,MGR-ENG-1,Bangalore,2022-01-11,7.4,Office
+EMP1203,Zachary Vargas PhD,Engineering,Team Lead,MGR-ENG-3,Pune,2020-12-04,7.5,Hybrid
+EMP1204,Nicholas Fitzgerald,Sales,Software Engineer,MGR-SAL-4,Kolkata,2020-09-14,8.0,Office
+EMP1205,Garrett Riley,Finance,Associate,MGR-FIN-1,Chennai,2018-12-22,10.5,Remote
+EMP1206,Leslie Hernandez,Legal,Software Engineer,MGR-LEG-1,Kolkata,2022-07-19,5.1,Office
+EMP1207,Abigail Baird,Customer Support,Software Engineer,MGR-CUS-2,Kolkata,2020-12-26,7.9,Office
+EMP1208,John Mack,Marketing,Senior Engineer,MGR-MAR-5,Delhi NCR,2022-02-08,5.7,Hybrid
+EMP1209,Joseph Mendoza,Sales,Senior Engineer,MGR-SAL-2,Bangalore,2018-12-24,10.2,Hybrid
+EMP1210,Samantha Chavez,Data Science,Senior Analyst,MGR-DAT-4,Hyderabad,2025-02-11,2.0,Hybrid
+EMP1211,Justin Smith,Marketing,Senior Engineer,MGR-MAR-4,Pune,2019-02-19,10.2,Remote
+EMP1212,Tiffany Anderson,Marketing,Software Engineer,MGR-MAR-3,Chennai,2025-05-16,1.8,Remote
+EMP1213,Matthew Davis,AI,Software Engineer,MGR-AI-5,Pune,2025-04-20,2.2,Office
+EMP1214,Eric Warner,Procurement,Team Lead,MGR-PRO-4,Chennai,2023-05-26,5.4,Office
+EMP1215,Nicole Johnson,Customer Support,Software Engineer,MGR-CUS-5,Mumbai,2022-07-18,5.2,Office
+EMP1216,Raymond Sawyer,AI,Manager,MGR-AI-2,Pune,2022-03-12,6.2,Office
+EMP1217,Richard Wood,Engineering,Team Lead,MGR-ENG-4,Pune,2022-12-02,4.9,Office
+EMP1218,Mark Dalton,Customer Support,Analyst,MGR-CUS-1,Pune,2024-10-18,4.0,Remote
+EMP1219,Steven Cook,IT Operations,Associate,MGR-IT -4,Chennai,2025-08-15,1.6,Hybrid
+EMP1220,Jeffery Nelson,Sales,Associate,MGR-SAL-5,Chennai,2022-02-02,4.6,Office
+EMP1221,Kimberly Norton,Data Science,Principal Engineer,MGR-DAT-4,Bangalore,2024-12-09,2.5,Office
+EMP1222,Angela Gilmore,Engineering,Software Engineer,MGR-ENG-3,Pune,2023-09-10,4.3,Hybrid
+EMP1223,Amy Dougherty,Marketing,Software Engineer,MGR-MAR-1,Pune,2021-01-27,6.0,Office
+EMP1224,Stacy Rodriguez,Data Science,Senior Engineer,MGR-DAT-3,Pune,2022-04-18,5.3,Office
+EMP1225,Manuel Diaz,Marketing,Associate,MGR-MAR-2,Pune,2019-09-22,8.0,Hybrid
+EMP1226,Justin Jones,IT Operations,Director,MGR-IT -4,Ahmedabad,2019-01-07,7.7,Remote
+EMP1227,Christine Zavala,Marketing,Senior Analyst,MGR-MAR-4,Mumbai,2019-05-08,8.9,Office
+EMP1228,Brian Mendoza,Sales,Software Engineer,MGR-SAL-2,Mumbai,2025-08-25,3.5,Hybrid
+EMP1229,Lauren Haley,Data Science,Principal Engineer,MGR-DAT-3,Pune,2021-04-01,5.7,Office
+EMP1230,Patrick Perez,Marketing,Senior Engineer,MGR-MAR-1,Mumbai,2024-03-08,4.1,Hybrid
+EMP1231,Derek Frazier,R&D,Software Engineer,MGR-R&D-3,Bangalore,2022-07-11,6.0,Office
+EMP1232,Arthur Reed,AI,Senior Engineer,MGR-AI-5,Hyderabad,2019-11-24,7.9,Office
+EMP1233,Mr. Bryan Mckinney,AI,Software Engineer,MGR-AI-3,Mumbai,2020-06-28,8.1,Remote
+EMP1234,Kim Carter,Engineering,Team Lead,MGR-ENG-1,Pune,2021-12-29,5.8,Office
+EMP1235,Rebecca Dougherty,IT Operations,Senior Engineer,MGR-IT -4,Bangalore,2022-01-03,6.0,Hybrid
+EMP1236,Teresa Jones,Sales,Senior Engineer,MGR-SAL-3,Mumbai,2022-09-01,3.9,Office
+EMP1237,Judith Miller,R&D,Manager,MGR-R&D-2,Pune,2019-10-15,8.8,Office
+EMP1238,Donna Frye,Finance,Associate,MGR-FIN-1,Jaipur,2021-06-25,7.0,Office
+EMP1239,Donald Terry,Data Science,Manager,MGR-DAT-4,Hyderabad,2020-10-08,5.9,Office
+EMP1240,Shaun Meyer DDS,AI,Senior Engineer,MGR-AI-1,Bangalore,2021-10-07,5.9,Hybrid
+EMP1241,Wayne Weaver,R&D,Senior Analyst,MGR-R&D-2,Bangalore,2021-03-17,8.3,Office
+EMP1242,Gregory Wallace,Legal,Associate,MGR-LEG-5,Bangalore,2023-04-07,4.5,Hybrid
+EMP1243,Dorothy Brown,Legal,Software Engineer,MGR-LEG-1,Bangalore,2024-10-11,3.3,Hybrid
+EMP1244,Crystal Meza,R&D,Team Lead,MGR-R&D-1,Chennai,2023-08-28,5.6,Hybrid
+EMP1245,Jennifer Cooper,Legal,Senior Engineer,MGR-LEG-3,Chennai,2019-01-19,9.6,Office
+EMP1246,Erin Watkins,IT Operations,Software Engineer,MGR-IT -2,Pune,2019-04-12,9.0,Remote
+EMP1247,Sarah Wallace,Engineering,Manager,MGR-ENG-2,Bangalore,2023-11-25,5.0,Office
+EMP1248,Carlos Clarke,Engineering,Associate,MGR-ENG-5,Bangalore,2020-10-11,8.3,Office
+EMP1249,David Washington,R&D,Software Engineer,MGR-R&D-2,Kolkata,2024-04-05,3.6,Office
+EMP1250,Patricia Williams,IT Operations,Senior Analyst,MGR-IT -1,Hyderabad,2023-09-23,4.2,Office
+EMP1251,Jesus Jackson,Procurement,Senior Analyst,MGR-PRO-5,Bangalore,2025-09-15,2.0,Office
+EMP1252,Michelle Mitchell,Finance,Associate,MGR-FIN-2,Pune,2025-06-11,4.0,Hybrid
+EMP1253,Sara Schwartz,Engineering,Software Engineer,MGR-ENG-5,Hyderabad,2021-03-03,7.5,Office
+EMP1254,Brittany Young,Engineering,Associate,MGR-ENG-2,Pune,2023-02-22,3.6,Office
+EMP1255,Eugene Martinez,Customer Support,Senior Engineer,MGR-CUS-2,Mumbai,2019-08-26,9.5,Hybrid
+EMP1256,Cody Hart,Marketing,Team Lead,MGR-MAR-3,Pune,2021-04-19,6.7,Office
+EMP1257,Evan Cooper,AI,Software Engineer,MGR-AI-2,Chennai,2026-03-11,0.5,Office
+EMP1258,Joshua Martin,Finance,Software Engineer,MGR-FIN-5,Pune,2024-01-23,4.1,Office
+EMP1259,Thomas Sullivan,Engineering,Analyst,MGR-ENG-1,Bangalore,2021-08-19,6.1,Hybrid
+EMP1260,Mr. Jimmy Flores Jr.,HR,Senior Engineer,MGR-HR-3,Ahmedabad,2023-03-29,5.9,Office
+EMP1261,Vanessa Rivera,AI,Software Engineer,MGR-AI-2,Pune,2025-12-15,1.2,Office
+EMP1262,Kara Roberts,Procurement,Software Engineer,MGR-PRO-2,Bangalore,2020-12-24,8.0,Office
+EMP1263,Veronica Berry,Sales,Manager,MGR-SAL-5,Bangalore,2021-07-06,6.7,Hybrid
+EMP1264,Keith Meadows,Marketing,Software Engineer,MGR-MAR-3,Pune,2024-10-18,1.9,Hybrid
+EMP1265,Michael Dennis,Engineering,Senior Analyst,MGR-ENG-2,Delhi NCR,2024-12-19,4.5,Hybrid
+EMP1266,Brenda Pierce,Engineering,Software Engineer,MGR-ENG-1,Pune,2023-11-01,4.2,Office
+EMP1267,James Randall,Marketing,Software Engineer,MGR-MAR-1,Bangalore,2025-02-03,2.3,Office
+EMP1268,Brandon Brown,Finance,Senior Engineer,MGR-FIN-2,Hyderabad,2024-05-18,3.6,Office
+EMP1269,Lauren Walker,IT Operations,Team Lead,MGR-IT -1,Hyderabad,2023-12-16,5.1,Office
+EMP1270,Diana Johnson,Sales,Senior Engineer,MGR-SAL-3,Chennai,2022-09-12,4.7,Office
+EMP1271,Jill Powers,Customer Support,Senior Engineer,MGR-CUS-2,Mumbai,2023-08-24,3.5,Office
+EMP1272,Jorge Lee,R&D,Principal Engineer,MGR-R&D-5,Pune,2021-11-18,5.0,Office
+EMP1273,Larry Harding,Legal,Manager,MGR-LEG-3,Chennai,2021-05-24,6.0,Hybrid
+EMP1274,Heather Hernandez,Engineering,Software Engineer,MGR-ENG-1,Bangalore,2021-05-26,7.5,Office
+EMP1275,Jaclyn Watson,Finance,Senior Engineer,MGR-FIN-2,Kolkata,2019-12-16,8.0,Hybrid
+EMP1276,Gregory Madden,Engineering,Associate,MGR-ENG-3,Delhi NCR,2020-03-23,7.0,Office
+EMP1277,Anita Luna,AI,Senior Engineer,MGR-AI-1,Kolkata,2026-01-12,1.0,Office
+EMP1278,Willie Lara,Data Science,Software Engineer,MGR-DAT-2,Bangalore,2022-05-19,5.1,Office
+EMP1279,Robert Waller,Engineering,Analyst,MGR-ENG-4,Mumbai,2020-04-28,9.0,Office
+EMP1280,Steven Taylor,Finance,Manager,MGR-FIN-5,Delhi NCR,2019-08-14,7.9,Office
+EMP1281,Angelica Clark,IT Operations,Team Lead,MGR-IT -1,Bangalore,2019-02-21,10.4,Office
+EMP1282,Sean Hatfield,Customer Support,Software Engineer,MGR-CUS-1,Pune,2025-03-20,2.8,Remote
+EMP1283,Tyler Avila,HR,Software Engineer,MGR-HR-4,Kolkata,2019-05-01,7.7,Hybrid
+EMP1284,Jason Rocha,Engineering,Manager,MGR-ENG-4,Ahmedabad,2024-08-19,4.6,Office
+EMP1285,Justin Page,Sales,Software Engineer,MGR-SAL-3,Bangalore,2025-02-21,2.8,Hybrid
+EMP1286,Breanna Lopez,Finance,Team Lead,MGR-FIN-5,Pune,2025-07-11,3.1,Hybrid
+EMP1287,Julian Williams,Engineering,Team Lead,MGR-ENG-5,Bangalore,2018-10-30,10.7,Hybrid
+EMP1288,Sandra Torres,Sales,Senior Engineer,MGR-SAL-1,Delhi NCR,2021-03-12,5.5,Hybrid
+EMP1289,Julie Johnson,Engineering,Principal Engineer,MGR-ENG-4,Ahmedabad,2024-08-06,2.2,Office
+EMP1290,Dennis Blanchard,Engineering,Senior Analyst,MGR-ENG-5,Pune,2019-07-26,9.1,Office
+EMP1291,Kaitlyn Valdez,Marketing,Analyst,MGR-MAR-2,Pune,2021-07-06,5.9,Office
+EMP1292,Jennifer Vasquez,Engineering,Software Engineer,MGR-ENG-5,Kolkata,2019-10-25,7.3,Office
+EMP1293,Danielle Wilson,HR,Software Engineer,MGR-HR-1,Bangalore,2025-02-10,1.5,Office
+EMP1294,Zachary Jones,Customer Support,Team Lead,MGR-CUS-5,Bangalore,2024-08-20,2.0,Hybrid
+EMP1295,Lauren Cunningham,Procurement,Software Engineer,MGR-PRO-3,Jaipur,2024-12-07,3.9,Remote
+EMP1296,Lori Alvarez,AI,Director,MGR-AI-4,Pune,2019-11-03,7.1,Remote
+EMP1297,Barbara Hunt,AI,Software Engineer,MGR-AI-1,Hyderabad,2021-12-29,5.9,Hybrid
+EMP1298,Sarah Martin,Engineering,Team Lead,MGR-ENG-1,Pune,2021-10-13,6.6,Hybrid
+EMP1299,Francisco Johns,IT Operations,Senior Engineer,MGR-IT -4,Mumbai,2023-11-20,3.9,Remote
+EMP1300,Christopher Nelson,Customer Support,Manager,MGR-CUS-4,Delhi NCR,2020-05-29,6.2,Office
+EMP1301,Thomas Kelly,Engineering,Software Engineer,MGR-ENG-4,Bangalore,2022-01-17,6.8,Office
+EMP1302,Joseph Mayer,Data Science,Senior Engineer,MGR-DAT-1,Nagpur,2020-10-14,5.8,Office
+EMP1303,Pamela White,Engineering,Software Engineer,MGR-ENG-4,Bangalore,2024-06-15,4.4,Hybrid
+EMP1304,Paul Stephens,HR,Associate,MGR-HR-4,Mumbai,2022-01-31,7.1,Office
+EMP1305,Samantha Cohen,Customer Support,Software Engineer,MGR-CUS-1,Mumbai,2022-10-04,5.1,Hybrid
+EMP1306,Michael Barker,R&D,Associate,MGR-R&D-1,Mumbai,2020-12-23,7.2,Office
+EMP1307,Kevin Morrow,Customer Support,Senior Analyst,MGR-CUS-3,Mumbai,2024-12-06,3.0,Office
+EMP1308,Joseph Watson,Procurement,Senior Engineer,MGR-PRO-5,Pune,2022-03-30,5.5,Hybrid
+EMP1309,Mr. Thomas Garcia,Sales,Senior Analyst,MGR-SAL-2,Mumbai,2025-02-21,4.1,Office
+EMP1310,Daniel Lopez,Procurement,Software Engineer,MGR-PRO-1,Bangalore,2021-06-10,7.8,Office
+EMP1311,Lisa Guerra,Engineering,Principal Engineer,MGR-ENG-2,Chennai,2026-01-11,1.5,Office
+EMP1312,Kim Arnold,R&D,Team Lead,MGR-R&D-3,Hyderabad,2026-04-28,2.1,Office
+EMP1313,Ashley Stevens,HR,Senior Engineer,MGR-HR-5,Chennai,2022-03-09,7.1,Hybrid
+EMP1314,Robert Mclean,Procurement,Senior Engineer,MGR-PRO-5,Pune,2020-10-04,8.7,Office
+EMP1315,Eric Cox,Marketing,Software Engineer,MGR-MAR-5,Pune,2021-07-21,6.5,Hybrid
+EMP1316,Stacy Harper,IT Operations,Director,MGR-IT -3,Chennai,2022-09-15,5.2,Office
+EMP1317,Gloria Mckinney,Finance,Software Engineer,MGR-FIN-4,Bangalore,2026-03-07,1.2,Hybrid
+EMP1318,Robert Walker,Customer Support,Manager,MGR-CUS-5,Pune,2024-12-30,4.4,Office
+EMP1319,Brenda Perez,Engineering,Senior Engineer,MGR-ENG-5,Delhi NCR,2024-11-15,2.1,Hybrid
+EMP1320,Carlos Miller,Engineering,Principal Engineer,MGR-ENG-3,Delhi NCR,2019-08-17,8.6,Hybrid
+EMP1321,Rachel Jones,AI,Software Engineer,MGR-AI-4,Bangalore,2020-07-05,6.9,Office
+EMP1322,Nicole Williams,Engineering,Team Lead,MGR-ENG-5,Pune,2023-08-10,3.8,Hybrid
+EMP1323,Ricky Palmer,R&D,Team Lead,MGR-R&D-5,Delhi NCR,2025-06-13,2.3,Hybrid
+EMP1324,Bryan King,AI,Analyst,MGR-AI-4,Hyderabad,2022-12-02,6.6,Office
+EMP1325,Michael Webster,Data Science,Software Engineer,MGR-DAT-1,Delhi NCR,2019-05-05,7.4,Office
+EMP1326,Tamara Harris,Sales,Software Engineer,MGR-SAL-1,Delhi NCR,2025-03-24,3.0,Remote
+EMP1327,Cathy Bell,AI,Software Engineer,MGR-AI-5,Delhi NCR,2025-04-08,1.5,Hybrid
+EMP1328,Ryan Mcmahon,Legal,Analyst,MGR-LEG-2,Bangalore,2020-10-14,6.2,Office
+EMP1329,Hannah Martin,IT Operations,Software Engineer,MGR-IT -4,Pune,2024-07-27,3.3,Office
+EMP1330,Monica Allen,Finance,Team Lead,MGR-FIN-4,Chennai,2020-09-08,7.4,Hybrid
+EMP1331,Annette Lane,HR,Software Engineer,MGR-HR-2,Hyderabad,2025-09-12,1.6,Hybrid
+EMP1332,Daniel Lee,Customer Support,Associate,MGR-CUS-4,Delhi NCR,2019-09-12,7.8,Hybrid
+EMP1333,Steven Medina,AI,Principal Engineer,MGR-AI-3,Pune,2021-12-29,4.8,Office
+EMP1334,Annette Lewis,Data Science,Team Lead,MGR-DAT-4,Pune,2026-01-09,1.4,Hybrid
+EMP1335,Michelle Richardson,Data Science,Senior Engineer,MGR-DAT-4,Ahmedabad,2020-04-15,9.1,Office
+EMP1336,Jessica Rosario,IT Operations,Software Engineer,MGR-IT -4,Delhi NCR,2022-02-06,7.3,Office
+EMP1337,Henry Gray,AI,Software Engineer,MGR-AI-1,Ahmedabad,2021-04-19,6.2,Hybrid
+EMP1338,Darren Rodriguez,Customer Support,Software Engineer,MGR-CUS-3,Delhi NCR,2018-09-28,9.5,Remote
+EMP1339,Mrs. Ashley Taylor,Engineering,Manager,MGR-ENG-4,Hyderabad,2018-12-14,10.3,Office
+EMP1340,Michele Hawkins,Engineering,Team Lead,MGR-ENG-3,Hyderabad,2022-07-03,4.0,Office
+EMP1341,Garrett Wilson,AI,Principal Engineer,MGR-AI-3,Ahmedabad,2020-05-24,8.6,Hybrid
+EMP1342,Kyle Collins,Marketing,Senior Engineer,MGR-MAR-3,Hyderabad,2026-05-28,3.0,Office
+EMP1343,Jill Spencer,R&D,Analyst,MGR-R&D-2,Hyderabad,2021-07-01,5.3,Hybrid
+EMP1344,Scott Lopez,Customer Support,Team Lead,MGR-CUS-4,Pune,2018-10-02,8.3,Hybrid
+EMP1345,Ryan Alvarez,Customer Support,Team Lead,MGR-CUS-1,Bangalore,2025-11-24,3.5,Office
+EMP1346,Cassie Lutz,Marketing,Software Engineer,MGR-MAR-1,Chennai,2025-03-04,3.0,Remote
+EMP1347,Brian Kim DDS,Sales,Senior Engineer,MGR-SAL-1,Mumbai,2023-09-04,2.9,Hybrid
+EMP1348,Charles Morales,Sales,Senior Engineer,MGR-SAL-1,Pune,2024-10-17,2.5,Hybrid
+EMP1349,Ashley Schaefer,Data Science,Analyst,MGR-DAT-4,Mumbai,2019-08-14,8.3,Hybrid
+EMP1350,Amy Hester,Engineering,Principal Engineer,MGR-ENG-1,Mumbai,2020-10-19,7.8,Hybrid
+EMP1351,Kurt Ewing,R&D,Senior Engineer,MGR-R&D-3,Pune,2025-02-05,3.6,Office
+EMP1352,Ryan Hardy,HR,Software Engineer,MGR-HR-2,Bangalore,2024-01-16,5.5,Office
+EMP1353,Micheal Perkins,Marketing,Team Lead,MGR-MAR-5,Ahmedabad,2019-08-18,7.8,Hybrid
+EMP1354,Richard Schneider,Customer Support,Team Lead,MGR-CUS-1,Bangalore,2024-02-12,4.0,Office
+EMP1355,John Morrison,Finance,Software Engineer,MGR-FIN-5,Pune,2022-01-30,6.0,Office
+EMP1356,John Ramirez,R&D,Analyst,MGR-R&D-5,Pune,2018-07-28,9.2,Hybrid
+EMP1357,Ashley King,R&D,Director,MGR-R&D-5,Chennai,2019-02-27,7.9,Hybrid
+EMP1358,Mark Taylor Jr.,Marketing,Principal Engineer,MGR-MAR-3,Bangalore,2020-07-22,8.9,Office
+EMP1359,Barry Gregory,Sales,Software Engineer,MGR-SAL-1,Delhi NCR,2025-02-20,4.0,Hybrid
+EMP1360,Janet Shelton,IT Operations,Associate,MGR-IT -4,Hyderabad,2022-11-16,5.2,Hybrid
+EMP1361,Marco Davis,R&D,Analyst,MGR-R&D-3,Delhi NCR,2024-04-15,4.1,Office
+EMP1362,Paul Saunders,AI,Senior Engineer,MGR-AI-4,Mumbai,2022-09-16,4.5,Hybrid
+EMP1363,Christina Bates,IT Operations,Team Lead,MGR-IT -1,Chennai,2019-05-30,8.8,Office
+EMP1364,Dennis Cooper PhD,IT Operations,Senior Analyst,MGR-IT -3,Mumbai,2020-10-23,7.8,Office
+EMP1365,Tiffany Johnson,Customer Support,Team Lead,MGR-CUS-5,Jaipur,2020-11-29,7.2,Office
+EMP1366,Thomas Reyes,Engineering,Senior Engineer,MGR-ENG-3,Hyderabad,2018-11-28,10.6,Office
+EMP1367,James Stevens,Customer Support,Team Lead,MGR-CUS-3,Mumbai,2021-11-08,6.5,Office
+EMP1368,Justin Dalton,R&D,Team Lead,MGR-R&D-1,Mumbai,2024-10-24,2.8,Hybrid
+EMP1369,Michael Henry,AI,Software Engineer,MGR-AI-5,Pune,2022-02-23,6.7,Hybrid
+EMP1370,Mike Freeman,AI,Associate,MGR-AI-5,Chennai,2019-05-29,7.6,Hybrid
+EMP1371,Michael Keller,Data Science,Manager,MGR-DAT-2,Pune,2025-09-11,2.0,Hybrid
+EMP1372,Laura Alvarez,AI,Manager,MGR-AI-2,Hyderabad,2023-04-03,4.3,Office
+EMP1373,Katie Myers,R&D,Software Engineer,MGR-R&D-4,Mumbai,2018-08-29,9.2,Office
+EMP1374,Wesley Jensen MD,Finance,Manager,MGR-FIN-2,Chennai,2022-08-11,6.3,Hybrid
+EMP1375,Erica Johnson,AI,Software Engineer,MGR-AI-1,Delhi NCR,2020-06-11,7.5,Office
+EMP1376,Russell Bailey,R&D,Software Engineer,MGR-R&D-3,Delhi NCR,2019-09-01,9.2,Office
+EMP1377,Alyssa Vance,Marketing,Team Lead,MGR-MAR-5,Delhi NCR,2021-12-05,6.3,Hybrid
+EMP1378,Brent Reed,Finance,Senior Engineer,MGR-FIN-3,Pune,2023-05-26,4.2,Office
+EMP1379,Gregory Stanley,Sales,Team Lead,MGR-SAL-1,Pune,2020-06-07,8.5,Hybrid
+EMP1380,Matthew Watkins,IT Operations,Software Engineer,MGR-IT -3,Chennai,2021-10-29,5.4,Office
+EMP1381,Ana Torres,AI,Senior Engineer,MGR-AI-5,Mumbai,2023-10-16,3.4,Office
+EMP1382,Alejandro Nguyen,Marketing,Software Engineer,MGR-MAR-2,Bangalore,2019-03-17,8.8,Office
+EMP1383,Scott Bradley,Data Science,Director,MGR-DAT-4,Pune,2026-03-31,1.1,Hybrid
+EMP1384,Deborah Dominguez,AI,Team Lead,MGR-AI-5,Mumbai,2019-01-24,7.5,Office
+EMP1385,Victoria Gray,IT Operations,Analyst,MGR-IT -5,Pune,2022-09-11,5.8,Office
+EMP1386,Kenneth Stokes,Sales,Senior Engineer,MGR-SAL-5,Kolkata,2022-07-19,5.5,Hybrid
+EMP1387,Michael Rogers,Legal,Software Engineer,MGR-LEG-5,Mumbai,2026-05-10,1.5,Remote
+EMP1388,Pamela Morgan,Engineering,Director,MGR-ENG-1,Bangalore,2022-12-01,6.5,Office
+EMP1389,Heidi Graham,Data Science,Senior Engineer,MGR-DAT-5,Pune,2021-08-15,6.6,Office
+EMP1390,Ryan Cobb PhD,Marketing,Senior Engineer,MGR-MAR-3,Chennai,2022-04-02,6.9,Office
+EMP1391,Donna Williams,AI,Manager,MGR-AI-1,Mumbai,2023-07-25,3.4,Remote
+EMP1392,Jennifer Perez PhD,Engineering,Software Engineer,MGR-ENG-2,Ahmedabad,2026-04-19,1.9,Remote
+EMP1393,Ryan Davis,AI,Senior Analyst,MGR-AI-3,Ahmedabad,2020-07-15,8.6,Office
+EMP1394,Austin Solis,Finance,Team Lead,MGR-FIN-3,Mumbai,2018-08-28,9.6,Hybrid
+EMP1395,Daniel Flynn,Sales,Software Engineer,MGR-SAL-3,Ahmedabad,2024-10-09,3.9,Office
+EMP1396,Elizabeth Brock,Procurement,Software Engineer,MGR-PRO-3,Nagpur,2021-04-05,6.4,Office
+EMP1397,Joshua Gonzalez,Marketing,Software Engineer,MGR-MAR-1,Delhi NCR,2024-05-01,2.5,Office
+EMP1398,Mario Chavez,AI,Associate,MGR-AI-2,Kolkata,2023-07-03,4.4,Office
+EMP1399,Catherine Smith,IT Operations,Analyst,MGR-IT -2,Mumbai,2024-08-21,3.1,Office
+EMP1400,Shari Ray,Customer Support,Software Engineer,MGR-CUS-5,Hyderabad,2024-05-08,4.8,Office
+EMP1401,Victor Harmon,AI,Software Engineer,MGR-AI-4,Pune,2021-02-28,6.1,Hybrid
+EMP1402,Timothy Patel,AI,Analyst,MGR-AI-1,Pune,2018-11-18,10.5,Office
+EMP1403,Patricia Hamilton,Engineering,Team Lead,MGR-ENG-2,Nagpur,2022-11-08,6.6,Hybrid
+EMP1404,Lori Boyd,Customer Support,Senior Engineer,MGR-CUS-1,Mumbai,2024-12-20,2.3,Office
+EMP1405,Charles Hernandez,IT Operations,Senior Engineer,MGR-IT -1,Delhi NCR,2019-12-01,7.7,Office
+EMP1406,Elizabeth Graham,Finance,Software Engineer,MGR-FIN-5,Delhi NCR,2024-09-12,4.5,Office
+EMP1407,Ronald Brown,R&D,Manager,MGR-R&D-2,Kolkata,2022-03-17,7.2,Office
+EMP1408,Jason Colon,Procurement,Director,MGR-PRO-4,Nagpur,2024-01-14,3.8,Office
+EMP1409,Dawn Burke,HR,Software Engineer,MGR-HR-4,Mumbai,2023-07-13,4.0,Office
+EMP1410,Brian Lee,R&D,Team Lead,MGR-R&D-4,Pune,2024-12-14,3.2,Office
+EMP1411,Ronald Marshall,AI,Senior Engineer,MGR-AI-3,Bangalore,2019-01-11,9.6,Office
+EMP1412,Jessica Lucas,Engineering,Senior Engineer,MGR-ENG-2,Pune,2024-09-03,2.7,Hybrid
+EMP1413,Christopher Taylor,AI,Software Engineer,MGR-AI-3,Pune,2022-02-25,6.6,Hybrid
+EMP1414,Robert Hopkins,Engineering,Senior Analyst,MGR-ENG-3,Mumbai,2020-11-07,5.8,Office
+EMP1415,Samuel Stuart,Finance,Team Lead,MGR-FIN-3,Delhi NCR,2018-11-16,7.8,Office
+EMP1416,Mr. Scott Miller,Data Science,Team Lead,MGR-DAT-5,Hyderabad,2020-02-09,7.6,Office
+EMP1417,Sharon Lester,Engineering,Senior Engineer,MGR-ENG-5,Mumbai,2018-11-11,8.7,Hybrid
+EMP1418,Jack Sandoval,Engineering,Software Engineer,MGR-ENG-1,Hyderabad,2025-12-02,1.6,Office
+EMP1419,Tony Ramsey,Marketing,Software Engineer,MGR-MAR-1,Mumbai,2022-08-11,5.4,Office
+EMP1420,Brian Navarro,Data Science,Analyst,MGR-DAT-2,Pune,2026-05-12,1.1,Office
+EMP1421,Kelly Calderon,Sales,Software Engineer,MGR-SAL-2,Delhi NCR,2022-10-30,4.3,Remote
+EMP1422,Tara King,Finance,Analyst,MGR-FIN-5,Hyderabad,2020-07-14,6.9,Office
+EMP1423,Cynthia Martinez,Engineering,Senior Engineer,MGR-ENG-1,Delhi NCR,2024-06-29,5.0,Hybrid
+EMP1424,Erin Silva,Engineering,Senior Engineer,MGR-ENG-1,Pune,2020-01-16,7.7,Office
+EMP1425,Paul Young,Data Science,Senior Engineer,MGR-DAT-3,Kolkata,2021-05-10,6.5,Remote
+EMP1426,Charles Thompson,Data Science,Senior Engineer,MGR-DAT-4,Hyderabad,2024-09-17,3.5,Hybrid
+EMP1427,Jessica King,Engineering,Software Engineer,MGR-ENG-4,Hyderabad,2025-05-20,4.1,Office
+EMP1428,Katherine Brooks,Data Science,Senior Engineer,MGR-DAT-4,Hyderabad,2021-02-26,6.1,Hybrid
+EMP1429,Emily Coleman,IT Operations,Manager,MGR-IT -5,Kolkata,2019-07-07,9.1,Office
+EMP1430,Tracey Suarez,R&D,Manager,MGR-R&D-4,Hyderabad,2021-06-11,7.2,Hybrid
+EMP1431,Heidi Baldwin,Marketing,Senior Engineer,MGR-MAR-4,Hyderabad,2025-07-28,2.8,Hybrid
+EMP1432,Alisha Rasmussen,Finance,Senior Engineer,MGR-FIN-3,Nagpur,2024-05-31,2.4,Office
+EMP1433,Sarah Bates,Finance,Software Engineer,MGR-FIN-2,Delhi NCR,2025-08-12,2.9,Hybrid
+EMP1434,Melissa Mccormick,IT Operations,Software Engineer,MGR-IT -5,Bangalore,2021-08-04,5.1,Office
+EMP1435,Juan Parker,Engineering,Software Engineer,MGR-ENG-1,Chennai,2026-03-29,2.1,Office
+EMP1436,Heidi Burnett,Engineering,Associate,MGR-ENG-3,Bangalore,2022-06-17,6.3,Office
+EMP1437,Sean Mathews,Sales,Software Engineer,MGR-SAL-4,Mumbai,2022-06-20,4.7,Hybrid
+EMP1438,Theodore Long,Customer Support,Software Engineer,MGR-CUS-1,Hyderabad,2025-11-06,3.2,Office
+EMP1439,Dawn Davis,AI,Software Engineer,MGR-AI-3,Ahmedabad,2022-08-22,4.0,Office
+EMP1440,Cynthia Clark,IT Operations,Software Engineer,MGR-IT -5,Ahmedabad,2024-11-14,4.2,Hybrid
+EMP1441,Sydney Welch,Data Science,Manager,MGR-DAT-4,Mumbai,2024-04-14,3.6,Office
+EMP1442,Pamela Sullivan,Engineering,Software Engineer,MGR-ENG-5,Bangalore,2019-02-26,8.0,Office
+EMP1443,Sean Morrow,IT Operations,Software Engineer,MGR-IT -3,Pune,2023-04-20,3.6,Office
+EMP1444,Kaitlin Gutierrez,Marketing,Manager,MGR-MAR-1,Nagpur,2025-01-15,4.3,Office
+EMP1445,Michelle Mcdowell,R&D,Senior Engineer,MGR-R&D-2,Nagpur,2022-11-06,3.9,Office
+EMP1446,Samantha Hale,AI,Analyst,MGR-AI-4,Hyderabad,2021-01-26,6.1,Office
+EMP1447,Heather Guzman,Customer Support,Team Lead,MGR-CUS-5,Delhi NCR,2019-03-01,8.4,Remote
+EMP1448,Nancy Chavez,R&D,Software Engineer,MGR-R&D-1,Chennai,2023-10-06,4.6,Hybrid
+EMP1449,Anthony May,Data Science,Manager,MGR-DAT-1,Hyderabad,2020-12-15,7.2,Office
+EMP1450,Rachel Taylor,Customer Support,Software Engineer,MGR-CUS-2,Pune,2023-04-20,3.6,Office
+EMP1451,Mark Edwards,Finance,Team Lead,MGR-FIN-3,Bangalore,2021-11-26,5.5,Office
+EMP1452,Christopher Black,IT Operations,Senior Engineer,MGR-IT -2,Chennai,2023-12-28,3.3,Hybrid
+EMP1453,Sandra Hines,R&D,Software Engineer,MGR-R&D-2,Chennai,2021-04-24,5.9,Office
+EMP1454,Melissa Sparks,HR,Manager,MGR-HR-3,Mumbai,2018-11-12,8.9,Office
+EMP1455,John Moss,Engineering,Associate,MGR-ENG-3,Jaipur,2025-06-02,3.2,Hybrid
+EMP1456,Michael Serrano,Data Science,VP,MGR-DAT-3,Pune,2021-04-27,5.9,Office
+EMP1457,Christina Perry,Customer Support,Manager,MGR-CUS-1,Bangalore,2026-06-07,1.2,Office
+EMP1458,Shawn Duffy,IT Operations,Senior Engineer,MGR-IT -1,Chennai,2020-09-14,7.0,Hybrid
+EMP1459,Courtney Vaughan,AI,Software Engineer,MGR-AI-4,Chennai,2026-04-16,3.2,Hybrid
+EMP1460,Maria Sims,IT Operations,Software Engineer,MGR-IT -4,Hyderabad,2026-01-13,3.4,Office
+EMP1461,Valerie Gonzalez,Marketing,Senior Engineer,MGR-MAR-2,Mumbai,2019-02-15,9.8,Hybrid
+EMP1462,Caroline Morales,IT Operations,Senior Engineer,MGR-IT -2,Pune,2023-07-30,3.7,Office
+EMP1463,David Davis,Engineering,Associate,MGR-ENG-4,Hyderabad,2021-05-28,5.3,Hybrid
+EMP1464,Travis Wilson,IT Operations,Senior Engineer,MGR-IT -5,Hyderabad,2024-11-14,2.6,Office
+EMP1465,Jessica Mora,Data Science,Senior Engineer,MGR-DAT-2,Pune,2023-11-28,3.4,Hybrid
+EMP1466,Michael Wilson,Engineering,Senior Engineer,MGR-ENG-5,Chennai,2026-01-27,2.0,Remote
+EMP1467,Cheryl Atkins,Data Science,Senior Analyst,MGR-DAT-5,Bangalore,2019-08-29,9.2,Remote
+EMP1468,Donna Snyder,Marketing,Manager,MGR-MAR-3,Chennai,2023-05-05,5.8,Remote
+EMP1469,Scott Greene,R&D,Manager,MGR-R&D-1,Kolkata,2024-09-18,4.3,Office
+EMP1470,Diane Byrd MD,Legal,Senior Engineer,MGR-LEG-4,Pune,2018-10-21,8.8,Office
+EMP1471,Charles Roberts,HR,Senior Analyst,MGR-HR-1,Pune,2019-01-23,9.5,Office
+EMP1472,Luke Solomon,Customer Support,Software Engineer,MGR-CUS-4,Delhi NCR,2024-09-10,2.8,Hybrid
+EMP1473,Michael Ellis,R&D,Associate,MGR-R&D-1,Hyderabad,2021-06-06,5.3,Hybrid
+EMP1474,Casey Morris,Marketing,Team Lead,MGR-MAR-4,Chennai,2021-07-24,7.1,Office
+EMP1475,Melissa Reeves,Sales,Senior Engineer,MGR-SAL-1,Kolkata,2023-01-08,3.5,Remote
+EMP1476,Nancy Scott,IT Operations,Team Lead,MGR-IT -3,Delhi NCR,2023-04-27,4.4,Hybrid
+EMP1477,Anthony Cook,Procurement,Manager,MGR-PRO-5,Jaipur,2023-11-27,3.6,Remote
+EMP1478,Terry Barajas,Legal,Software Engineer,MGR-LEG-4,Bangalore,2026-01-15,2.6,Hybrid
+EMP1479,Tracy George,Procurement,Associate,MGR-PRO-5,Bangalore,2021-06-22,7.4,Office
+EMP1480,Amber King,Marketing,Senior Engineer,MGR-MAR-4,Bangalore,2024-07-27,2.9,Office
+EMP1481,Elizabeth Foster,Procurement,Senior Engineer,MGR-PRO-4,Pune,2023-01-27,5.9,Office
+EMP1482,Walter Hansen,Engineering,Software Engineer,MGR-ENG-3,Hyderabad,2022-09-21,4.7,Office
+EMP1483,Debbie Gordon,HR,Senior Engineer,MGR-HR-1,Mumbai,2021-09-06,6.2,Hybrid
+EMP1484,Sherry Anderson,Engineering,Team Lead,MGR-ENG-4,Ahmedabad,2023-09-03,5.0,Hybrid
+EMP1485,Joseph Thomas,Sales,Senior Engineer,MGR-SAL-1,Hyderabad,2020-07-03,8.1,Hybrid
+EMP1486,Andrew Anderson,Sales,Manager,MGR-SAL-3,Hyderabad,2019-06-06,10.1,Hybrid
+EMP1487,Sandy Adkins,Marketing,Senior Engineer,MGR-MAR-2,Mumbai,2024-05-09,2.9,Office
+EMP1488,Diane Mcdowell,Customer Support,Principal Engineer,MGR-CUS-5,Pune,2022-06-25,6.0,Office
+EMP1489,Pam Baker,Sales,Team Lead,MGR-SAL-4,Pune,2021-08-05,6.8,Office
+EMP1490,Steven Stewart,Marketing,Senior Analyst,MGR-MAR-3,Bangalore,2022-12-23,6.3,Office
+EMP1491,Pamela Hernandez DVM,AI,Software Engineer,MGR-AI-1,Pune,2020-08-08,6.4,Office
+EMP1492,Rebecca Brown,Sales,Senior Engineer,MGR-SAL-4,Hyderabad,2020-08-03,8.2,Office
+EMP1493,David Johnson,AI,Senior Engineer,MGR-AI-1,Ahmedabad,2022-01-23,6.2,Office
+EMP1494,Michael Graham,Engineering,Team Lead,MGR-ENG-2,Ahmedabad,2026-06-02,0.9,Office
+EMP1495,Tammy Williams MD,IT Operations,Associate,MGR-IT -4,Hyderabad,2020-10-15,7.2,Hybrid
+EMP1496,Karina Vasquez,IT Operations,Software Engineer,MGR-IT -5,Pune,2025-10-14,1.7,Office
+EMP1497,Sharon Martinez,IT Operations,Software Engineer,MGR-IT -4,Kolkata,2022-06-02,5.9,Office
+EMP1498,Sean White,Marketing,Senior Analyst,MGR-MAR-5,Ahmedabad,2019-07-02,9.7,Office
+EMP1499,Jordan Nelson,Sales,Software Engineer,MGR-SAL-1,Pune,2025-04-13,3.0,Remote
+EMP1500,Laurie Silva,R&D,Manager,MGR-R&D-4,Chennai,2022-02-09,6.3,Office
+EMP1501,Kelly Duncan,Finance,Team Lead,MGR-FIN-3,Mumbai,2025-08-23,2.4,Office
+EMP1502,Billy Tate,Finance,Senior Analyst,MGR-FIN-3,Delhi NCR,2022-01-20,4.6,Hybrid
+EMP1503,Stacy Johnson,Engineering,Software Engineer,MGR-ENG-2,Nagpur,2019-03-23,8.0,Hybrid
+EMP1504,Melanie Long,Sales,Software Engineer,MGR-SAL-3,Pune,2023-12-06,4.1,Remote
+EMP1505,Tiffany Hood,Sales,Team Lead,MGR-SAL-2,Ahmedabad,2025-03-23,2.2,Office
+EMP1506,Brad Rivas,Marketing,Principal Engineer,MGR-MAR-1,Hyderabad,2021-01-22,6.0,Office
+EMP1507,Jordan Moses,HR,Senior Engineer,MGR-HR-5,Nagpur,2021-04-12,6.8,Office
+EMP1508,Abigail Booker,Finance,Senior Engineer,MGR-FIN-1,Bangalore,2019-01-16,8.5,Hybrid
+EMP1509,Tiffany Nguyen,IT Operations,Manager,MGR-IT -5,Kolkata,2022-10-27,4.5,Office
+EMP1510,Morgan Bernard,Legal,Associate,MGR-LEG-5,Pune,2025-08-02,2.3,Office
+EMP1511,Christine Williams,Procurement,Senior Analyst,MGR-PRO-2,Mumbai,2025-04-09,1.7,Office
+EMP1512,Erica Brown,Customer Support,VP,MGR-CUS-3,Pune,2024-03-01,5.1,Office
+EMP1513,Trevor James,Data Science,Software Engineer,MGR-DAT-3,Nagpur,2025-11-14,3.3,Office
+EMP1514,Christopher Hanna,Engineering,Software Engineer,MGR-ENG-2,Delhi NCR,2023-07-31,5.1,Hybrid
+EMP1515,Ann Phelps,AI,Manager,MGR-AI-2,Kolkata,2024-10-24,2.0,Hybrid
+EMP1516,Richard Mitchell,Engineering,Senior Analyst,MGR-ENG-1,Jaipur,2022-07-23,6.3,Office
+EMP1517,Martha Martinez,IT Operations,Senior Engineer,MGR-IT -2,Pune,2019-06-28,9.5,Office
+EMP1518,Jeffrey Drake MD,R&D,Software Engineer,MGR-R&D-3,Bangalore,2020-02-14,8.7,Hybrid
+EMP1519,Bonnie Wade,AI,Senior Analyst,MGR-AI-2,Pune,2019-08-18,7.2,Office
+EMP1520,Kayla Burns,R&D,Software Engineer,MGR-R&D-2,Pune,2024-10-14,3.7,Office
+EMP1521,Karen Hart,Engineering,Senior Engineer,MGR-ENG-5,Mumbai,2018-09-27,10.3,Office
+EMP1522,Peter Shepherd,Data Science,Team Lead,MGR-DAT-2,Bangalore,2022-12-01,5.3,Hybrid
+EMP1523,Jessica Simmons,Sales,Team Lead,MGR-SAL-1,Mumbai,2021-06-13,7.0,Remote
+EMP1524,Glenn Ford,Engineering,Analyst,MGR-ENG-2,Pune,2024-11-22,3.0,Hybrid
+EMP1525,Michael Moore,Finance,Senior Engineer,MGR-FIN-4,Pune,2022-11-24,5.2,Office
+EMP1526,Mark Warren IV,AI,Manager,MGR-AI-4,Pune,2023-05-17,3.3,Office
+EMP1527,Terry Woods,Sales,Team Lead,MGR-SAL-5,Nagpur,2019-03-19,9.2,Hybrid
+EMP1528,Carl Leach,Sales,Team Lead,MGR-SAL-5,Delhi NCR,2020-12-23,5.8,Office
+EMP1529,Kelly Phillips,Procurement,Manager,MGR-PRO-4,Jaipur,2026-06-11,1.4,Remote
+EMP1530,Billy Williams,Finance,Software Engineer,MGR-FIN-5,Bangalore,2024-03-21,3.2,Remote
+EMP1531,Jeffery Davis,Sales,Software Engineer,MGR-SAL-5,Mumbai,2022-09-10,5.5,Office
+EMP1532,Laura King,IT Operations,Software Engineer,MGR-IT -3,Delhi NCR,2024-08-14,2.3,Remote
+EMP1533,Brad Gordon,Customer Support,Software Engineer,MGR-CUS-3,Mumbai,2025-01-18,3.6,Office
+EMP1534,Matthew White,Sales,Team Lead,MGR-SAL-2,Mumbai,2019-02-11,9.8,Hybrid
+EMP1535,James Miller,Marketing,Senior Analyst,MGR-MAR-4,Mumbai,2026-03-25,0.8,Office
+EMP1536,Elizabeth Matthews,Engineering,Analyst,MGR-ENG-1,Pune,2023-08-13,3.2,Office
+EMP1537,Michael Hanson,AI,Senior Analyst,MGR-AI-4,Mumbai,2022-02-03,4.9,Hybrid
+EMP1538,Vincent Savage,Customer Support,Senior Engineer,MGR-CUS-4,Mumbai,2023-11-30,5.2,Hybrid
+EMP1539,Cody Burgess,AI,Senior Engineer,MGR-AI-3,Chennai,2021-04-04,6.9,Office
+EMP1540,Shelby Rodriguez,Finance,Senior Engineer,MGR-FIN-3,Pune,2025-06-25,2.5,Hybrid
+EMP1541,Abigail Wilson,Customer Support,Software Engineer,MGR-CUS-5,Pune,2024-09-15,2.1,Office
+EMP1542,John Holt,Engineering,Software Engineer,MGR-ENG-1,Delhi NCR,2023-08-06,4.9,Office
+EMP1543,Tracy Guzman,HR,Team Lead,MGR-HR-3,Pune,2019-12-21,9.2,Office
+EMP1544,Mr. William Ward,AI,Director,MGR-AI-5,Mumbai,2026-03-07,2.8,Office
+EMP1545,Melissa Foster,Data Science,Software Engineer,MGR-DAT-1,Kolkata,2021-12-15,6.5,Office
+EMP1546,Calvin Smith,Finance,Software Engineer,MGR-FIN-3,Pune,2025-09-27,1.0,Office
+EMP1547,Alan Waller,Procurement,Analyst,MGR-PRO-4,Pune,2018-12-20,7.9,Office
+EMP1548,Christine Wong,HR,Software Engineer,MGR-HR-4,Bangalore,2019-07-07,7.2,Office
+EMP1549,Jessica Garrett,Engineering,Senior Analyst,MGR-ENG-1,Mumbai,2019-09-28,7.6,Office
+EMP1550,Cheryl Turner,IT Operations,Analyst,MGR-IT -1,Hyderabad,2019-11-01,7.1,Remote
+EMP1551,John Johnson,Data Science,Principal Engineer,MGR-DAT-3,Delhi NCR,2021-01-31,6.2,Office
+EMP1552,Christian Park,IT Operations,Senior Engineer,MGR-IT -3,Pune,2024-02-23,3.5,Remote
+EMP1553,Kaitlyn Heath,Procurement,Manager,MGR-PRO-1,Hyderabad,2021-04-08,8.1,Hybrid
+EMP1554,Christina Hudson,R&D,Senior Engineer,MGR-R&D-1,Bangalore,2025-12-24,2.4,Hybrid
+EMP1555,Amber Smith,AI,Manager,MGR-AI-5,Pune,2025-08-13,3.4,Hybrid
+EMP1556,Michelle Petty,AI,Senior Engineer,MGR-AI-5,Hyderabad,2025-03-24,3.4,Hybrid
+EMP1557,Nancy Larson,IT Operations,Software Engineer,MGR-IT -5,Mumbai,2020-07-06,6.4,Office
+EMP1558,Donna Freeman,Marketing,Team Lead,MGR-MAR-4,Bangalore,2023-07-23,5.2,Office
+EMP1559,Mr. Logan Gregory,R&D,Team Lead,MGR-R&D-4,Pune,2022-11-22,4.5,Hybrid
+EMP1560,Katherine Klein,R&D,Senior Analyst,MGR-R&D-5,Bangalore,2019-07-09,8.9,Hybrid
+EMP1561,Jennifer Stewart,Sales,Analyst,MGR-SAL-5,Mumbai,2020-12-04,6.6,Hybrid
+EMP1562,Steven Butler,AI,Manager,MGR-AI-1,Delhi NCR,2022-10-02,6.8,Office
+EMP1563,Johnny Mcmillan,Legal,Software Engineer,MGR-LEG-4,Pune,2022-07-05,4.8,Hybrid
+EMP1564,Michael Smith,Sales,Analyst,MGR-SAL-5,Bangalore,2019-11-12,7.5,Office
+EMP1565,Corey Cooper,Procurement,Team Lead,MGR-PRO-2,Bangalore,2025-12-26,3.3,Office
+EMP1566,Daniel Stout,Marketing,Associate,MGR-MAR-3,Chennai,2019-10-01,6.9,Office
+EMP1567,Lance Kirby,IT Operations,Associate,MGR-IT -5,Hyderabad,2023-09-30,4.9,Hybrid
+EMP1568,Bonnie Carter,Engineering,Software Engineer,MGR-ENG-4,Chennai,2024-03-27,4.5,Hybrid
+EMP1569,Toni Whitaker,IT Operations,Senior Analyst,MGR-IT -5,Delhi NCR,2023-04-28,5.7,Office
+EMP1570,Morgan Flynn,Marketing,Software Engineer,MGR-MAR-2,Kolkata,2025-03-14,4.3,Hybrid
+EMP1571,Sarah Howell,HR,Senior Engineer,MGR-HR-1,Mumbai,2022-12-28,6.5,Office
+EMP1572,Paul Estrada,AI,Team Lead,MGR-AI-4,Bangalore,2025-01-23,1.7,Office
+EMP1573,Curtis Obrien,Customer Support,Software Engineer,MGR-CUS-1,Kolkata,2018-10-03,10.2,Office
+EMP1574,Jason Chaney,R&D,Analyst,MGR-R&D-3,Nagpur,2018-11-21,9.6,Office
+EMP1575,Daniel Williams,AI,Software Engineer,MGR-AI-1,Ahmedabad,2023-08-11,4.9,Office
+EMP1576,Stanley Kelly,Engineering,Software Engineer,MGR-ENG-5,Mumbai,2023-02-05,3.8,Office
+EMP1577,Ronald Kline,Engineering,Team Lead,MGR-ENG-2,Pune,2023-09-08,4.8,Hybrid
+EMP1578,Arthur Jordan,IT Operations,Analyst,MGR-IT -1,Bangalore,2024-08-08,4.9,Hybrid
+EMP1579,Barbara Walker,IT Operations,Associate,MGR-IT -2,Delhi NCR,2021-10-29,7.4,Office
+EMP1580,Gerald Kelly,HR,Analyst,MGR-HR-4,Bangalore,2023-08-03,4.3,Office
+EMP1581,Shawn Adams,AI,Manager,MGR-AI-4,Bangalore,2022-06-22,4.2,Office
+EMP1582,Michael Robertson,Marketing,Senior Engineer,MGR-MAR-5,Kolkata,2023-06-30,4.1,Office
+EMP1583,Michelle House,IT Operations,Software Engineer,MGR-IT -5,Mumbai,2020-10-27,8.2,Office
+EMP1584,Jim Skinner,Finance,Software Engineer,MGR-FIN-5,Kolkata,2026-02-07,2.5,Office
+EMP1585,Brian Bishop,Data Science,Team Lead,MGR-DAT-2,Bangalore,2022-05-09,5.6,Remote
+EMP1586,Theresa Colon,Engineering,Manager,MGR-ENG-3,Mumbai,2024-11-25,1.8,Hybrid
+EMP1587,Brian Soto,Customer Support,Senior Engineer,MGR-CUS-3,Bangalore,2023-12-14,3.9,Office
+EMP1588,Susan Moore,Marketing,Analyst,MGR-MAR-3,Delhi NCR,2020-11-19,7.1,Office
+EMP1589,Jeremy Hunter,Marketing,Team Lead,MGR-MAR-4,Pune,2019-02-09,10.2,Office
+EMP1590,Annette Holland,Customer Support,Software Engineer,MGR-CUS-4,Pune,2019-01-02,9.4,Hybrid
+EMP1591,Chad Allison,Customer Support,Software Engineer,MGR-CUS-3,Jaipur,2022-01-04,5.5,Office
+EMP1592,Jason Mack,Data Science,Senior Analyst,MGR-DAT-5,Pune,2022-05-13,5.7,Office
+EMP1593,Robert Peterson,Engineering,Analyst,MGR-ENG-1,Hyderabad,2020-02-23,6.6,Hybrid
+EMP1594,Angela Watson,Engineering,Associate,MGR-ENG-3,Hyderabad,2023-05-02,6.1,Office
+EMP1595,Heather Ortega,Customer Support,Software Engineer,MGR-CUS-1,Bangalore,2021-01-01,6.6,Office
+EMP1596,Paul Fisher,HR,VP,MGR-HR-3,Hyderabad,2024-03-20,3.7,Office
+EMP1597,Robert Gutierrez,Sales,Software Engineer,MGR-SAL-1,Mumbai,2024-05-05,3.3,Office
+EMP1598,Jimmy Phelps,Engineering,Software Engineer,MGR-ENG-5,Bangalore,2025-05-06,3.2,Office
+EMP1599,Heidi Johnson,Engineering,VP,MGR-ENG-4,Mumbai,2026-04-02,2.3,Office
+EMP1600,Adam Drake,R&D,Senior Engineer,MGR-R&D-3,Chennai,2019-07-26,9.1,Office
+EMP1601,Angela Edwards,AI,Manager,MGR-AI-3,Pune,2021-06-18,5.9,Office
+EMP1602,Mrs. Amy Malone,Sales,Software Engineer,MGR-SAL-5,Hyderabad,2022-12-23,4.5,Hybrid
+EMP1603,Margaret Orr,AI,Team Lead,MGR-AI-2,Pune,2021-01-20,5.9,Office
+EMP1604,Mark Reeves,Sales,Associate,MGR-SAL-3,Mumbai,2022-03-23,6.3,Office
+EMP1605,Kelly Phillips,Engineering,Senior Engineer,MGR-ENG-1,Pune,2020-08-24,6.0,Hybrid
+EMP1606,Michael Spencer,Finance,Manager,MGR-FIN-5,Pune,2020-06-28,7.8,Hybrid
+EMP1607,Patrick Blankenship,Engineering,Software Engineer,MGR-ENG-2,Delhi NCR,2019-04-18,9.8,Hybrid
+EMP1608,Douglas Rose,Procurement,Manager,MGR-PRO-3,Mumbai,2020-10-29,8.4,Office
+EMP1609,Melody Griffin,AI,Senior Engineer,MGR-AI-3,Ahmedabad,2021-07-27,6.3,Office
+EMP1610,Joshua Kramer,HR,Software Engineer,MGR-HR-4,Jaipur,2023-05-27,4.5,Hybrid
+EMP1611,Melissa Barron,R&D,Senior Engineer,MGR-R&D-2,Hyderabad,2020-06-29,6.3,Hybrid
+EMP1612,Jennifer Gonzalez,IT Operations,Software Engineer,MGR-IT -5,Pune,2025-05-19,3.2,Office
+EMP1613,Andrew Cook,Finance,Associate,MGR-FIN-1,Mumbai,2019-10-17,9.2,Remote
+EMP1614,Natalie Martinez,Sales,Senior Engineer,MGR-SAL-3,Delhi NCR,2021-02-13,6.1,Office
+EMP1615,Diane Davis DDS,Sales,Software Engineer,MGR-SAL-5,Mumbai,2023-02-07,4.7,Remote
+EMP1616,Nicole Moore,IT Operations,Senior Engineer,MGR-IT -4,Pune,2021-01-02,8.0,Hybrid
+EMP1617,Robert Vargas,Data Science,Senior Engineer,MGR-DAT-3,Bangalore,2024-07-27,4.6,Hybrid
+EMP1618,Raymond Barber,IT Operations,Analyst,MGR-IT -2,Kolkata,2022-06-22,4.8,Remote
+EMP1619,Mrs. Amy Watson,HR,Director,MGR-HR-5,Delhi NCR,2022-08-09,5.6,Hybrid
+EMP1620,Heather Williams,Customer Support,Senior Engineer,MGR-CUS-1,Pune,2022-06-24,4.6,Office
+EMP1621,Belinda Evans,Marketing,Associate,MGR-MAR-4,Chennai,2020-12-21,5.9,Office
+EMP1622,Jody Bird,Engineering,Team Lead,MGR-ENG-5,Mumbai,2018-09-18,10.5,Office
+EMP1623,Virginia Cunningham,HR,Software Engineer,MGR-HR-3,Pune,2026-01-05,3.0,Office
+EMP1624,Lori Ferguson,Data Science,Analyst,MGR-DAT-1,Kolkata,2022-07-13,6.3,Hybrid
+EMP1625,Hayley Mitchell,AI,Team Lead,MGR-AI-3,Mumbai,2026-03-08,0.5,Office
+EMP1626,Michelle Chambers,Customer Support,Manager,MGR-CUS-3,Mumbai,2020-03-26,8.8,Office
+EMP1627,Kelly Wright,AI,Associate,MGR-AI-2,Pune,2021-04-28,6.5,Hybrid
+EMP1628,Kevin Carson,Finance,Senior Engineer,MGR-FIN-2,Kolkata,2018-12-06,8.6,Hybrid
+EMP1629,Brent Dawson,Engineering,Associate,MGR-ENG-3,Delhi NCR,2022-06-13,5.7,Office
+EMP1630,Angela Brown,Marketing,Analyst,MGR-MAR-4,Hyderabad,2025-07-07,1.3,Office
+EMP1631,Karen Griffin,Customer Support,Team Lead,MGR-CUS-2,Delhi NCR,2023-09-17,5.1,Office
+EMP1632,Joseph Chapman,Sales,Manager,MGR-SAL-2,Pune,2022-04-03,6.0,Hybrid
+EMP1633,Jennifer Baker,IT Operations,Senior Engineer,MGR-IT -2,Bangalore,2022-10-12,4.3,Office
+EMP1634,Mr. Jeremiah Galvan MD,Procurement,Director,MGR-PRO-2,Mumbai,2025-03-28,1.9,Hybrid
+EMP1635,Samantha Thomas,R&D,Manager,MGR-R&D-1,Pune,2021-12-10,5.1,Office
+EMP1636,Michael Anderson,AI,Software Engineer,MGR-AI-3,Bangalore,2025-07-08,1.2,Office
+EMP1637,Sharon Wilson,Marketing,Senior Engineer,MGR-MAR-1,Ahmedabad,2024-04-15,4.0,Remote
+EMP1638,John Francis,Engineering,Manager,MGR-ENG-5,Pune,2024-07-30,4.5,Office
+EMP1639,Jaclyn Crane,Data Science,Software Engineer,MGR-DAT-5,Mumbai,2021-06-05,5.2,Office
+EMP1640,Jennifer Martinez,R&D,Software Engineer,MGR-R&D-5,Pune,2021-09-13,5.0,Office
+EMP1641,Amanda Hernandez,Finance,Senior Engineer,MGR-FIN-1,Mumbai,2023-01-17,5.2,Office
+EMP1642,William Turner,R&D,Senior Engineer,MGR-R&D-3,Ahmedabad,2020-01-26,8.9,Office
+EMP1643,Dr. Charles Lawrence,Finance,Senior Engineer,MGR-FIN-5,Bangalore,2022-11-28,4.6,Office
+EMP1644,Steven Small,IT Operations,Software Engineer,MGR-IT -2,Bangalore,2019-02-10,8.5,Office
+EMP1645,Robert Burns,Engineering,Software Engineer,MGR-ENG-5,Delhi NCR,2022-07-10,5.8,Office
+EMP1646,Gregory Harrell,Customer Support,Analyst,MGR-CUS-4,Pune,2024-07-31,2.8,Hybrid
+EMP1647,Kenneth Knight,Engineering,Team Lead,MGR-ENG-2,Bangalore,2020-09-28,5.9,Hybrid
+EMP1648,Rachael Alvarez,Procurement,Software Engineer,MGR-PRO-2,Bangalore,2026-05-12,2.4,Office
+EMP1649,Lisa Gill,Legal,Senior Engineer,MGR-LEG-2,Hyderabad,2023-12-01,4.5,Hybrid
+EMP1650,Julia Cole,Customer Support,Team Lead,MGR-CUS-5,Nagpur,2019-06-21,8.8,Office
+EMP1651,Sean Nguyen,Engineering,Software Engineer,MGR-ENG-2,Delhi NCR,2026-04-01,2.5,Office
+EMP1652,Mary Ortiz,Sales,Software Engineer,MGR-SAL-4,Bangalore,2021-08-25,6.9,Office
+EMP1653,James Weaver,AI,Software Engineer,MGR-AI-1,Delhi NCR,2024-10-27,2.3,Office
+EMP1654,Stacy Fitzgerald,Sales,Senior Analyst,MGR-SAL-4,Pune,2021-03-19,6.4,Office
+EMP1655,Sharon Mann,Engineering,Analyst,MGR-ENG-3,Pune,2025-12-18,0.9,Office
+EMP1656,Rebecca Zimmerman,Data Science,Analyst,MGR-DAT-2,Pune,2024-07-04,2.4,Hybrid
+EMP1657,Becky Hansen,HR,Analyst,MGR-HR-4,Mumbai,2020-02-08,8.5,Remote
+EMP1658,Luke Ray,Sales,Manager,MGR-SAL-5,Bangalore,2022-07-24,6.5,Office
+EMP1659,Kelly Lopez,Marketing,Senior Engineer,MGR-MAR-3,Hyderabad,2022-06-28,6.9,Hybrid
+EMP1660,Steven Martinez,Marketing,Manager,MGR-MAR-4,Ahmedabad,2018-11-21,9.5,Hybrid
+EMP1661,Catherine Smith,IT Operations,Software Engineer,MGR-IT -2,Bangalore,2019-08-13,7.5,Hybrid
+EMP1662,Danielle Thornton,Finance,Manager,MGR-FIN-5,Bangalore,2021-03-02,5.7,Office
+EMP1663,Jill Roman,R&D,Analyst,MGR-R&D-2,Pune,2022-04-13,6.7,Office
+EMP1664,Jennifer Williams,Finance,Team Lead,MGR-FIN-3,Pune,2022-02-23,6.1,Office
+EMP1665,Allison Kim,Data Science,Senior Engineer,MGR-DAT-4,Bangalore,2023-05-01,5.1,Office
+EMP1666,Scott Stewart,R&D,Software Engineer,MGR-R&D-2,Bangalore,2022-08-11,6.3,Hybrid
+EMP1667,Brian Garcia,AI,Manager,MGR-AI-3,Kolkata,2021-02-15,7.5,Office
+EMP1668,Charles Scott,Data Science,Analyst,MGR-DAT-5,Pune,2023-05-20,5.7,Office
+EMP1669,Eric Russell,Engineering,Associate,MGR-ENG-4,Pune,2019-10-25,6.9,Hybrid
+EMP1670,Lucas Nguyen,Procurement,Senior Engineer,MGR-PRO-4,Bangalore,2026-05-16,2.4,Hybrid
+EMP1671,Anthony Price,Sales,Analyst,MGR-SAL-3,Mumbai,2024-05-20,4.7,Office
+EMP1672,Jason Nguyen,R&D,Team Lead,MGR-R&D-4,Pune,2020-11-24,6.5,Hybrid
+EMP1673,Ronald Martinez,R&D,Associate,MGR-R&D-5,Chennai,2021-03-11,7.3,Office
+EMP1674,Paul Willis,Procurement,Team Lead,MGR-PRO-5,Pune,2025-02-01,2.4,Office
+EMP1675,Paul Cruz Jr.,Procurement,Team Lead,MGR-PRO-4,Hyderabad,2022-09-29,6.7,Office
+EMP1676,John Russell,Sales,Team Lead,MGR-SAL-2,Mumbai,2024-02-21,2.5,Hybrid
+EMP1677,Mr. David Mercado,Engineering,Analyst,MGR-ENG-2,Pune,2020-11-25,7.4,Remote
+EMP1678,Victor Leonard,Marketing,Principal Engineer,MGR-MAR-5,Mumbai,2024-12-27,2.0,Office
+EMP1679,Justin Glover,AI,Software Engineer,MGR-AI-2,Delhi NCR,2021-06-12,7.2,Office
+EMP1680,Jason Miller,Customer Support,Software Engineer,MGR-CUS-3,Bangalore,2023-11-12,3.2,Office
+EMP1681,Christina Faulkner,Sales,Associate,MGR-SAL-1,Delhi NCR,2026-04-15,0.9,Office
+EMP1682,William Casey,Data Science,Team Lead,MGR-DAT-4,Pune,2023-02-25,4.9,Office
+EMP1683,Jessica Buck,IT Operations,Manager,MGR-IT -3,Delhi NCR,2024-11-02,4.4,Office
+EMP1684,Aaron Marshall,Procurement,Team Lead,MGR-PRO-5,Mumbai,2024-04-09,2.9,Hybrid
+EMP1685,Donna Stanton,Engineering,Software Engineer,MGR-ENG-1,Chennai,2023-12-23,3.0,Hybrid
+EMP1686,Timothy Olson,R&D,Analyst,MGR-R&D-5,Hyderabad,2018-09-28,10.1,Office
+EMP1687,Sara James,R&D,Analyst,MGR-R&D-1,Ahmedabad,2022-04-15,5.7,Office
+EMP1688,Mark Richards,Finance,Senior Engineer,MGR-FIN-3,Bangalore,2026-03-09,3.1,Office
+EMP1689,Amber Stevenson,IT Operations,Senior Engineer,MGR-IT -1,Pune,2024-09-23,2.2,Office
+EMP1690,Elizabeth Foster,Legal,Senior Analyst,MGR-LEG-2,Pune,2024-09-03,3.8,Hybrid
+EMP1691,Charles Hawkins,AI,Software Engineer,MGR-AI-3,Delhi NCR,2023-02-07,4.1,Remote
+EMP1692,Jeffrey Bishop,Finance,Associate,MGR-FIN-4,Bangalore,2024-03-29,2.8,Office
+EMP1693,Emily Fleming,Marketing,Software Engineer,MGR-MAR-5,Delhi NCR,2023-02-24,5.4,Office
+EMP1694,Dean Mullins,Engineering,Team Lead,MGR-ENG-2,Mumbai,2019-11-18,8.4,Hybrid
+EMP1695,David Bird,Sales,Associate,MGR-SAL-4,Mumbai,2023-07-06,5.3,Office
+EMP1696,Joe Greene,Engineering,Manager,MGR-ENG-1,Pune,2023-06-09,4.0,Hybrid
+EMP1697,Michael Lucas,Engineering,Senior Engineer,MGR-ENG-2,Jaipur,2025-03-10,2.7,Office
+EMP1698,John Valenzuela,Engineering,Analyst,MGR-ENG-4,Chennai,2019-09-13,8.0,Hybrid
+EMP1699,Jennifer Woodard,Data Science,Senior Engineer,MGR-DAT-3,Jaipur,2023-12-02,5.6,Office
+EMP1700,Pamela Medina,HR,Software Engineer,MGR-HR-1,Mumbai,2018-10-12,8.6,Hybrid
+EMP1701,Mariah Jones,Data Science,VP,MGR-DAT-4,Hyderabad,2026-01-14,1.4,Hybrid
+EMP1702,Ronnie Powers,Marketing,Analyst,MGR-MAR-1,Chennai,2019-05-26,8.2,Office
+EMP1703,Heather Hess,Sales,Manager,MGR-SAL-4,Mumbai,2018-09-05,9.5,Hybrid
+EMP1704,Heather Thompson,Finance,Senior Engineer,MGR-FIN-5,Kolkata,2021-01-05,6.3,Hybrid
+EMP1705,Melissa Smith,Marketing,Software Engineer,MGR-MAR-3,Jaipur,2019-09-23,9.5,Office
+EMP1706,Timothy Wallace,Engineering,Software Engineer,MGR-ENG-2,Ahmedabad,2023-12-30,3.3,Office
+EMP1707,Alejandro Campbell,IT Operations,Team Lead,MGR-IT -4,Chennai,2021-10-11,7.4,Office
+EMP1708,Heather Davis,AI,Analyst,MGR-AI-1,Mumbai,2024-08-31,2.2,Office
+EMP1709,Elizabeth Robbins,IT Operations,Team Lead,MGR-IT -3,Mumbai,2025-10-26,2.7,Office
+EMP1710,Johnny Cox,IT Operations,Senior Analyst,MGR-IT -2,Jaipur,2025-06-10,3.8,Hybrid
+EMP1711,Tanner Mann,Engineering,Software Engineer,MGR-ENG-1,Pune,2024-05-10,2.7,Office
+EMP1712,Craig Nicholson,Engineering,Senior Engineer,MGR-ENG-3,Chennai,2019-01-09,10.4,Hybrid
+EMP1713,Sergio Carroll,Legal,Software Engineer,MGR-LEG-1,Chennai,2019-08-16,8.3,Office
+EMP1714,Juan Keller MD,Marketing,Senior Engineer,MGR-MAR-3,Hyderabad,2020-03-03,9.2,Office
+EMP1715,Krystal Jones,Engineering,Software Engineer,MGR-ENG-2,Nagpur,2021-02-07,7.5,Office
+EMP1716,Austin Green,Data Science,Principal Engineer,MGR-DAT-2,Mumbai,2023-10-10,3.7,Office
+EMP1717,Crystal Mills,Engineering,Software Engineer,MGR-ENG-1,Mumbai,2022-09-09,4.4,Office
+EMP1718,Cheryl Gregory,Customer Support,Associate,MGR-CUS-3,Pune,2021-01-05,6.4,Office
+EMP1719,Melissa Patel MD,Data Science,Senior Engineer,MGR-DAT-4,Bangalore,2019-11-25,6.9,Office
+EMP1720,Jordan Pace,AI,Director,MGR-AI-2,Mumbai,2025-10-01,1.2,Hybrid
+EMP1721,Terri Williams,Engineering,Team Lead,MGR-ENG-4,Mumbai,2021-03-29,5.6,Hybrid
+EMP1722,Jessica Carney,Engineering,Associate,MGR-ENG-4,Kolkata,2021-05-02,6.5,Office
+EMP1723,Michael Owens,Sales,Software Engineer,MGR-SAL-5,Jaipur,2024-08-22,4.3,Hybrid
+EMP1724,Peter Stephenson,Engineering,Analyst,MGR-ENG-1,Pune,2024-03-27,2.7,Hybrid
+EMP1725,Donald Fisher,Customer Support,Associate,MGR-CUS-1,Mumbai,2023-08-16,3.3,Office
+EMP1726,Aaron Lee,Engineering,Software Engineer,MGR-ENG-1,Ahmedabad,2024-01-08,4.4,Remote
+EMP1727,Kenneth Johnson,Finance,Software Engineer,MGR-FIN-3,Pune,2023-05-12,3.8,Hybrid
+EMP1728,Vanessa Coleman,Data Science,Senior Engineer,MGR-DAT-2,Pune,2020-01-20,6.8,Office
+EMP1729,David Martin,Procurement,Associate,MGR-PRO-2,Pune,2020-06-24,6.6,Office
+EMP1730,Mark Davis,IT Operations,Team Lead,MGR-IT -5,Hyderabad,2022-12-12,6.4,Office
+EMP1731,Robert Watkins,Sales,Team Lead,MGR-SAL-5,Pune,2020-04-23,8.7,Office
+EMP1732,Felicia Wright,IT Operations,Software Engineer,MGR-IT -5,Jaipur,2026-03-26,1.4,Hybrid
+EMP1733,David Peterson,Finance,Software Engineer,MGR-FIN-4,Bangalore,2020-11-19,7.6,Office
+EMP1734,Gavin Bauer,Marketing,Senior Analyst,MGR-MAR-1,Bangalore,2020-10-25,7.3,Hybrid
+EMP1735,Patricia Harvey,Engineering,Software Engineer,MGR-ENG-3,Mumbai,2020-03-03,8.4,Hybrid
+EMP1736,Lori Riley,R&D,Manager,MGR-R&D-2,Bangalore,2024-02-10,4.5,Hybrid
+EMP1737,Antonio Johnson,Marketing,Associate,MGR-MAR-3,Chennai,2021-01-14,7.4,Hybrid
+EMP1738,Ryan Brown,AI,Software Engineer,MGR-AI-1,Delhi NCR,2021-04-16,6.0,Office
+EMP1739,Thomas Ramos,Sales,Manager,MGR-SAL-1,Delhi NCR,2025-12-03,0.7,Office
+EMP1740,Mark Jones,Marketing,Software Engineer,MGR-MAR-2,Hyderabad,2024-10-29,3.1,Hybrid
+EMP1741,Kristin Phillips,Procurement,Manager,MGR-PRO-4,Ahmedabad,2020-09-10,8.5,Office
+EMP1742,Brendan Walton,Customer Support,Software Engineer,MGR-CUS-5,Delhi NCR,2019-06-30,8.7,Office
+EMP1743,Kyle Keller,Legal,Analyst,MGR-LEG-4,Delhi NCR,2023-11-20,5.1,Hybrid
+EMP1744,James Pope,Engineering,Senior Engineer,MGR-ENG-1,Pune,2021-07-15,8.0,Hybrid
+EMP1745,Lisa Morgan,Marketing,Senior Engineer,MGR-MAR-1,Pune,2026-04-16,0.7,Office
+EMP1746,Rachel Gibson,Finance,Team Lead,MGR-FIN-4,Pune,2025-01-03,3.6,Hybrid
+EMP1747,Corey Garcia,Engineering,Software Engineer,MGR-ENG-5,Chennai,2026-02-01,2.5,Hybrid
+EMP1748,Andrea Clarke,AI,Analyst,MGR-AI-5,Bangalore,2024-11-24,4.6,Office
+EMP1749,Kenneth Walsh,Legal,Senior Engineer,MGR-LEG-1,Bangalore,2020-10-29,8.7,Office
+EMP1750,Jason Hardy,Engineering,Manager,MGR-ENG-5,Ahmedabad,2020-10-21,7.8,Remote
+EMP1751,David Robles,Finance,Software Engineer,MGR-FIN-5,Ahmedabad,2024-03-08,3.1,Office
+EMP1752,Eric Graham,AI,Analyst,MGR-AI-2,Ahmedabad,2021-04-09,7.7,Office
+EMP1753,Nicole Collins,Engineering,Software Engineer,MGR-ENG-2,Mumbai,2022-01-12,4.8,Office
+EMP1754,Patricia Hernandez,AI,Senior Engineer,MGR-AI-3,Chennai,2020-07-23,8.3,Hybrid
+EMP1755,Grant Wood,Data Science,Software Engineer,MGR-DAT-4,Mumbai,2022-04-28,6.9,Office
+EMP1756,Kevin Gregory,Procurement,Analyst,MGR-PRO-1,Pune,2020-02-17,7.5,Office
+EMP1757,Jonathon Conley,Data Science,Software Engineer,MGR-DAT-5,Pune,2022-10-17,5.6,Office
+EMP1758,Jennifer Gonzalez,Finance,Associate,MGR-FIN-3,Mumbai,2025-12-01,1.9,Remote
+EMP1759,Terry Glover,Engineering,Associate,MGR-ENG-2,Bangalore,2024-01-16,3.8,Office
+EMP1760,Michael Neal,HR,Software Engineer,MGR-HR-5,Kolkata,2019-08-13,7.8,Hybrid
+EMP1761,Ms. Erin Lane,Marketing,Manager,MGR-MAR-4,Pune,2023-05-28,5.4,Remote
+EMP1762,Lisa Barnes,R&D,Software Engineer,MGR-R&D-2,Chennai,2023-03-06,6.2,Office
+EMP1763,Jesse Mccormick,Engineering,Senior Engineer,MGR-ENG-1,Bangalore,2020-06-13,8.9,Remote
+EMP1764,Daniel Smith,Finance,Analyst,MGR-FIN-5,Mumbai,2023-11-01,3.2,Remote
+EMP1765,David Hanson,Engineering,Manager,MGR-ENG-3,Bangalore,2022-09-25,6.4,Hybrid
+EMP1766,Nicholas Cisneros,Sales,Manager,MGR-SAL-1,Mumbai,2023-07-31,5.2,Office
+EMP1767,Patrick Harris,Customer Support,Senior Engineer,MGR-CUS-5,Hyderabad,2018-12-11,8.3,Hybrid
+EMP1768,William Cox,Finance,Senior Engineer,MGR-FIN-5,Bangalore,2021-10-20,4.9,Hybrid
+EMP1769,Alvin Wilson,Sales,Software Engineer,MGR-SAL-5,Pune,2024-03-17,3.1,Remote
+EMP1770,Cory Willis,Marketing,Analyst,MGR-MAR-5,Pune,2019-04-29,9.9,Office
+EMP1771,Amanda Johnson,Marketing,Team Lead,MGR-MAR-5,Bangalore,2024-08-19,3.8,Hybrid
+EMP1772,Christopher Mcclure,Legal,Analyst,MGR-LEG-1,Ahmedabad,2018-07-27,10.1,Office
+EMP1773,Gina Spencer,R&D,Software Engineer,MGR-R&D-4,Mumbai,2022-11-20,4.4,Office
+EMP1774,Alex Cameron,Data Science,Senior Engineer,MGR-DAT-4,Chennai,2025-11-19,2.8,Office
+EMP1775,Alisha Byrd,Legal,Senior Engineer,MGR-LEG-1,Hyderabad,2021-10-01,4.9,Hybrid
+EMP1776,Richard Rodriguez,Sales,Software Engineer,MGR-SAL-4,Jaipur,2025-12-07,1.7,Office
+EMP1777,Elizabeth Allen,Customer Support,Senior Engineer,MGR-CUS-3,Delhi NCR,2025-06-26,2.9,Office
+EMP1778,Mary Pugh,Marketing,Senior Analyst,MGR-MAR-3,Hyderabad,2022-04-23,4.7,Remote
+EMP1779,Yolanda Keith,AI,Associate,MGR-AI-1,Hyderabad,2020-02-09,8.9,Office
+EMP1780,Ana Thomas,R&D,Team Lead,MGR-R&D-3,Ahmedabad,2026-02-28,1.1,Hybrid
+EMP1781,Rebecca Lee,Engineering,Senior Engineer,MGR-ENG-1,Bangalore,2021-01-26,7.4,Office
+EMP1782,James Greene,R&D,Software Engineer,MGR-R&D-3,Mumbai,2023-08-23,4.1,Office
+EMP1783,Dana Williams,Marketing,Associate,MGR-MAR-2,Pune,2025-09-19,2.6,Hybrid
+EMP1784,Chelsea Nichols,IT Operations,Software Engineer,MGR-IT -1,Delhi NCR,2019-03-28,7.6,Remote
+EMP1785,Erin Brown,IT Operations,Principal Engineer,MGR-IT -5,Delhi NCR,2023-01-28,3.5,Office
+EMP1786,Shelley York,R&D,Team Lead,MGR-R&D-3,Pune,2022-10-07,6.5,Hybrid
+EMP1787,Stacey Clark,IT Operations,Senior Engineer,MGR-IT -2,Hyderabad,2024-04-03,3.1,Office
+EMP1788,John Alvarado,IT Operations,Associate,MGR-IT -1,Bangalore,2025-12-11,3.0,Office
+EMP1789,Jordan Potter,Engineering,Software Engineer,MGR-ENG-3,Pune,2025-10-05,3.8,Office
+EMP1790,Katrina Jimenez,Finance,Team Lead,MGR-FIN-5,Nagpur,2019-12-01,7.2,Office
+EMP1791,Frank Brooks,Engineering,Team Lead,MGR-ENG-3,Pune,2025-07-07,1.8,Office
+EMP1792,Michelle Simpson,Customer Support,Software Engineer,MGR-CUS-2,Pune,2019-12-03,8.6,Office
+EMP1793,James Morse,Finance,Senior Engineer,MGR-FIN-4,Hyderabad,2025-10-23,3.6,Office
+EMP1794,Amanda Robinson,Customer Support,Manager,MGR-CUS-4,Chennai,2026-06-04,2.9,Office
+EMP1795,Scott Foster,Engineering,Analyst,MGR-ENG-2,Pune,2021-09-03,6.4,Office
+EMP1796,Stephen Duncan,Engineering,Software Engineer,MGR-ENG-2,Hyderabad,2022-06-14,6.5,Hybrid
+EMP1797,Jacqueline Pierce,Customer Support,Associate,MGR-CUS-1,Bangalore,2025-12-11,1.0,Remote
+EMP1798,Bradley Wallace,Engineering,Software Engineer,MGR-ENG-4,Pune,2026-02-23,3.3,Hybrid
+EMP1799,Kevin Marshall,Engineering,Software Engineer,MGR-ENG-1,Pune,2025-11-11,3.6,Office
+EMP1800,Jessica Mcdonald,Engineering,Software Engineer,MGR-ENG-3,Hyderabad,2025-06-21,1.6,Remote
+EMP1801,Robert Stewart,Data Science,Software Engineer,MGR-DAT-2,Mumbai,2018-08-08,8.8,Hybrid
+EMP1802,Christopher Hall,Customer Support,Software Engineer,MGR-CUS-1,Jaipur,2023-01-10,3.8,Office
+EMP1803,Heather Miller,Sales,Director,MGR-SAL-2,Delhi NCR,2019-05-19,8.0,Office
+EMP1804,Kayla Schneider,Sales,Senior Engineer,MGR-SAL-1,Nagpur,2026-04-24,2.7,Hybrid
+EMP1805,Tammy Garcia,Sales,Software Engineer,MGR-SAL-3,Mumbai,2020-10-12,6.9,Hybrid
+EMP1806,Andrew Gonzalez,Legal,Software Engineer,MGR-LEG-3,Jaipur,2026-05-12,0.4,Hybrid
+EMP1807,Gary Turner,IT Operations,Analyst,MGR-IT -5,Bangalore,2022-10-31,4.7,Hybrid
+EMP1808,Melinda Hill,AI,Senior Analyst,MGR-AI-4,Mumbai,2022-06-10,7.0,Hybrid
+EMP1809,Yolanda Murillo,AI,Software Engineer,MGR-AI-5,Pune,2025-12-17,2.5,Remote
+EMP1810,Nancy Gaines,Engineering,Software Engineer,MGR-ENG-4,Pune,2025-04-08,2.5,Office
+EMP1811,Elijah Short,IT Operations,Software Engineer,MGR-IT -3,Chennai,2022-03-27,4.8,Office
+EMP1812,Jennifer Sullivan,Legal,Software Engineer,MGR-LEG-1,Bangalore,2020-01-21,9.4,Hybrid
+EMP1813,Mary Kennedy,AI,Software Engineer,MGR-AI-2,Mumbai,2019-06-03,9.6,Office
+EMP1814,Paige Hernandez,Engineering,Senior Engineer,MGR-ENG-3,Hyderabad,2019-10-25,7.6,Hybrid
+EMP1815,Darrell Curry,Engineering,Software Engineer,MGR-ENG-3,Mumbai,2022-03-01,4.6,Remote
+EMP1816,Jose Hartman,Data Science,Team Lead,MGR-DAT-1,Hyderabad,2020-07-26,6.1,Hybrid
+EMP1817,Miranda Murray,Sales,Software Engineer,MGR-SAL-3,Mumbai,2020-01-02,6.9,Hybrid
+EMP1818,Emily Lopez,Legal,Principal Engineer,MGR-LEG-3,Delhi NCR,2024-05-12,3.9,Office
+EMP1819,Melissa Clark,IT Operations,Associate,MGR-IT -1,Delhi NCR,2024-10-15,4.5,Office
+EMP1820,Justin Brooks,Sales,Team Lead,MGR-SAL-3,Bangalore,2023-01-10,5.0,Office
+EMP1821,Bethany Harding,AI,Senior Engineer,MGR-AI-4,Mumbai,2024-07-11,4.5,Hybrid
+EMP1822,Robert Flowers,Engineering,Senior Engineer,MGR-ENG-4,Mumbai,2019-12-02,7.9,Hybrid
+EMP1823,Jason Jennings,IT Operations,Senior Engineer,MGR-IT -4,Delhi NCR,2025-04-22,3.3,Hybrid
+EMP1824,Richard Medina,Legal,Analyst,MGR-LEG-4,Mumbai,2025-08-19,3.1,Office
+EMP1825,Alexander Floyd,IT Operations,Senior Engineer,MGR-IT -3,Pune,2025-01-28,2.0,Office
+EMP1826,Brittany Cisneros,Finance,Senior Analyst,MGR-FIN-2,Pune,2022-08-11,5.0,Hybrid
+EMP1827,Mark Morrison,Engineering,Principal Engineer,MGR-ENG-4,Bangalore,2019-03-20,9.2,Office
+EMP1828,Sharon Baird,Data Science,Senior Engineer,MGR-DAT-4,Bangalore,2023-10-30,2.9,Office
+EMP1829,James Ferguson,Procurement,Team Lead,MGR-PRO-3,Kolkata,2019-12-29,7.6,Hybrid
+EMP1830,Brian Hudson,Sales,Software Engineer,MGR-SAL-5,Mumbai,2019-08-23,8.5,Hybrid
+EMP1831,Steven Davis,Data Science,Software Engineer,MGR-DAT-3,Bangalore,2021-02-02,8.4,Office
+EMP1832,Juan Johnson,IT Operations,Senior Engineer,MGR-IT -1,Delhi NCR,2020-06-29,7.5,Hybrid
+EMP1833,Katherine Lopez,HR,Software Engineer,MGR-HR-4,Delhi NCR,2020-08-05,8.4,Office
+EMP1834,Victor Campbell,Customer Support,Associate,MGR-CUS-1,Bangalore,2020-05-24,7.4,Remote
+EMP1835,Matthew Jones,Procurement,Software Engineer,MGR-PRO-4,Bangalore,2024-06-30,4.4,Office
+EMP1836,Joseph Jackson,IT Operations,Senior Engineer,MGR-IT -5,Mumbai,2026-01-31,2.2,Office
+EMP1837,Jennifer Moore,Engineering,Manager,MGR-ENG-2,Jaipur,2020-12-02,8.3,Hybrid
+EMP1838,Joshua Mendoza,Sales,Analyst,MGR-SAL-5,Pune,2024-04-02,3.5,Office
+EMP1839,Troy Glenn,R&D,Senior Engineer,MGR-R&D-3,Jaipur,2018-08-15,9.7,Hybrid
+EMP1840,Daniel Reynolds,AI,Associate,MGR-AI-3,Chennai,2023-09-15,4.7,Hybrid
+EMP1841,Karen Munoz,Sales,Team Lead,MGR-SAL-1,Bangalore,2024-01-06,3.8,Hybrid
+EMP1842,Laurie Shaw,Marketing,Senior Engineer,MGR-MAR-1,Pune,2019-01-08,7.9,Remote
+EMP1843,Desiree Smith,Marketing,Software Engineer,MGR-MAR-3,Bangalore,2019-06-19,7.3,Office
+EMP1844,Austin Ross,IT Operations,Senior Engineer,MGR-IT -3,Bangalore,2020-12-16,5.6,Hybrid
+EMP1845,Kelly Kent,Data Science,Senior Analyst,MGR-DAT-3,Pune,2021-09-27,7.4,Office
+EMP1846,Julia Johnston,AI,Manager,MGR-AI-4,Hyderabad,2022-07-05,4.7,Office
+EMP1847,Donna Ibarra,Engineering,Senior Analyst,MGR-ENG-5,Nagpur,2025-08-13,1.5,Hybrid
+EMP1848,Michael Dawson,AI,Team Lead,MGR-AI-4,Hyderabad,2024-02-06,4.6,Office
+EMP1849,Louis Patrick,R&D,Software Engineer,MGR-R&D-2,Chennai,2020-12-28,6.5,Hybrid
+EMP1850,David Yoder,IT Operations,Software Engineer,MGR-IT -4,Pune,2019-06-17,8.6,Office
+EMP1851,Judith Bartlett,Sales,Senior Engineer,MGR-SAL-3,Bangalore,2025-10-13,1.2,Hybrid
+EMP1852,Keith Long,Procurement,Analyst,MGR-PRO-4,Pune,2020-11-12,8.5,Remote
+EMP1853,Cynthia Harrell,R&D,Senior Analyst,MGR-R&D-1,Hyderabad,2023-05-25,5.7,Office
+EMP1854,Mark Carter,R&D,Senior Engineer,MGR-R&D-3,Jaipur,2020-04-06,8.9,Hybrid
+EMP1855,Melissa Bowen,R&D,Team Lead,MGR-R&D-5,Chennai,2019-08-03,8.2,Hybrid
+EMP1856,Johnny Riddle,AI,Senior Engineer,MGR-AI-4,Pune,2019-09-29,9.1,Office
+EMP1857,Whitney Jones,Customer Support,Senior Engineer,MGR-CUS-3,Mumbai,2024-06-13,2.5,Office
+EMP1858,Randall Nguyen,Marketing,Software Engineer,MGR-MAR-1,Bangalore,2023-04-29,3.2,Hybrid
+EMP1859,David Hunter,R&D,Software Engineer,MGR-R&D-1,Bangalore,2021-10-27,4.8,Office
+EMP1860,Benjamin Neal,Customer Support,Software Engineer,MGR-CUS-4,Kolkata,2022-11-17,5.4,Office
+EMP1861,Jane Reese,Legal,Software Engineer,MGR-LEG-3,Delhi NCR,2022-04-04,5.6,Hybrid
+EMP1862,Jennifer Smith,IT Operations,Software Engineer,MGR-IT -5,Hyderabad,2022-10-14,5.3,Office
+EMP1863,Thomas Murphy,AI,Software Engineer,MGR-AI-2,Mumbai,2023-10-15,2.8,Remote
+EMP1864,Kari Jones,HR,Manager,MGR-HR-1,Mumbai,2020-04-04,7.5,Hybrid
+EMP1865,Dana Dodson,Data Science,Senior Engineer,MGR-DAT-2,Pune,2020-06-27,8.2,Hybrid
+EMP1866,Robert Skinner,Data Science,Director,MGR-DAT-5,Mumbai,2024-07-03,3.4,Office
+EMP1867,Albert Garcia,Engineering,Software Engineer,MGR-ENG-4,Bangalore,2025-06-11,3.3,Office
+EMP1868,Joseph Myers,AI,Senior Engineer,MGR-AI-1,Chennai,2019-03-06,8.1,Office
+EMP1869,Phillip Byrd,Engineering,Senior Engineer,MGR-ENG-2,Hyderabad,2022-01-24,6.9,Remote
+EMP1870,Hunter Robinson,Customer Support,Software Engineer,MGR-CUS-1,Pune,2024-02-07,4.2,Office
+EMP1871,Michael Robinson,Procurement,Senior Analyst,MGR-PRO-2,Bangalore,2019-02-23,8.0,Office
+EMP1872,Sara Cain,AI,Software Engineer,MGR-AI-3,Pune,2022-12-30,4.2,Office
+EMP1873,Michelle Prince,Finance,Principal Engineer,MGR-FIN-3,Pune,2019-01-07,9.4,Office
+EMP1874,Eric Williams,R&D,Associate,MGR-R&D-4,Delhi NCR,2022-11-12,6.2,Office
+EMP1875,Raymond Wang,Customer Support,Team Lead,MGR-CUS-5,Pune,2022-07-13,5.2,Hybrid
+EMP1876,Jade Allen,HR,Team Lead,MGR-HR-1,Bangalore,2023-01-24,4.2,Office
+EMP1877,Javier Hays,IT Operations,Manager,MGR-IT -5,Pune,2019-09-19,9.4,Office
+EMP1878,Corey Caldwell,Finance,Senior Engineer,MGR-FIN-2,Kolkata,2021-02-15,7.4,Office
+EMP1879,Stephen Robles,Sales,Manager,MGR-SAL-4,Bangalore,2022-08-25,5.2,Hybrid
+EMP1880,Carol Jackson,HR,Software Engineer,MGR-HR-3,Mumbai,2019-06-14,8.5,Hybrid
+EMP1881,Brian Murphy,Customer Support,Software Engineer,MGR-CUS-3,Bangalore,2020-02-27,7.0,Office
+EMP1882,Chelsey Clark,R&D,Senior Engineer,MGR-R&D-4,Chennai,2023-02-23,5.3,Hybrid
+EMP1883,Teresa Martinez,IT Operations,Team Lead,MGR-IT -1,Jaipur,2019-04-02,8.4,Office
+EMP1884,Howard Thompson,Legal,Associate,MGR-LEG-5,Mumbai,2022-07-28,6.9,Remote
+EMP1885,Eugene Price,AI,Software Engineer,MGR-AI-2,Ahmedabad,2024-12-06,3.0,Office
+EMP1886,Austin Briggs,Marketing,Senior Analyst,MGR-MAR-5,Jaipur,2022-02-13,5.9,Hybrid
+EMP1887,Jackie Jones,Engineering,Software Engineer,MGR-ENG-3,Ahmedabad,2022-08-05,5.6,Hybrid
+EMP1888,Eric George,AI,Senior Engineer,MGR-AI-4,Hyderabad,2022-02-23,7.1,Hybrid
+EMP1889,Mrs. Kimberly Mooney,Customer Support,Senior Engineer,MGR-CUS-3,Hyderabad,2018-12-26,9.9,Office
+EMP1890,Carolyn Haley,Data Science,Senior Engineer,MGR-DAT-3,Bangalore,2022-03-11,5.7,Office
+EMP1891,Vicki Horton,Engineering,Software Engineer,MGR-ENG-2,Delhi NCR,2024-12-01,3.8,Hybrid
+EMP1892,Valerie Benson,Marketing,Team Lead,MGR-MAR-1,Bangalore,2024-04-03,4.0,Office
+EMP1893,Mark Henson,Procurement,Senior Analyst,MGR-PRO-1,Chennai,2021-08-31,6.3,Hybrid
+EMP1894,Samuel Olson,AI,Senior Engineer,MGR-AI-2,Bangalore,2024-12-29,2.1,Hybrid
+EMP1895,Lee Richards,HR,Team Lead,MGR-HR-4,Chennai,2024-06-07,3.5,Hybrid
+EMP1896,Martin Hall,Customer Support,Senior Analyst,MGR-CUS-5,Delhi NCR,2023-02-09,4.2,Office
+EMP1897,Virginia Hall,IT Operations,Analyst,MGR-IT -4,Pune,2018-11-20,10.4,Hybrid
+EMP1898,Stephanie Parker,AI,Team Lead,MGR-AI-5,Kolkata,2021-04-04,6.3,Hybrid
+EMP1899,Nicole Harvey,Sales,Software Engineer,MGR-SAL-1,Bangalore,2019-01-13,10.4,Hybrid
+EMP1900,James Phillips,Legal,Associate,MGR-LEG-3,Kolkata,2026-05-27,1.7,Office
+EMP1901,Dan Johnson,HR,Team Lead,MGR-HR-3,Bangalore,2025-12-05,2.5,Office
+EMP1902,Linda Bautista,Engineering,Software Engineer,MGR-ENG-4,Mumbai,2019-01-28,9.1,Office
+EMP1903,Erin Ramirez,Legal,Software Engineer,MGR-LEG-2,Ahmedabad,2025-12-03,1.0,Office
+EMP1904,Paige Meyer,Engineering,Senior Analyst,MGR-ENG-5,Mumbai,2018-10-12,8.9,Hybrid
+EMP1905,Maria Roberts,Customer Support,Software Engineer,MGR-CUS-3,Kolkata,2021-10-07,5.1,Remote
+EMP1906,Ryan Rivera,AI,VP,MGR-AI-4,Bangalore,2024-08-13,3.8,Office
+EMP1907,Joshua Knox,Data Science,Software Engineer,MGR-DAT-2,Bangalore,2024-08-04,3.3,Hybrid
+EMP1908,Danielle Mcdaniel,Sales,Senior Analyst,MGR-SAL-1,Mumbai,2026-04-11,2.6,Office
+EMP1909,Lisa James,Sales,Senior Engineer,MGR-SAL-2,Hyderabad,2023-08-23,3.5,Office
+EMP1910,Jeremy Smith,Engineering,Team Lead,MGR-ENG-1,Mumbai,2021-11-09,5.2,Office
+EMP1911,Andrea Lee,Sales,Associate,MGR-SAL-4,Pune,2026-05-23,1.4,Office
+EMP1912,Brenda Harris,R&D,Senior Engineer,MGR-R&D-2,Mumbai,2021-07-23,7.8,Remote
+EMP1913,Kevin Guerra,Data Science,Team Lead,MGR-DAT-4,Pune,2025-05-31,3.2,Office
+EMP1914,Cynthia Miller,Sales,Software Engineer,MGR-SAL-1,Nagpur,2025-09-16,2.1,Hybrid
+EMP1915,Emily Griffith,Marketing,Software Engineer,MGR-MAR-3,Jaipur,2021-07-03,6.6,Office
+EMP1916,Christopher Wright,Customer Support,Software Engineer,MGR-CUS-3,Bangalore,2023-12-08,2.8,Remote
+EMP1917,Jerome Reid,R&D,Analyst,MGR-R&D-1,Chennai,2023-10-08,5.7,Office
+EMP1918,Richard Miller,IT Operations,Software Engineer,MGR-IT -5,Mumbai,2022-10-19,5.7,Office
+EMP1919,Jennifer Jackson,Marketing,Software Engineer,MGR-MAR-5,Chennai,2023-09-15,3.7,Office
+EMP1920,Jonathan Moss,Marketing,Senior Engineer,MGR-MAR-3,Delhi NCR,2021-04-13,7.0,Office
+EMP1921,Sally Leon,Customer Support,Manager,MGR-CUS-3,Jaipur,2019-12-11,6.9,Office
+EMP1922,James Dickerson,Engineering,Analyst,MGR-ENG-2,Bangalore,2022-10-13,6.6,Hybrid
+EMP1923,Tammy Larson,IT Operations,Software Engineer,MGR-IT -2,Delhi NCR,2022-09-19,4.3,Hybrid
+EMP1924,Nicholas Scott,Sales,Software Engineer,MGR-SAL-3,Mumbai,2024-04-16,4.2,Hybrid
+EMP1925,Jesse Brooks,Procurement,Principal Engineer,MGR-PRO-5,Nagpur,2020-04-17,7.0,Office
+EMP1926,Andrea Taylor,Engineering,Software Engineer,MGR-ENG-2,Pune,2018-07-23,10.1,Office
+EMP1927,Christopher Lopez,HR,Senior Analyst,MGR-HR-1,Hyderabad,2018-09-16,10.2,Office
+EMP1928,Jonathan Swanson,Finance,Associate,MGR-FIN-2,Hyderabad,2020-11-21,7.7,Remote
+EMP1929,Timothy Bentley DVM,IT Operations,Analyst,MGR-IT -2,Chennai,2023-11-11,4.5,Hybrid
+EMP1930,John Davidson,Engineering,Software Engineer,MGR-ENG-2,Pune,2022-11-03,6.4,Hybrid
+EMP1931,Jennifer Williams,HR,Senior Analyst,MGR-HR-4,Jaipur,2022-09-28,4.0,Hybrid
+EMP1932,Janice Cunningham,HR,Analyst,MGR-HR-1,Pune,2025-01-18,2.5,Office
+EMP1933,Jeffrey Scott,HR,Team Lead,MGR-HR-3,Hyderabad,2020-06-27,6.8,Office
+EMP1934,Miranda Hicks,IT Operations,Senior Engineer,MGR-IT -5,Mumbai,2021-04-09,8.2,Office
+EMP1935,Michael Horton DDS,IT Operations,Software Engineer,MGR-IT -5,Mumbai,2020-09-17,7.0,Office
+EMP1936,Nancy Allen,Procurement,Software Engineer,MGR-PRO-3,Bangalore,2025-12-13,2.8,Office
+EMP1937,Robert Mccoy,AI,Team Lead,MGR-AI-4,Bangalore,2024-04-08,4.3,Office
+EMP1938,Melissa Brewer,Procurement,Team Lead,MGR-PRO-5,Pune,2019-06-04,7.7,Hybrid
+EMP1939,Jesus Becker,Finance,Senior Engineer,MGR-FIN-2,Pune,2024-12-09,2.3,Hybrid
+EMP1940,Lance Lynn,Engineering,Senior Engineer,MGR-ENG-5,Bangalore,2021-11-06,5.5,Hybrid
+EMP1941,Alexandria Wise,Engineering,Senior Engineer,MGR-ENG-1,Delhi NCR,2024-08-05,3.2,Remote
+EMP1942,Sydney Sanders,Sales,Manager,MGR-SAL-1,Ahmedabad,2025-07-11,1.7,Office
+EMP1943,Stephanie Stone,Legal,Associate,MGR-LEG-3,Pune,2018-08-27,7.9,Office
+EMP1944,Jay Gallegos,Customer Support,Software Engineer,MGR-CUS-4,Bangalore,2020-02-28,9.0,Hybrid
+EMP1945,Eric Ponce,Legal,Senior Engineer,MGR-LEG-4,Pune,2019-04-30,10.1,Office
+EMP1946,Janet Parker,Finance,Software Engineer,MGR-FIN-5,Pune,2018-10-18,8.8,Office
+EMP1947,Shawn Luna,Marketing,Manager,MGR-MAR-4,Chennai,2023-04-06,4.3,Office
+EMP1948,Mark Frank,Engineering,Analyst,MGR-ENG-4,Hyderabad,2024-02-05,2.5,Office
+EMP1949,Charles Goodman,Sales,Associate,MGR-SAL-5,Pune,2018-11-30,9.7,Office
+EMP1950,Jennifer Parker,Marketing,Software Engineer,MGR-MAR-1,Mumbai,2024-05-23,4.6,Office
+EMP1951,Dr. April Jones,Engineering,Principal Engineer,MGR-ENG-2,Pune,2021-09-18,5.3,Office
+EMP1952,Kelly Pena,AI,Software Engineer,MGR-AI-3,Kolkata,2020-05-20,6.6,Hybrid
+EMP1953,Carolyn Brooks,IT Operations,Manager,MGR-IT -1,Nagpur,2020-04-01,8.7,Office
+EMP1954,Christina White,Customer Support,Software Engineer,MGR-CUS-4,Pune,2025-05-14,3.0,Office
+EMP1955,Joanne Olsen,Data Science,Associate,MGR-DAT-4,Mumbai,2018-12-23,7.7,Office
+EMP1956,Anthony White,Data Science,Team Lead,MGR-DAT-5,Kolkata,2022-07-09,5.9,Office
+EMP1957,Deanna Barrera,IT Operations,Manager,MGR-IT -3,Ahmedabad,2020-10-26,6.6,Hybrid
+EMP1958,Mark Weber,Marketing,Senior Analyst,MGR-MAR-2,Bangalore,2024-12-27,2.6,Hybrid
+EMP1959,Carol Carter,IT Operations,Software Engineer,MGR-IT -5,Pune,2024-04-27,4.5,Hybrid
+EMP1960,Donald Peterson,Legal,Software Engineer,MGR-LEG-5,Pune,2021-01-20,7.9,Office
+EMP1961,Karen Chambers,Engineering,Associate,MGR-ENG-2,Hyderabad,2023-04-07,4.5,Hybrid
+EMP1962,Antonio Walton,Marketing,Senior Engineer,MGR-MAR-2,Bangalore,2023-11-08,5.5,Hybrid
+EMP1963,Kevin Huerta,R&D,Software Engineer,MGR-R&D-4,Pune,2021-01-25,6.7,Office
+EMP1964,Joseph Smith,Sales,Senior Engineer,MGR-SAL-5,Hyderabad,2020-12-01,7.9,Office
+EMP1965,Victoria Juarez,HR,Team Lead,MGR-HR-1,Pune,2019-08-31,8.3,Office
+EMP1966,Kara Rogers,HR,Software Engineer,MGR-HR-1,Delhi NCR,2023-10-04,5.5,Hybrid
+EMP1967,Jacob Wu,AI,Software Engineer,MGR-AI-5,Mumbai,2020-04-12,9.0,Hybrid
+EMP1968,Dr. Teresa Ortega MD,Sales,Software Engineer,MGR-SAL-2,Pune,2020-11-28,5.9,Office
+EMP1969,Henry Rivera,Sales,Senior Engineer,MGR-SAL-3,Hyderabad,2019-01-05,10.3,Hybrid
+EMP1970,Jesus Hale,Engineering,Associate,MGR-ENG-2,Bangalore,2026-01-15,3.0,Office
+EMP1971,Stacy Taylor,Engineering,Director,MGR-ENG-2,Nagpur,2025-06-30,3.4,Office
+EMP1972,Sheila Ramirez,R&D,Manager,MGR-R&D-3,Bangalore,2025-09-30,1.4,Remote
+EMP1973,Robin Richardson,Sales,Software Engineer,MGR-SAL-2,Mumbai,2023-06-27,5.5,Remote
+EMP1974,Mary Alvarez,Finance,Associate,MGR-FIN-3,Chennai,2021-11-29,7.2,Office
+EMP1975,Cole Andersen,Sales,Team Lead,MGR-SAL-5,Mumbai,2022-06-15,4.9,Office
+EMP1976,Robin Smith,Data Science,Software Engineer,MGR-DAT-3,Ahmedabad,2026-03-24,3.2,Office
+EMP1977,Angel Aguirre,AI,Associate,MGR-AI-1,Mumbai,2025-12-26,0.7,Office
+EMP1978,Jeremy Lawson,Marketing,Analyst,MGR-MAR-3,Bangalore,2023-11-05,3.1,Hybrid
+EMP1979,Lonnie Miller,R&D,Analyst,MGR-R&D-2,Pune,2024-10-01,3.4,Remote
+EMP1980,Timothy Galvan,R&D,Analyst,MGR-R&D-5,Bangalore,2021-01-19,7.2,Hybrid
+EMP1981,Dr. Susan Navarro,AI,Software Engineer,MGR-AI-3,Kolkata,2021-10-29,6.6,Office
+EMP1982,Cory Thomas,Procurement,Software Engineer,MGR-PRO-2,Delhi NCR,2019-09-17,6.9,Hybrid
+EMP1983,Laura Vincent,Marketing,Analyst,MGR-MAR-3,Mumbai,2021-07-05,7.9,Office
+EMP1984,Bethany Robles,Finance,Software Engineer,MGR-FIN-5,Mumbai,2024-07-02,2.2,Remote
+EMP1985,Michael Dunn,Engineering,Senior Engineer,MGR-ENG-5,Delhi NCR,2022-04-12,4.7,Hybrid
+EMP1986,Carol Griffin,Engineering,Senior Analyst,MGR-ENG-1,Jaipur,2025-04-03,1.3,Hybrid
+EMP1987,Matthew Allen,Customer Support,Senior Analyst,MGR-CUS-5,Pune,2020-11-28,7.3,Office
+EMP1988,Paul Keller,Finance,Senior Engineer,MGR-FIN-2,Bangalore,2024-02-18,5.2,Office
+EMP1989,Jeffrey Baldwin,Marketing,Senior Analyst,MGR-MAR-5,Mumbai,2024-11-28,3.6,Office
+EMP1990,Timothy Orr,Customer Support,Senior Analyst,MGR-CUS-5,Kolkata,2025-10-09,3.2,Hybrid
+EMP1991,Connie Scott,Legal,Manager,MGR-LEG-2,Pune,2022-12-25,3.6,Office
+EMP1992,Steven Martinez,Engineering,Software Engineer,MGR-ENG-2,Pune,2026-03-11,2.0,Office
+EMP1993,Joseph Swanson,IT Operations,Software Engineer,MGR-IT -5,Delhi NCR,2022-12-10,5.0,Office
+EMP1994,Michael Wiggins,Engineering,Senior Engineer,MGR-ENG-5,Pune,2019-08-04,8.4,Hybrid
+EMP1995,Pamela Burke,Customer Support,Software Engineer,MGR-CUS-3,Bangalore,2020-06-14,6.3,Office
+EMP1996,Jamie Love,IT Operations,Software Engineer,MGR-IT -5,Bangalore,2020-02-21,8.4,Hybrid
+EMP1997,Jane May,Data Science,Software Engineer,MGR-DAT-1,Mumbai,2023-08-26,4.4,Hybrid
+EMP1998,Savannah Stokes,Engineering,Senior Engineer,MGR-ENG-1,Bangalore,2025-10-31,3.0,Remote
+EMP1999,Brian Miller,Engineering,Associate,MGR-ENG-1,Bangalore,2025-03-27,2.8,Office
+EMP2000,Patrick Pineda,Sales,Software Engineer,MGR-SAL-1,Pune,2019-04-06,7.7,Office
